@@ -1,11 +1,11 @@
 {
-  "name": "gorman-trees",
+  "name": "rg-trees",
   "version": "1.0.1",
   "treebank-template": {
     "version": "3.0.2"
   },
   "private": true,
-  "homepage": "https://perseids-publications.github.io/gorman-trees/",
+  "homepage": "https://rgorman.github.io/rg-trees/",
   "dependencies": {
     "@primer/octicons-react": "^9.6.0",
     "alpheios-messaging": "https://github.com/alpheios-project/alpheios-messaging",
