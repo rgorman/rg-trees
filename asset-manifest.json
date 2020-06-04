@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rg-trees/static/css/main.bd98509e.chunk.css",
+    "main.js": "/rg-trees/static/js/main.48981d73.chunk.js",
+    "main.js.map": "/rg-trees/static/js/main.48981d73.chunk.js.map",
+    "runtime-main.js": "/rg-trees/static/js/runtime-main.77e1b2d9.js",
+    "runtime-main.js.map": "/rg-trees/static/js/runtime-main.77e1b2d9.js.map",
+    "static/css/2.354f031a.chunk.css": "/rg-trees/static/css/2.354f031a.chunk.css",
+    "static/js/2.27d086fa.chunk.js": "/rg-trees/static/js/2.27d086fa.chunk.js",
+    "static/js/2.27d086fa.chunk.js.map": "/rg-trees/static/js/2.27d086fa.chunk.js.map",
+    "index.html": "/rg-trees/index.html",
+    "precache-manifest.34da9ecfa339d8422f54fc0a9ff4498c.js": "/rg-trees/precache-manifest.34da9ecfa339d8422f54fc0a9ff4498c.js",
+    "service-worker.js": "/rg-trees/service-worker.js",
+    "static/css/2.354f031a.chunk.css.map": "/rg-trees/static/css/2.354f031a.chunk.css.map",
+    "static/css/main.bd98509e.chunk.css.map": "/rg-trees/static/css/main.bd98509e.chunk.css.map",
+    "static/js/2.27d086fa.chunk.js.LICENSE.txt": "/rg-trees/static/js/2.27d086fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77e1b2d9.js",
+    "static/css/2.354f031a.chunk.css",
+    "static/js/2.27d086fa.chunk.js",
+    "static/css/main.bd98509e.chunk.css",
+    "static/js/main.48981d73.chunk.js"
+  ]
+}
