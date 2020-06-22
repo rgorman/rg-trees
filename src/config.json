@@ -54,6 +54,23 @@
           ]
         },
         {
+          "path": "lesson_1",
+          "author": "Caesar",
+          "work": "Bellum Gallicum",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-11",
+              "path": "lesson_1",
+              "xml": "Latin-301/lesson_1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 11
+              }
+            }
+          ]
+        },
+         {
           "path": "antiphon-against-the-stepmother-for-poisoning",
           "author": "Antiphon",
           "work": "1. Against the Stepmother for Poisoning",
