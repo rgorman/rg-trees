@@ -200,7 +200,7 @@
    </sentence>
    
    <sentence id="12">
-      <word id="1" form="quod" lemma="quod" postag="c--------" relation="AuxC" head="0"/>
+      <word id="1" form="[[quod]]" lemma="quod" postag="c--------" relation="AuxC" head="0"/>
       <word id="2" form="omnis" lemma="omnis" postag="a-s---fn-" relation="ATR" head="3"/>
       <word id="3" form="Gallia" lemma="Gallia" postag="n-s---fn-" relation="SBJ" head="6"/>
       <word id="4" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="6"/>
@@ -209,7 +209,7 @@
    </sentence>
    
    <sentence id="13">
-      <word id="1" form="etsi" lemma="etsi" postag="c--------" relation="AuxC" head="0"/>
+      <word id="1" form="[[etsi]]" lemma="etsi" postag="c--------" relation="AuxC" head="0"/>
       <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="14"/>
       <word id="3" form="his" lemma="hic" postag="a-p---mb_" relation="ATR" head="4"/>
       <word id="4" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="2"/>
