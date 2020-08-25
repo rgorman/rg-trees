@@ -485,5 +485,14 @@
       <word id="10" form="arbitrabatur" lemma="arbitror" postag="v3siid---" relation="ADV_CO" head="4"/>
    </sentence>
    
+   <sentence id="36">
+      <word id="1" form="[SATELITE]" lemma="" postag="c--------" relation="AuxC" head="6"/>
+      <word id="2" form="tamen" lemma="tamen" postag="d--------" relation="AuxZ" head="6"/>
+      <word id="3" form="magno" lemma="magnus" postag="a-s---md-" relation="ATR" head="5"/>
+      <word id="4" form="sibi" lemma="sui" postag="p-s---md-" relation="ADV" head="6"/>
+      <word id="5" form="usui" lemma="usus2" postag="n-s---md-" relation="PNOM" head="6"/>
+      <word id="6" form="fore" lemma="sum1" postag="v--fna---" relation="OBJ" head="7"/>
+      <word id="7" form="arbitrabatur" lemma="arbitror" postag="v3siid---" relation="ADV_CO" head="0"/>
+   </sentence>
    
 </treebank>
