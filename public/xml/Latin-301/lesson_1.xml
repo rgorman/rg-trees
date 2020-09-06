@@ -715,5 +715,127 @@
    </sentence>
    
    
+   <sentence id="48">
+      <word id="1" form="quae" lemma="qui2" postag="p-p---nn-" relation="SBJ" head="5"/>
+      <word id="2" form="omnia" lemma="omnis" postag="a-p---nn-" relation="ATR" head="1"/>
+      <word id="3" form="fere" lemma="fere" postag="d--------" relation="AuxZ" head="2"/>
+      <word id="4" form="Gallis" lemma="Gallus" postag="n-p---md-" relation="ADV" head="6"/>
+      <word id="5" form="erant" lemma="sum1" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="6" form="incognita" lemma="incognitus" postag="a-s---fb-" relation="PNOM" head="5"/>
+   </sentence>
+   
+   
+   <sentence id="49">
+      <word id="1" form="quae" lemma="qui2" postag="p-p---nn-" relation="SBJ" head="4"/>
+      <word id="2" form="[ATR]" lemma="" postag="a-p---nn-" relation="ATR" head="1"/>
+      <word id="3" form="[SATELLITE]" lemma="" postag="n-p---md-" relation="ADV" head="5"/>
+      <word id="4" form="erant" lemma="sum1" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="5" form="incognita" lemma="incognitus" postag="a-s---fb-" relation="PNOM" head="4"/>
+   </sentence>
+   
+   <sentence id="50">
+      <word id="1" form="quae" lemma="qui2" postag="p-p---nn-" relation="SBJ" head="4"/>
+      <word id="2" form="[ATR]" lemma="" postag="a-p---nn-" relation="ATR" head="1"/>
+      <word id="3" form="Gallis" lemma="Gallus" postag="n-p---md-" relation="ADV" head="5"/>
+      <word id="4" form="erant" lemma="sum1" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="5" form="incognita" lemma="incognitus" postag="a-s---fb-" relation="PNOM" head="4"/>
+   </sentence>
+   
+   <sentence id="51">
+      <word id="1" form="quae" lemma="qui2" postag="p-p---nn-" relation="SBJ" head="5"/>
+      <word id="2" form="omnia" lemma="omnis" postag="a-p---nn-" relation="ATR" head="1"/>
+      <word id="3" form="fere" lemma="fere" postag="d--------" relation="AuxZ" head="2"/>
+      <word id="4" form="Gallis" lemma="Gallus" postag="n-p---md-" relation="ADV" head="6"/>
+      <word id="5" form="erant" lemma="sum1" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="6" form="incognita" lemma="incognitus" postag="a-s---fb-" relation="PNOM" head="5"/>
+   </sentence>
+   
+   <sentence id="52">
+      <word id="1" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="9"/>
+      <word id="2" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="12"/>
+      <word id="3" form="enim" lemma="enim" postag="d-------_" relation="AuxY" head="12"/>
+      <word id="4" form="temere" lemma="temere" postag="d--------" relation="ADV" head="8"/>
+      <word id="5" form="praeter" lemma="praeter" postag="r--------" relation="AuxP" head="9"/>
+      <word id="6" form="mercatores" lemma="mercator" postag="n-p---ma-" relation="ATR" head="5"/>
+      <word id="7" form="illo" lemma="illo" postag="d-------_" relation="OBJ" head="8"/>
+      <word id="8" form="adit" lemma="adeo1" postag="v3spia---" relation="PRED_CO" head="12"/>
+      <word id="9" form="quisquam" lemma="quisquam" postag="p-s---mn-" relation="SBJ" head="8"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="15"/>
+      <word id="12" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
+      <word id="13" form="his" lemma="hic" postag="p-p---md-" relation="OBJ" head="26"/>
+      <word id="14" form="ipsis" lemma="ipse" postag="a-p---md_" relation="ATR" head="13"/>
+      <word id="15" form="quicquam" lemma="quisquam" postag="p-s---nn-" relation="SBJ" head="27"/>
+      <word id="16" form="praeter" lemma="praeter" postag="r--------" relation="AuxP" head="15"/>
+      <word id="17" form="oram" lemma="ora1" postag="n-s---fa-" relation="ATR_CO" head="19"/>
+      <word id="18" form="maritimam" lemma="maritimus" postag="a-s---fa-" relation="ATR" head="17"/>
+      <word id="19" form="atque" lemma="atque" postag="c--------" relation="COORD" head="16"/>
+      <word id="20" form="eas" lemma="is" postag="a-p---fa_" relation="ATR" head="21"/>
+      <word id="21" form="regiones" lemma="regio" postag="n-p---fa-" relation="ATR_CO" head="19"/>
+      <word id="22" form="quae" lemma="qui2" postag="p-s---fn-" relation="SBJ" head="23"/>
+      <word id="23" form="sunt" lemma="sum1" postag="v3ppia---" relation="ATR" head="21"/>
+      <word id="24" form="contra" lemma="contra" postag="r--------" relation="AuxP" head="23"/>
+      <word id="25" form="Galliam" lemma="Gallia" postag="n-s---fa-" relation="PNOM" head="24"/>
+      <word id="26" form="notum" lemma="nosco" postag="v-srppnn-" relation="PNOM" head="27"/>
+      <word id="27" form="est" lemma="sum1" postag="v3spia---" relation="PRED_CO" head="12"/>
+      <word id="28" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   <sentence id="53">
+      <word id="1" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="9"/>
+      <word id="2" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="10"/>
+      <word id="3" form="enim" lemma="enim" postag="d-------_" relation="AuxY" head="10"/>
+      <word id="4" form="temere" lemma="temere" postag="d--------" relation="ADV" head="8"/>
+      <word id="5" form="praeter" lemma="praeter" postag="r--------" relation="AuxP" head="9"/>
+      <word id="6" form="mercatores" lemma="mercator" postag="n-p---ma-" relation="ATR" head="5"/>
+      <word id="7" form="illo" lemma="illo" postag="d-------_" relation="OBJ" head="8"/>
+      <word id="8" form="adit" lemma="adeo1" postag="v3spia---" relation="PRED_CO" head="10"/>
+      <word id="9" form="quisquam" lemma="quisquam" postag="p-s---mn-" relation="SBJ" head="8"/>
+      <word id="10" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
+      <word id="11" form="[KERNEL-2]" lemma="" postag="v3spia---" relation="PRED_CO" head="10"/>
+   </sentence>
+   
+   <sentence id="54">
+      <word id="1" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="8"/>
+      <word id="2" form="[SATELLITE]" lemma="-" postag="d-------_" relation="AuxY" head="9"/>
+      <word id="3" form="[SATELLITE]" lemma="" postag="d-------_" relation="AuxY" head="9"/>
+      <word id="4" form="[SATELLITE]" lemma="temere" postag="d--------" relation="ADV" head="7"/>
+      <word id="5" form="[ATR]" lemma="" postag="r--------" relation="AuxP" head="8"/>
+      <word id="6" form="illo" lemma="illo" postag="d-------_" relation="OBJ" head="7"/>
+      <word id="7" form="adit" lemma="adeo1" postag="v3spia---" relation="PRED_CO" head="9"/>
+      <word id="8" form="quisquam" lemma="quisquam" postag="p-s---mn-" relation="SBJ" head="7"/>
+      <word id="9" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
+      <word id="10" form="[KERNEL-2]" lemma="" postag="v3spia---" relation="PRED_CO" head="9"/>
+   </sentence>
+   
+   <sentence id="55">
+      <word id="1" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="9"/>     
+      <word id="2" form="[SATELLITE]" lemma="" postag="d-------_" relation="AuxY" head="10"/>
+      <word id="3" form="[SATELLITE]" lemma="" postag="d-------_" relation="AuxY" head="10"/>
+      <word id="4" form="[SATELLITE]" lemma="" postag="d--------" relation="ADV" head="8"/>
+      <word id="5" form="praeter" lemma="praeter" postag="r--------" relation="AuxP" head="9"/>
+      <word id="6" form="mercatores" lemma="mercator" postag="n-p---ma-" relation="ATR" head="5"/>
+      <word id="7" form="illo" lemma="illo" postag="d-------_" relation="OBJ" head="8"/>
+      <word id="8" form="adit" lemma="adeo1" postag="v3spia---" relation="PRED_CO" head="10"/>
+      <word id="9" form="quisquam" lemma="quisquam" postag="p-s---mn-" relation="SBJ" head="8"/>
+      <word id="10" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
+      <word id="11" form="est" lemma="sum1" postag="v3spia---" relation="PRED_CO" head="10"/>
+   </sentence>
+   
+   <sentence id="56">
+      <word id="1" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="9"/>
+      <word id="2" form="[SATELLITE]" lemma="" postag="d-------_" relation="AuxY" head="10"/>
+      <word id="3" form="[SATELLITE]" lemma="" postag="d-------_" relation="AuxY" head="10"/>
+      <word id="4" form="temere" lemma="temere" postag="d--------" relation="ADV" head="8"/>
+      <word id="5" form="praeter" lemma="praeter" postag="r--------" relation="AuxP" head="9"/>
+      <word id="6" form="mercatores" lemma="mercator" postag="n-p---ma-" relation="ATR" head="5"/>
+      <word id="7" form="illo" lemma="illo" postag="d-------_" relation="OBJ" head="8"/>
+      <word id="8" form="adit" lemma="adeo1" postag="v3spia---" relation="PRED_CO" head="10"/>
+      <word id="9" form="quisquam" lemma="quisquam" postag="p-s---mn-" relation="SBJ" head="8"/>
+      <word id="10" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
+      <word id="11" form="est" lemma="sum1" postag="v3spia---" relation="PRED_CO" head="10"/>
+   </sentence>
+   
+   
    
 </treebank>
