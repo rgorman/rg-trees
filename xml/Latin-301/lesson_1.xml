@@ -1662,7 +1662,118 @@
       <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    
+   <sentence id="121">
+      <word id="1" form="Ipse" lemma="ipse" postag="p-s---mn-" relation="SBJ" head="7"/>
+      <word id="2" form="cum" lemma="cum" postag="r--------" relation="AuxP" head="7"/>
+      <word id="3" form="omnibus" lemma="omnis" postag="a-p---fb-" relation="ATR" head="4"/>
+      <word id="4" form="copiis" lemma="copia1" postag="n-p---fb-" relation="ADV" head="2"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="AuxP" head="7"/>
+      <word id="6" form="Morinos" lemma="Morinus" postag="n-p---ma-" relation="OBJ" head="5"/>
+      <word id="7" form="proficiscitur" lemma="proficiscor" postag="v3spid---" relation="PRED" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="quod" lemma="quod" postag="c--------" relation="AuxC" head="7"/>
+      <word id="10" form="inde" lemma="inde" postag="d--------" relation="PNOM" head="11"/>
+      <word id="11" form="erat" lemma="sum1" postag="v3siia---" relation="ADV" head="9"/>
+      <word id="12" form="brevissimus" lemma="brevis" postag="a-s---mns" relation="ATR" head="15"/>
+      <word id="13" form="in" lemma="in" postag="r--------" relation="AuxP" head="15"/>
+      <word id="14" form="Britanniam" lemma="Britannia" postag="n-s---fa-" relation="ATR" head="13"/>
+      <word id="15" form="traiectus" lemma="trajectus2" postag="n-s---mn-" relation="SBJ" head="11"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
    
+   <sentence id="122">
+      <word id="1" form="[SBJ]" lemma="ipse" postag="p-s---mn-" relation="SBJ" head="4"/>
+      <word id="2" form="[SATELLITE]" lemma="cum" postag="r--------" relation="AuxP" head="4"/>
+      <word id="3" form="[OBJ]" lemma="in" postag="r--------" relation="AuxP" head="4"/>
+      <word id="4" form="proficiscitur" lemma="proficiscor" postag="v3spid---" relation="PRED" head="0"/>
+      <word id="5" form="[SATELLITE]" lemma="quod" postag="c--------" relation="AuxC" head="4"/>
+   </sentence>
+   
+   <sentence id="123">
+      <word id="1" form="Ipse" lemma="ipse" postag="p-s---mn-" relation="SBJ" head="5"/>
+      <word id="2" form="[SATELLITE]" lemma="cum" postag="r--------" relation="AuxP" head="5"/>
+      <word id="3" form="in" lemma="in" postag="r--------" relation="AuxP" head="5"/>
+      <word id="4" form="Morinos" lemma="Morinus" postag="n-p---ma-" relation="OBJ" head="3"/>
+      <word id="5" form="proficiscitur" lemma="proficiscor" postag="v3spid---" relation="PRED" head="0"/>
+      <word id="6" form="[SATELLITE]" lemma="quod" postag="c--------" relation="AuxC" head="5"/>
+   </sentence>
+   
+   
+   <sentence id="124">
+      <word id="1" form="Ipse" lemma="ipse" postag="p-s---mn-" relation="SBJ" head="7"/>
+      <word id="2" form="cum" lemma="cum" postag="r--------" relation="AuxP" head="7"/>
+      <word id="3" form="[ATR]" lemma="omnis" postag="a-p---fb-" relation="ATR" head="4"/>
+      <word id="4" form="copiis" lemma="copia1" postag="n-p---fb-" relation="ADV" head="2"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="AuxP" head="7"/>
+      <word id="6" form="Morinos" lemma="Morinus" postag="n-p---ma-" relation="OBJ" head="5"/>
+      <word id="7" form="proficiscitur" lemma="proficiscor" postag="v3spid---" relation="PRED" head="0"/>
+      <word id="8" form="[SATELLITE]" lemma="quod" postag="c--------" relation="AuxC" head="7"/>
+   </sentence>
+   
+   <sentence id="125">
+      <word id="1" form="Ipse" lemma="ipse" postag="p-s---mn-" relation="SBJ" head="7"/>
+      <word id="2" form="cum" lemma="cum" postag="r--------" relation="AuxP" head="7"/>
+      <word id="3" form="omnibus" lemma="omnis" postag="a-p---fb-" relation="ATR" head="4"/>
+      <word id="4" form="copiis" lemma="copia1" postag="n-p---fb-" relation="ADV" head="2"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="AuxP" head="7"/>
+      <word id="6" form="Morinos" lemma="Morinus" postag="n-p---ma-" relation="OBJ" head="5"/>
+      <word id="7" form="proficiscitur" lemma="proficiscor" postag="v3spid---" relation="PRED" head="0"/>
+      <word id="8" form="[SATELLITE]" lemma="quod" postag="c--------" relation="AuxC" head="7"/>
+   </sentence>
+   
+   <sentence id="126">
+      <word id="1" form="[[quod]]" lemma="quod" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="inde" lemma="inde" postag="d--------" relation="PNOM" head="3"/>
+      <word id="3" form="erat" lemma="sum1" postag="v3siia---" relation="ADV" head="1"/>
+      <word id="4" form="traiectus" lemma="trajectus2" postag="n-s---mn-" relation="SBJ" head="3"/>
+   </sentence>
+   
+   <sentence id="127">
+      <word id="1" form="[[quod]]" lemma="quod" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="inde" lemma="inde" postag="d--------" relation="PNOM" head="3"/>
+      <word id="3" form="erat" lemma="sum1" postag="v3siia---" relation="ADV" head="1"/>
+      <word id="4" form="[ATR]" lemma="brevis" postag="a-s---mns" relation="ATR" head="6"/>
+      <word id="5" form="[ATR]" lemma="in" postag="r--------" relation="AuxP" head="6"/>
+      <word id="6" form="traiectus" lemma="trajectus2" postag="n-s---mn-" relation="SBJ" head="3"/>
+   </sentence>
+   
+   <sentence id="128">
+      <word id="1" form="[[quod]]" lemma="quod" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="inde" lemma="inde" postag="d--------" relation="PNOM" head="3"/>
+      <word id="3" form="erat" lemma="sum1" postag="v3siia---" relation="ADV" head="1"/>
+      <word id="4" form="brevissimus" lemma="brevis" postag="a-s---mns" relation="ATR" head="6"/>
+      <word id="5" form="[ATR]" lemma="in" postag="r--------" relation="AuxP" head="6"/>
+      <word id="6" form="traiectus" lemma="trajectus2" postag="n-s---mn-" relation="SBJ" head="3"/>
+   </sentence>
+   
+   <sentence id="129">
+      <word id="1" form="[[quod]]" lemma="quod" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="inde" lemma="inde" postag="d--------" relation="PNOM" head="3"/>
+      <word id="3" form="erat" lemma="sum1" postag="v3siia---" relation="ADV" head="1"/>
+      <word id="4" form="brevissimus" lemma="brevis" postag="a-s---mns" relation="ATR" head="7"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="AuxP" head="7"/>
+      <word id="6" form="Britanniam" lemma="Britannia" postag="n-s---fa-" relation="ATR" head="5"/>
+      <word id="7" form="traiectus" lemma="trajectus2" postag="n-s---mn-" relation="SBJ" head="3"/>
+   </sentence>
+   
+   <sentence id="130">
+      <word id="1" form="Ipse" lemma="ipse" postag="p-s---mn-" relation="SBJ" head="7"/>
+      <word id="2" form="cum" lemma="cum" postag="r--------" relation="AuxP" head="7"/>
+      <word id="3" form="omnibus" lemma="omnis" postag="a-p---fb-" relation="ATR" head="4"/>
+      <word id="4" form="copiis" lemma="copia1" postag="n-p---fb-" relation="ADV" head="2"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="AuxP" head="7"/>
+      <word id="6" form="Morinos" lemma="Morinus" postag="n-p---ma-" relation="OBJ" head="5"/>
+      <word id="7" form="proficiscitur" lemma="proficiscor" postag="v3spid---" relation="PRED" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="quod" lemma="quod" postag="c--------" relation="AuxC" head="7"/>
+      <word id="10" form="inde" lemma="inde" postag="d--------" relation="PNOM" head="11"/>
+      <word id="11" form="erat" lemma="sum1" postag="v3siia---" relation="ADV" head="9"/>
+      <word id="12" form="brevissimus" lemma="brevis" postag="a-s---mns" relation="ATR" head="15"/>
+      <word id="13" form="in" lemma="in" postag="r--------" relation="AuxP" head="15"/>
+      <word id="14" form="Britanniam" lemma="Britannia" postag="n-s---fa-" relation="ATR" head="13"/>
+      <word id="15" form="traiectus" lemma="trajectus2" postag="n-s---mn-" relation="SBJ" head="11"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
    
    
 </treebank>
