@@ -1573,4 +1573,96 @@
       <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    
+   <sentence id="112">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="mandat" lemma="mando1" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="2"/>
+      <word id="4" form="exploratis" lemma="exploro" postag="v-prppfb-" relation="ADV" head="11"/>
+      <word id="5" form="omnibus" lemma="omnis" postag="a-p---fb-" relation="ATR" head="6"/>
+      <word id="6" form="rebus" lemma="res" postag="n-p---fb-" relation="SBJ" head="4"/>
+      <word id="7" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="11"/>
+      <word id="8" form="se" lemma="sui" postag="p-s---ma-" relation="OBJ" head="7"/>
+      <word id="9" form="quam" lemma="quam" postag="d--------" relation="AuxZ" head="10"/>
+      <word id="10" form="primum" lemma="primus" postag="d-------_" relation="ADV" head="11"/>
+      <word id="11" form="revertatur" lemma="revertor" postag="v3spsd---" relation="OBJ" head="3"/>
+      <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   <sentence id="113">
+      <word id="1" form="[OBJ]" lemma="" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="mandat" lemma="mando1" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="[OBJ]" lemma="" postag="c--------" relation="AuxC" head="2"/>
+   </sentence>
+   
+   <sentence id="114">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="mandat" lemma="mando1" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="[OBJ]" lemma="ut" postag="c--------" relation="AuxC" head="2"/>
+   </sentence>
+   
+   <sentence id="115">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="mandat" lemma="mando1" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="2"/>
+      <word id="4" form="[SATELLITE]" lemma="exploro" postag="v-prppfb-" relation="ADV" head="8"/>
+      <word id="5" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="8"/>
+      <word id="6" form="se" lemma="sui" postag="p-s---ma-" relation="OBJ" head="5"/>
+      <word id="7" form="[SATELLITE]" lemma="primus" postag="d-------_" relation="ADV" head="8"/>
+      <word id="8" form="revertatur" lemma="revertor" postag="v3spsd---" relation="OBJ" head="3"/>
+   </sentence>
+   
+   <sentence id="116">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="mandat" lemma="mando1" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="2"/>
+      <word id="4" form="[STELLITE]" lemma="exploro" postag="v-prppfb-" relation="ADV" head="9"/>
+      <word id="5" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="9"/>
+      <word id="6" form="se" lemma="sui" postag="p-s---ma-" relation="OBJ" head="5"/>
+      <word id="7" form="[ADV]" lemma="quam" postag="d--------" relation="AuxZ" head="8"/>
+      <word id="8" form="primum" lemma="primus" postag="d-------_" relation="ADV" head="9"/>
+      <word id="9" form="revertatur" lemma="revertor" postag="v3spsd---" relation="OBJ" head="3"/>
+   </sentence>
+   
+   <sentence id="117">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="mandat" lemma="mando1" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="2"/>
+      <word id="4" form="[SATELLITE]" lemma="exploro" postag="v-prppfb-" relation="ADV" head="9"/>
+      <word id="5" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="9"/>
+      <word id="6" form="se" lemma="sui" postag="p-s---ma-" relation="OBJ" head="5"/>
+      <word id="7" form="quam" lemma="quam" postag="d--------" relation="AuxZ" head="8"/>
+      <word id="8" form="primum" lemma="primus" postag="d-------_" relation="ADV" head="9"/>
+      <word id="9" form="revertatur" lemma="revertor" postag="v3spsd---" relation="OBJ" head="3"/>
+   </sentence>
+   
+   <sentence id="118">
+      <word id="1" form="exploratis" lemma="exploro" postag="v-prppfb-" relation="ADV" head="0"/>
+      <word id="2" form="[ATR]" lemma="omnis" postag="a-p---fb-" relation="ATR" head="3"/>
+      <word id="3" form="rebus" lemma="res" postag="n-p---fb-" relation="SBJ" head="1"/>
+   </sentence>
+   
+   <sentence id="119">
+      <word id="1" form="exploratis" lemma="exploro" postag="v-prppfb-" relation="ADV" head="0"/>
+      <word id="2" form="omnibus" lemma="omnis" postag="a-p---fb-" relation="ATR" head="3"/>
+      <word id="3" form="rebus" lemma="res" postag="n-p---fb-" relation="SBJ" head="1"/>
+   </sentence>
+   
+   <sentence id="120">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="mandat" lemma="mando1" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="2"/>
+      <word id="4" form="exploratis" lemma="exploro" postag="v-prppfb-" relation="ADV" head="11"/>
+      <word id="5" form="omnibus" lemma="omnis" postag="a-p---fb-" relation="ATR" head="6"/>
+      <word id="6" form="rebus" lemma="res" postag="n-p---fb-" relation="SBJ" head="4"/>
+      <word id="7" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="11"/>
+      <word id="8" form="se" lemma="sui" postag="p-s---ma-" relation="OBJ" head="7"/>
+      <word id="9" form="quam" lemma="quam" postag="d--------" relation="AuxZ" head="10"/>
+      <word id="10" form="primum" lemma="primus" postag="d-------_" relation="ADV" head="11"/>
+      <word id="11" form="revertatur" lemma="revertor" postag="v3spsd---" relation="OBJ" head="3"/>
+      <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   
+   
+   
 </treebank>
