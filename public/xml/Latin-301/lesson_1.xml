@@ -2758,5 +2758,71 @@
       <word id="40" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    
+   <sentence id="201">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="imperat" lemma="impero" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="quas" lemma="qui2" postag="a-p---fa_" relation="OBJ" head="21"/>
+      <word id="4" form="possit" lemma="possum" postag="v3spsa---" relation="OBJ" head="6"/>
+      <word id="5" form="adeat" lemma="adeo1" postag="v3spsa---" relation="OBJ_CO" head="8"/>
+      <word id="6" form="civitates" lemma="civitas" postag="n-p---fa-" relation="OBJ" head="5"/>
+      <word id="7" form="hortetur" lemma="hortor" postag="v3spsd---" relation="OBJ_CO" head="15"/>
+      <word id="8" form="-que" lemma="-que" postag="c--------" relation="COORD" head="2"/>
+      <word id="9" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="7"/>
+      <word id="10" form="populi" lemma="populus1" postag="n-s---mg-" relation="ATR" head="12"/>
+      <word id="11" form="Romani" lemma="Romanus" postag="a-s---mg_" relation="ATR" head="10"/>
+      <word id="12" form="fidem" lemma="fides1" postag="n-s---fa-" relation="OBJ" head="13"/>
+      <word id="13" form="sequantur" lemma="sequor" postag="v3ppsd---" relation="OBJ_CO" head="9"/>
+      <word id="14" form="se" lemma="sui" postag="p-s---ma-" relation="SBJ" head="18"/>
+      <word id="15" form="-que" lemma="-que" postag="c--------" relation="COORD" head="8"/>
+      <word id="16" form="celeriter" lemma="celeriter" postag="d--------" relation="ADV" head="18"/>
+      <word id="17" form="eo" lemma="eo2" postag="d--------" relation="OBJ" head="18"/>
+      <word id="18" form="venturum" lemma="venio" postag="v-sfpama-" relation="OBJ" head="19"/>
+      <word id="19" form="nuntiet" lemma="nuntio" postag="v3spsa---" relation="OBJ_CO" head="15"/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="21" form="adire" lemma="adeo1" postag="v--pna---" relation="OBJ" head="4"/>
+   </sentence>
+   
+   
+   <sentence id="202">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="imperat" lemma="impero" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="adeat" lemma="adeo1" postag="v3spsa---" relation="OBJ_CO" head="5"/>
+      <word id="4" form="hortetur" lemma="hortor" postag="v3spsd---" relation="OBJ_CO" head="6"/>
+      <word id="5" form="-que" lemma="-que" postag="c--------" relation="COORD" head="2"/>
+      <word id="6" form="-que" lemma="-que" postag="c--------" relation="COORD" head="5"/>
+      <word id="7" form="nuntiet" lemma="nuntio" postag="v3spsa---" relation="OBJ_CO" head="6"/>
+   </sentence>
+   
+   <sentence id="203">
+      <word id="1" form="adeat" lemma="adeo1" postag="v3spsa---" relation="OBJ_CO" head="0"/>
+      <word id="2" form="civitates" lemma="civitas" postag="n-p---fa-" relation="OBJ" head="1"/>
+   </sentence>
+   
+   <sentence id="204">
+      <word id="1" form="quas" lemma="qui2" postag="a-p---fa_" relation="OBJ" head="3"/>
+      <word id="2" form="possit" lemma="possum" postag="v3spsa---" relation="OBJ" head="0"/>
+      <word id="3" form="adire" lemma="adeo1" postag="v--pna---" relation="OBJ" head="2"/>
+   </sentence>
+   
+   <sentence id="205">
+      <word id="1" form="quas" lemma="qui2" postag="a-p---fa_" relation="OBJ" head="5"/>
+      <word id="2" form="possit" lemma="possum" postag="v3spsa---" relation="OBJ" head="4"/>
+      <word id="3" form="adeat" lemma="adeo1" postag="v3spsa---" relation="OBJ_CO" head="0"/>
+      <word id="4" form="civitates" lemma="civitas" postag="n-p---fa-" relation="OBJ" head="3"/>
+      <word id="5" form="adire" lemma="adeo1" postag="v--pna---" relation="OBJ" head="2"/>
+   </sentence>
+   
+   <sentence id="206">
+      <word id="1" form="Huic" lemma="hic" postag="p-s---md-" relation="OBJ" head="2"/>
+      <word id="2" form="imperat" lemma="impero" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="3" form="quas" lemma="qui2" postag="a-p---fa_" relation="OBJ" head="7"/>
+      <word id="4" form="possit" lemma="possum" postag="v3spsa---" relation="OBJ" head="6"/>
+      <word id="5" form="adeat" lemma="adeo1" postag="v3spsa---" relation="OBJ_CO" head="2"/>
+      <word id="6" form="civitates" lemma="civitas" postag="n-p---fa-" relation="OBJ" head="5"/>
+      <word id="7" form="adire" lemma="adeo1" postag="v--pna---" relation="OBJ" head="4"/>
+   </sentence>
+   
+   
+   
    
 </treebank>
