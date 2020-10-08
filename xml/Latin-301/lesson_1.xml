@@ -3054,14 +3054,16 @@
    </sentence>
    
    <sentence id="229">
-      <word id="1" form="[[ei]]" lemma="is" postag="p-s---md-" relation="OBJ" head="0"/>
-      <word id="2" form="egredi" lemma="egredior" postag="v--pnd---" relation="OBJ_CO" head="3"/>
-      <word id="3" form="ac" lemma="atque" postag="c--------" relation="Aux" head="8"/>
-      <word id="4" form="se" lemma="sui" postag="p-s---ma-" relation="OBJ" head="6"/>
-      <word id="5" form="barbaris" lemma="barbarus" postag="n-p---md-" relation="OBJ" head="6"/>
-      <word id="6" form="committere" lemma="committo" postag="v--pna---" relation="OBJ_CO" head="3"/>
-      <word id="7" form="non" lemma="non" postag="d--------" relation="AuxZ" head="8"/>
-      <word id="8" form="auderet" lemma="audeo" postag="v3sisa---" relation="ATR" head="1"/>
+      <word id="1" form="ei" lemma="is" postag="p-s---md-" relation="OBJ" head="0"/>
+      <word id="2" form="qui" lemma="qui2" postag="p-s---mn-" relation="SBJ" head="10"/>
+      <word id="3" form="navi" lemma="navis" postag="n-s---fb-" relation="OBJ" head="4"/>
+      <word id="4" form="egredi" lemma="egredior" postag="v--pnd---" relation="OBJ_CO" head="5"/>
+      <word id="5" form="ac" lemma="atque" postag="c--------" relation="Aux" head="10"/>
+      <word id="6" form="se" lemma="sui" postag="p-s---ma-" relation="OBJ" head="8"/>
+      <word id="7" form="barbaris" lemma="barbarus" postag="n-p---md-" relation="OBJ" head="8"/>
+      <word id="8" form="committere" lemma="committo" postag="v--pna---" relation="OBJ_CO" head="5"/>
+      <word id="9" form="non" lemma="non" postag="d--------" relation="AuxZ" head="10"/>
+      <word id="10" form="auderet" lemma="audeo" postag="v3sisa---" relation="ATR" head="1"/>
    </sentence>
    
    <sentence id="230">
