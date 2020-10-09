@@ -82,5 +82,40 @@
       <word id="10" form="[ATR]" lemma="" postag="c--------" relation="COORD" head="8"/>
    </sentence>
    
+   <sentence id="3">
+      <word id="1" form="[[Dum]]" lemma="dum" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="9"/>
+      <word id="3" form="his" lemma="hic" postag="a-p---fb_" relation="ATR" head="4"/>
+      <word id="4" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="2"/>
+      <word id="5" form="Caesar" lemma="Caesar" postag="n-s---mn-" relation="SBJ" head="9"/>
+      <word id="6" form="navium" lemma="navis" postag="n-p---fg-" relation="SBJ" head="7"/>
+      <word id="7" form="parandarum" lemma="paro1" postag="v-p-g-fg-" relation="ATR" head="8"/>
+      <word id="8" form="causa" lemma="causa" postag="n-s---fb-" relation="ADV" head="9"/>
+      <word id="9" form="moratur" lemma="moror1" postag="v3spid---" relation="ADV" head="1"/>
+   </sentence>
+   
+   <sentence id="4">
+      <word id="1" form="Dum" lemma="dum" postag="c--------" relation="AuxC" head="17"/>
+      <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="9"/>
+      <word id="3" form="his" lemma="hic" postag="a-p---fb_" relation="ATR" head="4"/>
+      <word id="4" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="2"/>
+      <word id="5" form="Caesar" lemma="Caesar" postag="n-s---mn-" relation="SBJ" head="9"/>
+      <word id="6" form="navium" lemma="navis" postag="n-p---fg-" relation="SBJ" head="7"/>
+      <word id="7" form="parandarum" lemma="paro1" postag="v-p-g-fg-" relation="ATR" head="8"/>
+      <word id="8" form="causa" lemma="causa" postag="n-s---fb-" relation="ADV" head="9"/>
+      <word id="9" form="moratur" lemma="moror1" postag="v3spid---" relation="ADV" head="1"/>
+      <word id="10" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="17"/>
+      <word id="11" form="magna" lemma="magnus" postag="a-s---fb-" relation="ATR" head="12"/>
+      <word id="12" form="parte" lemma="pars" postag="n-s---fb-" relation="ADV" head="10"/>
+      <word id="13" form="Morinorum" lemma="Morinus" postag="n-p---mg-" relation="ATR" head="12"/>
+      <word id="14" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="17"/>
+      <word id="15" form="eum" lemma="is" postag="p-s---ma-" relation="OBJ" head="14"/>
+      <word id="16" form="legati" lemma="legatus" postag="n-p---mn-" relation="SBJ" head="17"/>
+      <word id="17" form="venerunt" lemma="venio" postag="v3pria---" relation="PRED" head="0"/>
+      <word id="18" form="[ATR]" lemma="-que" postag="c--------" relation="COORD" head="16"/>
+   </sentence>
+   
+   
+   
    
 </treebank>
