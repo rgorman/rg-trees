@@ -69,5 +69,18 @@
       <word id="47" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    
+   <sentence id="2">
+      <word id="1" form="[SATELLITE]" lemma="" postag="c--------" relation="AuxC" head="9"/>
+      <word id="2" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="9"/>
+      <word id="3" form="magna" lemma="magnus" postag="a-s---fb-" relation="ATR" head="4"/>
+      <word id="4" form="parte" lemma="pars" postag="n-s---fb-" relation="ADV" head="2"/>
+      <word id="5" form="Morinorum" lemma="Morinus" postag="n-p---mg-" relation="ATR" head="4"/>
+      <word id="6" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="9"/>
+      <word id="7" form="eum" lemma="is" postag="p-s---ma-" relation="OBJ" head="6"/>
+      <word id="8" form="legati" lemma="legatus" postag="n-p---mn-" relation="SBJ" head="9"/>
+      <word id="9" form="venerunt" lemma="venio" postag="v3pria---" relation="PRED" head="0"/>
+      <word id="10" form="[ATR]" lemma="" postag="c--------" relation="COORD" head="8"/>
+   </sentence>
+   
    
 </treebank>
