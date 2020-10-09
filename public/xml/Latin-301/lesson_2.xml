@@ -116,6 +116,67 @@
    </sentence>
    
    
+   <sentence id="5">
+      <word id="1" form="legati" lemma="legatus" postag="n-p---mn-" relation="SBJ" head="0"/>
+      <word id="2" form="qui" lemma="qui2" postag="p-p---mn-" relation="SBJ" head="4"/>
+      <word id="3" form="excusarent" lemma="excuso" postag="v3pisa---" relation="ATR_CO" head="4"/>
+      <word id="4" form="-que" lemma="-que" postag="c--------" relation="COORD" head="1"/>
+      <word id="5" form="pollicerentur" lemma="polliceor" postag="v3pisd---" relation="ATR_CO" head="4"/>
+   </sentence>
+   
+   
+   <sentence id="6">
+      <word id="1" form="qui" lemma="qui2" postag="p-p---mn-" relation="SBJ" head="7"/>
+      <word id="2" form="se" lemma="sui" postag="p-p---ma-" relation="OBJ" head="7"/>
+      <word id="3" form="de" lemma="de" postag="r--------" relation="AuxP" head="7"/>
+      <word id="4" form="superioris" lemma="superus" postag="a-s---ngc" relation="ATR" head="5"/>
+      <word id="5" form="temporis" lemma="tempus" postag="n-s---ng-" relation="ATR" head="6"/>
+      <word id="6" form="consilio" lemma="consilium" postag="n-s---nb-" relation="OBJ" head="3"/>
+      <word id="7" form="excusarent" lemma="excuso" postag="v3pisa---" relation="ATR_CO" head="0"/>
+   </sentence>
+   
+   
+   <sentence id="7">
+      <word id="1" form="quod" lemma="quod" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="homines" lemma="homo" postag="n-p---mn-" relation="AtvV" head="11"/>
+      <word id="3" form="barbari" lemma="barbarus" postag="a-p---mn-" relation="ATR_CO" head="4"/>
+      <word id="4" form="et" lemma="et" postag="c--------" relation="COORD" head="2"/>
+      <word id="5" form="nostrae" lemma="noster" postag="a-s---fg-" relation="ATR" head="6"/>
+      <word id="6" form="consuetudinis" lemma="consuetudo" postag="n-s---fg-" relation="ADV" head="7"/>
+      <word id="7" form="imperiti" lemma="imperitus" postag="a-p---mn-" relation="ATR_CO" head="4"/>
+      <word id="8" form="bellum" lemma="bellum" postag="n-s---na-" relation="OBJ" head="11"/>
+      <word id="9" form="populo" lemma="populus1" postag="n-s---md-" relation="OBJ" head="11"/>
+      <word id="10" form="Romano" lemma="Romanus" postag="a-s---md_" relation="ATR" head="9"/>
+      <word id="11" form="fecissent" lemma="facio" postag="v3plsa---" relation="ADV" head="1"/>
+   </sentence>
+   
+   
+   <sentence id="8">
+      <word id="1" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="4"/>
+      <word id="2" form="eum" lemma="is" postag="p-s---ma-" relation="OBJ" head="1"/>
+      <word id="3" form="legati" lemma="legatus" postag="n-p---mn-" relation="SBJ" head="4"/>
+      <word id="4" form="venerunt" lemma="venio" postag="v3pria---" relation="PRED" head="0"/>
+      <word id="5" form="qui" lemma="qui2" postag="p-p---mn-" relation="SBJ" head="11"/>
+      <word id="6" form="se" lemma="sui" postag="p-p---ma-" relation="OBJ" head="11"/>
+      <word id="7" form="de" lemma="de" postag="r--------" relation="AuxP" head="11"/>
+      <word id="8" form="superioris" lemma="superus" postag="a-s---ngc" relation="ATR" head="9"/>
+      <word id="9" form="temporis" lemma="tempus" postag="n-s---ng-" relation="ATR" head="10"/>
+      <word id="10" form="consilio" lemma="consilium" postag="n-s---nb-" relation="OBJ" head="7"/>
+      <word id="11" form="excusarent" lemma="excuso" postag="v3pisa---" relation="ATR_CO" head="3"/>
+      <word id="12" form="quod" lemma="quod" postag="c--------" relation="AuxC" head="11"/>
+      <word id="13" form="homines" lemma="homo" postag="n-p---mn-" relation="AtvV" head="22"/>
+      <word id="14" form="barbari" lemma="barbarus" postag="a-p---mn-" relation="ATR_CO" head="15"/>
+      <word id="15" form="et" lemma="et" postag="c--------" relation="COORD" head="13"/>
+      <word id="16" form="nostrae" lemma="noster" postag="a-s---fg-" relation="ATR" head="17"/>
+      <word id="17" form="consuetudinis" lemma="consuetudo" postag="n-s---fg-" relation="ADV" head="18"/>
+      <word id="18" form="imperiti" lemma="imperitus" postag="a-p---mn-" relation="ATR_CO" head="15"/>
+      <word id="19" form="bellum" lemma="bellum" postag="n-s---na-" relation="OBJ" head="22"/>
+      <word id="20" form="populo" lemma="populus1" postag="n-s---md-" relation="OBJ" head="22"/>
+      <word id="21" form="Romano" lemma="Romanus" postag="a-s---md_" relation="ATR" head="20"/>
+      <word id="22" form="fecissent" lemma="facio" postag="v3plsa---" relation="ADV" head="12"/>
+   </sentence>
+   
+   
    
    
 </treebank>
