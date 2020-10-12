@@ -90,7 +90,7 @@
         {
           "path": "Unit_1_2_nouns",
           "author": "Xenophon",
-          "work": "Hellenica",
+          "work": "Hellenica (simlified excerpts)",
           "editors": "Vanessa Gorman",
           "sections": [
             {
@@ -103,7 +103,24 @@
               }
             }
           ]
-        },           
+        },     
+        {
+          "path": "Unit_1_3_coord",
+          "author": "Xenophon",
+          "work": "Hellenica (simlified excerpts)",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-100",
+              "path": "Unit_1_3_coord",
+              "xml": "Greek-150/Unit_1_3_coord.xml",
+              "chunks": {
+                "start": 1,
+                "end": 100
+              }
+            }
+          ]
+        },        
          {
           "path": "antiphon-against-the-stepmother-for-poisoning",
           "author": "Antiphon",
