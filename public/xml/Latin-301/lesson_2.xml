@@ -85,7 +85,7 @@
    <sentence id="3">
       <word id="1" form="[[Dum]]" lemma="dum" postag="c--------" relation="AuxC" head="0"/>
       <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="9"/>
-      <word id="3" form="his" lemma="hic" postag="a-p---fm_" relation="ATR" head="4"/>
+      <word id="3" form="his" lemma="hic" postag="a-p---mb_" relation="ATR" head="4"/>
       <word id="4" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="2"/>
       <word id="5" form="Caesar" lemma="Caesar" postag="n-s---mn-" relation="SBJ" head="9"/>
       <word id="6" form="navium" lemma="navis" postag="n-p---fg-" relation="SBJ" head="7"/>
@@ -97,7 +97,7 @@
    <sentence id="4">
       <word id="1" form="Dum" lemma="dum" postag="c--------" relation="AuxC" head="17"/>
       <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="9"/>
-      <word id="3" form="his" lemma="hic" postag="a-p---fm_" relation="ATR" head="4"/>
+      <word id="3" form="his" lemma="hic" postag="a-p---mb_" relation="ATR" head="4"/>
       <word id="4" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="2"/>
       <word id="5" form="Caesar" lemma="Caesar" postag="n-s---mn-" relation="SBJ" head="9"/>
       <word id="6" form="navium" lemma="navis" postag="n-p---fg-" relation="SBJ" head="7"/>
@@ -213,7 +213,7 @@
    <sentence id="13">
       <word id="1" form="Dum" lemma="dum" postag="c--------" relation="AuxC" head="18"/>
       <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="9"/>
-      <word id="3" form="his" lemma="hic" postag="a-p---fm_" relation="ATR" head="4"/>
+      <word id="3" form="his" lemma="hic" postag="a-p---mb_" relation="ATR" head="4"/>
       <word id="4" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="2"/>
       <word id="5" form="Caesar" lemma="Caesar" postag="n-s---mn-" relation="SBJ" head="9"/>
       <word id="6" form="navium" lemma="navis" postag="n-p---fg-" relation="SBJ" head="7"/>
