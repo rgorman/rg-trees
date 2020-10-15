@@ -428,4 +428,41 @@
    </sentence>
    
    
+   <sentence id="24">
+      <word id="1" form="Quibus" lemma="qui1" postag="n-p---mb-" relation="SBJ" head="2"/>
+      <word id="2" form="adductis" lemma="adduco" postag="v-prppmb-" relation="ADV" head="6"/>
+      <word id="3" form="eos" lemma="is" postag="p-p---ma-" relation="OBJ" head="6"/>
+      <word id="4" form="in" lemma="in" postag="r--------" relation="AuxP" head="6"/>
+      <word id="5" form="fidem" lemma="fides1" postag="n-s---fa-" relation="OBJ" head="4"/>
+      <word id="6" form="recipit" lemma="recipio" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   
+   <sentence id="25">
+      <word id="1" form="[SATELLITE]" lemma="adduco" postag="v-prppmb-" relation="ADV" head="5"/>
+      <word id="2" form="eos" lemma="is" postag="p-p---ma-" relation="OBJ" head="5"/>
+      <word id="3" form="in" lemma="in" postag="r--------" relation="AuxP" head="5"/>
+      <word id="4" form="fidem" lemma="fides1" postag="n-s---fa-" relation="OBJ" head="3"/>
+      <word id="5" form="recipit" lemma="recipio" postag="v3spia---" relation="PRED" head="0"/>
+   </sentence>
+   
+   <sentence id="26">
+      <word id="1" form="Quibus" lemma="qui1" postag="n-p---mb-" relation="SBJ" head="2"/>
+      <word id="2" form="adductis" lemma="adduco" postag="v-prppmb-" relation="ADV" head="0"/>
+   </sentence>
+   
+   
+   <sentence id="27">
+      <word id="1" form="Quibus" lemma="qui1" postag="n-p---mb-" relation="SBJ" head="2"/>
+      <word id="2" form="adductis" lemma="adduco" postag="v-prppmb-" relation="ADV" head="6"/>
+      <word id="3" form="eos" lemma="is" postag="p-p---ma-" relation="OBJ" head="6"/>
+      <word id="4" form="in" lemma="in" postag="r--------" relation="AuxP" head="6"/>
+      <word id="5" form="fidem" lemma="fides1" postag="n-s---fa-" relation="OBJ" head="4"/>
+      <word id="6" form="recipit" lemma="recipio" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   
+   
 </treebank>
