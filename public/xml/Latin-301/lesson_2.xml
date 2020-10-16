@@ -599,6 +599,153 @@
    </sentence>
    
    
+   <sentence id="37">
+      <word id="1" form="Huc" lemma="huc" postag="d--------" relation="OBJ" head="2"/>
+      <word id="2" form="accedebant" lemma="accedo" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="3" form="XVIII" lemma="XVIII" postag="m-p---fn-" relation="ATR" head="5"/>
+      <word id="4" form="onerariae" lemma="oneraria" postag="n-p---fn-" relation="ATR" head="5"/>
+      <word id="5" form="naves" lemma="navis" postag="n-p---fn-" relation="SBJ" head="2"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="quae" lemma="qui2" postag="p-p---fn-" relation="SBJ" head="16"/>
+      <word id="8" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="13"/>
+      <word id="9" form="eo" lemma="is" postag="a-s---mb_" relation="ATR" head="10"/>
+      <word id="10" form="loco" lemma="locus" postag="n-s---mb-" relation="ATR" head="8"/>
+      <word id="11" form="a" lemma="ab" postag="r--------" relation="AuxP" head="16"/>
+      <word id="12" form="milibus" lemma="milia" postag="n-p---nb-" relation="ADV" head="11"/>
+      <word id="13" form="passuum" lemma="passus3" postag="n-p---mg-" relation="ATR" head="12"/>
+      <word id="14" form="VIII" lemma="VIII" postag="m-p---nb-" relation="ATR" head="12"/>
+      <word id="15" form="vento" lemma="ventus" postag="n-s---mb-" relation="OBJ" head="16"/>
+      <word id="16" form="tenebantur" lemma="teneo" postag="v3piip---" relation="ATR" head="5"/>
+      <word id="17" form="quo" lemma="quo" postag="c--------" relation="AuxC" head="16"/>
+      <word id="18" form="minus" lemma="parvus" postag="d-------c" relation="AuxZ" head="23"/>
+      <word id="19" form="in" lemma="in" postag="r--------" relation="AuxP" head="22"/>
+      <word id="20" form="eundem" lemma="idem" postag="a-s---ma_" relation="ATR" head="21"/>
+      <word id="21" form="portum" lemma="portus" postag="n-s---ma-" relation="OBJ" head="19"/>
+      <word id="22" form="venire" lemma="venio" postag="v--pna---" relation="OBJ" head="23"/>
+      <word id="23" form="possent" lemma="possum" postag="v3pisa---" relation="ADV" head="17"/>
+      <word id="24" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   <sentence id="38">
+      <word id="1" form="Huc" lemma="huc" postag="d--------" relation="OBJ" head="2"/>
+      <word id="2" form="accedebant" lemma="accedo" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="3" form="duodeviginti" lemma="duodeviginti" postag="m-p---fn-" relation="ATR" head="5"/>
+      <word id="4" form="onerariae" lemma="oneraria" postag="n-p---fn-" relation="ATR" head="5"/>
+      <word id="5" form="naves" lemma="navis" postag="n-p---fn-" relation="SBJ" head="2"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="quae" lemma="qui2" postag="p-p---fn-" relation="SBJ" head="16"/>
+      <word id="8" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="13"/>
+      <word id="9" form="eo" lemma="is" postag="a-s---mb_" relation="ATR" head="10"/>
+      <word id="10" form="loco" lemma="locus" postag="n-s---mb-" relation="ATR" head="8"/>
+      <word id="11" form="a" lemma="ab" postag="r--------" relation="AuxP" head="16"/>
+      <word id="12" form="milibus" lemma="milia" postag="n-p---nb-" relation="ADV" head="11"/>
+      <word id="13" form="passuum" lemma="passus3" postag="n-p---mg-" relation="ATR" head="12"/>
+      <word id="14" form="octo" lemma="octo" postag="m-p---nb-" relation="ATR" head="12"/>
+      <word id="15" form="vento" lemma="ventus" postag="n-s---mb-" relation="OBJ" head="16"/>
+      <word id="16" form="tenebantur" lemma="teneo" postag="v3piip---" relation="ATR" head="5"/>
+      <word id="17" form="quo" lemma="quo" postag="c--------" relation="AuxC" head="16"/>
+      <word id="18" form="minus" lemma="parvus" postag="d-------c" relation="AuxZ" head="23"/>
+      <word id="19" form="in" lemma="in" postag="r--------" relation="AuxP" head="22"/>
+      <word id="20" form="eundem" lemma="idem" postag="a-s---ma_" relation="ATR" head="21"/>
+      <word id="21" form="portum" lemma="portus" postag="n-s---ma-" relation="OBJ" head="19"/>
+      <word id="22" form="venire" lemma="venio" postag="v--pna---" relation="OBJ" head="23"/>
+      <word id="23" form="possent" lemma="possum" postag="v3pisa---" relation="ADV" head="17"/>
+      <word id="24" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   
+   <sentence id="39">
+      <word id="1" form="Huc" lemma="huc" postag="d--------" relation="OBJ" head="2"/>
+      <word id="2" form="accedebant" lemma="accedo" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="3" form="duodeviginti" lemma="duodeviginti" postag="m-p---fn-" relation="ATR" head="5"/>
+      <word id="4" form="onerariae" lemma="oneraria" postag="n-p---fn-" relation="ATR" head="5"/>
+      <word id="5" form="naves" lemma="navis" postag="n-p---fn-" relation="SBJ" head="2"/>
+      <word id="6" form="[ATR]" lemma="teneo" postag="v3piip---" relation="ATR" head="5"/>
+   </sentence>
+   
+   <sentence id="40">
+      <word id="1" form="[[naves]]" lemma="navis" postag="n-p---fn-" relation="SBJ" head="0"/>
+      <word id="2" form="quae" lemma="qui2" postag="p-p---fn-" relation="SBJ" head="5"/>
+      <word id="3" form="[SATELLITE]" lemma="ab" postag="r--------" relation="AuxP" head="5"/>
+      <word id="4" form="vento" lemma="ventus" postag="n-s---mb-" relation="OBJ" head="5"/>
+      <word id="5" form="tenebantur" lemma="teneo" postag="v3piip---" relation="ATR" head="1"/>
+      <word id="6" form="[SATELLITE]" lemma="quo" postag="c--------" relation="AuxC" head="5"/>
+   </sentence>
+   
+   <sentence id="41">
+      <word id="1" form="[[naves]]" lemma="navis" postag="n-p---fn-" relation="SBJ" head="0"/>
+      <word id="2" form="quae" lemma="qui2" postag="p-p---fn-" relation="SBJ" head="11"/>
+      <word id="3" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="8"/>
+      <word id="4" form="eo" lemma="is" postag="a-s---mb_" relation="ATR" head="5"/>
+      <word id="5" form="loco" lemma="locus" postag="n-s---mb-" relation="ATR" head="3"/>
+      <word id="6" form="a" lemma="ab" postag="r--------" relation="AuxP" head="11"/>
+      <word id="7" form="milibus" lemma="milia" postag="n-p---nb-" relation="ADV" head="6"/>
+      <word id="8" form="passuum" lemma="passus3" postag="n-p---mg-" relation="ATR" head="7"/>
+      <word id="9" form="octo" lemma="octo" postag="m-p---nb-" relation="ATR" head="7"/>
+      <word id="10" form="vento" lemma="ventus" postag="n-s---mb-" relation="OBJ" head="11"/>
+      <word id="11" form="tenebantur" lemma="teneo" postag="v3piip---" relation="ATR" head="1"/>
+   </sentence>
+   
+   
+   <sentence id="42">
+      <word id="1" form="quo" lemma="quo" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="minus" lemma="parvus" postag="d-------c" relation="AuxZ" head="7"/>
+      <word id="3" form="in" lemma="in" postag="r--------" relation="AuxP" head="6"/>
+      <word id="4" form="eundem" lemma="idem" postag="a-s---ma_" relation="ATR" head="5"/>
+      <word id="5" form="portum" lemma="portus" postag="n-s---ma-" relation="OBJ" head="3"/>
+      <word id="6" form="venire" lemma="venio" postag="v--pna---" relation="OBJ" head="7"/>
+      <word id="7" form="possent" lemma="possum" postag="v3pisa---" relation="ADV" head="1"/>
+   </sentence>
+   
+   <sentence id="43">
+      <word id="1" form="[[naves]]" lemma="navis" postag="n-p---fn-" relation="SBJ" head="0"/>
+      <word id="2" form="quae" lemma="qui2" postag="p-p---fn-" relation="SBJ" head="11"/>
+      <word id="3" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="8"/>
+      <word id="4" form="eo" lemma="is" postag="a-s---mb_" relation="ATR" head="5"/>
+      <word id="5" form="loco" lemma="locus" postag="n-s---mb-" relation="ATR" head="3"/>
+      <word id="6" form="a" lemma="ab" postag="r--------" relation="AuxP" head="11"/>
+      <word id="7" form="milibus" lemma="milia" postag="n-p---nb-" relation="ADV" head="6"/>
+      <word id="8" form="passuum" lemma="passus3" postag="n-p---mg-" relation="ATR" head="7"/>
+      <word id="9" form="octo" lemma="octo" postag="m-p---nb-" relation="ATR" head="7"/>
+      <word id="10" form="vento" lemma="ventus" postag="n-s---mb-" relation="OBJ" head="11"/>
+      <word id="11" form="tenebantur" lemma="teneo" postag="v3piip---" relation="ATR" head="1"/>
+      <word id="12" form="quo" lemma="quo" postag="c--------" relation="AuxC" head="11"/>
+      <word id="13" form="minus" lemma="parvus" postag="d-------c" relation="AuxZ" head="18"/>
+      <word id="14" form="in" lemma="in" postag="r--------" relation="AuxP" head="17"/>
+      <word id="15" form="eundem" lemma="idem" postag="a-s---ma_" relation="ATR" head="16"/>
+      <word id="16" form="portum" lemma="portus" postag="n-s---ma-" relation="OBJ" head="14"/>
+      <word id="17" form="venire" lemma="venio" postag="v--pna---" relation="OBJ" head="18"/>
+      <word id="18" form="possent" lemma="possum" postag="v3pisa---" relation="ADV" head="12"/>
+   </sentence>
+   
+   <sentence id="44">
+      <word id="1" form="Huc" lemma="huc" postag="d--------" relation="OBJ" head="2"/>
+      <word id="2" form="accedebant" lemma="accedo" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="3" form="duodeviginti" lemma="duodeviginti" postag="m-p---fn-" relation="ATR" head="5"/>
+      <word id="4" form="onerariae" lemma="oneraria" postag="n-p---fn-" relation="ATR" head="5"/>
+      <word id="5" form="naves" lemma="navis" postag="n-p---fn-" relation="SBJ" head="2"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="quae" lemma="qui2" postag="p-p---fn-" relation="SBJ" head="16"/>
+      <word id="8" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="13"/>
+      <word id="9" form="eo" lemma="is" postag="a-s---mb_" relation="ATR" head="10"/>
+      <word id="10" form="loco" lemma="locus" postag="n-s---mb-" relation="ATR" head="8"/>
+      <word id="11" form="a" lemma="ab" postag="r--------" relation="AuxP" head="16"/>
+      <word id="12" form="milibus" lemma="milia" postag="n-p---nb-" relation="ADV" head="11"/>
+      <word id="13" form="passuum" lemma="passus3" postag="n-p---mg-" relation="ATR" head="12"/>
+      <word id="14" form="octo" lemma="octo" postag="m-p---nb-" relation="ATR" head="12"/>
+      <word id="15" form="vento" lemma="ventus" postag="n-s---mb-" relation="OBJ" head="16"/>
+      <word id="16" form="tenebantur" lemma="teneo" postag="v3piip---" relation="ATR" head="5"/>
+      <word id="17" form="quo" lemma="quo" postag="c--------" relation="AuxC" head="16"/>
+      <word id="18" form="minus" lemma="parvus" postag="d-------c" relation="AuxZ" head="23"/>
+      <word id="19" form="in" lemma="in" postag="r--------" relation="AuxP" head="22"/>
+      <word id="20" form="eundem" lemma="idem" postag="a-s---ma_" relation="ATR" head="21"/>
+      <word id="21" form="portum" lemma="portus" postag="n-s---ma-" relation="OBJ" head="19"/>
+      <word id="22" form="venire" lemma="venio" postag="v--pna---" relation="OBJ" head="23"/>
+      <word id="23" form="possent" lemma="possum" postag="v3pisa---" relation="ADV" head="17"/>
+      <word id="24" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   
    
    
 </treebank>
