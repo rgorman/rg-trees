@@ -885,6 +885,63 @@
       <word id="27" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    
+   <sentence id="53">
+      <word id="1" form="Sulpicium" lemma="Sulpicius" postag="n-s---ma-" relation="OBJ" head="13"/>
+      <word id="2" form="Rufum" lemma="Rufus" postag="n-s---ma-" relation="ATR" head="1"/>
+      <word id="3" form="legatum" lemma="legatus" postag="n-s---ma-" relation="ATR" head="1"/>
+      <word id="4" form="cum" lemma="cum" postag="r--------" relation="AuxP" head="12"/>
+      <word id="5" form="eo" lemma="is" postag="a-s---nb_" relation="ATR" head="6"/>
+      <word id="6" form="praesidio" lemma="praesidium" postag="n-s---nb-" relation="ADV" head="4"/>
+      <word id="7" form="quod" lemma="qui2" postag="p-s---na-" relation="SBJ" head="9"/>
+      <word id="8" form="satis" lemma="satis" postag="n-s---na-" relation="PNOM" head="9"/>
+      <word id="9" form="esse" lemma="sum1" postag="v--pna---" relation="OBJ" head="10"/>
+      <word id="10" form="arbitrabatur" lemma="arbitror" postag="v3siid---" relation="ATR" head="6"/>
+      <word id="11" form="portum" lemma="portus" postag="n-s---ma-" relation="OBJ" head="12"/>
+      <word id="12" form="tenere" lemma="teneo" postag="v--pna---" relation="OBJ" head="13"/>
+      <word id="13" form="iussit" lemma="jubeo" postag="v3sria---" relation="PRED" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   <sentence id="54">
+      <word id="1" form="Sulpicium" lemma="Sulpicius" postag="n-s---ma-" relation="OBJ" head="10"/>
+      <word id="2" form="Rufum" lemma="Rufus" postag="n-s---ma-" relation="ATR" head="1"/>
+      <word id="3" form="legatum" lemma="legatus" postag="n-s---ma-" relation="ATR" head="1"/>
+      <word id="4" form="cum" lemma="cum" postag="r--------" relation="AuxP" head="9"/>
+      <word id="5" form="eo" lemma="is" postag="a-s---nb_" relation="ATR" head="6"/>
+      <word id="6" form="praesidio" lemma="praesidium" postag="n-s---nb-" relation="ADV" head="4"/>
+      <word id="7" form="[ATR]" lemma="arbitror" postag="v3siid---" relation="ATR" head="6"/>
+      <word id="8" form="portum" lemma="portus" postag="n-s---ma-" relation="OBJ" head="9"/>
+      <word id="9" form="tenere" lemma="teneo" postag="v--pna---" relation="OBJ" head="10"/>
+      <word id="10" form="iussit" lemma="jubeo" postag="v3sria---" relation="PRED" head="0"/>
+   </sentence>
+   
+   <sentence id="55">
+      <word id="1" form="[[praesidio]]" lemma="praesidium" postag="n-s---nb-" relation="ADV" head="0"/>
+      <word id="2" form="quod" lemma="qui2" postag="p-s---na-" relation="SBJ" head="4"/>
+      <word id="3" form="satis" lemma="satis" postag="n-s---na-" relation="PNOM" head="4"/>
+      <word id="4" form="esse" lemma="sum1" postag="v--pna---" relation="OBJ" head="5"/>
+      <word id="5" form="arbitrabatur" lemma="arbitror" postag="v3siid---" relation="ATR" head="1"/>
+   </sentence>
+   
+   <sentence id="56">
+      <word id="1" form="Sulpicium" lemma="Sulpicius" postag="n-s---ma-" relation="OBJ" head="13"/>
+      <word id="2" form="Rufum" lemma="Rufus" postag="n-s---ma-" relation="ATR" head="1"/>
+      <word id="3" form="legatum" lemma="legatus" postag="n-s---ma-" relation="ATR" head="1"/>
+      <word id="4" form="cum" lemma="cum" postag="r--------" relation="AuxP" head="12"/>
+      <word id="5" form="eo" lemma="is" postag="a-s---nb_" relation="ATR" head="6"/>
+      <word id="6" form="praesidio" lemma="praesidium" postag="n-s---nb-" relation="ADV" head="4"/>
+      <word id="7" form="quod" lemma="qui2" postag="p-s---na-" relation="SBJ" head="9"/>
+      <word id="8" form="satis" lemma="satis" postag="n-s---na-" relation="PNOM" head="9"/>
+      <word id="9" form="esse" lemma="sum1" postag="v--pna---" relation="OBJ" head="10"/>
+      <word id="10" form="arbitrabatur" lemma="arbitror" postag="v3siid---" relation="ATR" head="6"/>
+      <word id="11" form="portum" lemma="portus" postag="n-s---ma-" relation="OBJ" head="12"/>
+      <word id="12" form="tenere" lemma="teneo" postag="v--pna---" relation="OBJ" head="13"/>
+      <word id="13" form="iussit" lemma="jubeo" postag="v3sria---" relation="PRED" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   
+   
    
    
 </treebank>
