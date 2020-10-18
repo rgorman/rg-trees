@@ -1205,4 +1205,101 @@
       <word id="29" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    
+   <sentence id="73">
+      <word id="1" form="Cuius" lemma="cujus" postag="a-s---mn-" relation="ATR" head="2"/>
+      <word id="2" form="loci" lemma="locus" postag="n-s---mg-" relation="ATR" head="5"/>
+      <word id="3" form="haec" lemma="hic" postag="p-s---fn-" relation="PNOM" head="4"/>
+      <word id="4" form="erat" lemma="sum1" postag="v3siia---" relation="PRED_CO" head="6"/>
+      <word id="5" form="natura" lemma="natura" postag="n-s---fn-" relation="SBJ" head="4"/>
+      <word id="6" form="atque" lemma="atque" postag="c--------" relation="COORD" head="0"/>
+      <word id="7" form="ita" lemma="ita" postag="d--------" relation="ADV" head="11"/>
+      <word id="8" form="montibus" lemma="mons" postag="n-p---mb-" relation="OBJ" head="11"/>
+      <word id="9" form="angustis" lemma="angustus" postag="a-p---mb-" relation="ATR" head="8"/>
+      <word id="10" form="mare" lemma="mare" postag="n-s---nn-" relation="SBJ" head="11"/>
+      <word id="11" form="continebatur" lemma="contineo" postag="v3siip---" relation="PRED_CO" head="6"/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="uti" lemma="uti" postag="c--------" relation="AuxC" head="7"/>
+      <word id="14" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="20"/>
+      <word id="15" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="14"/>
+      <word id="16" form="superioribus" lemma="superus" postag="a-p---mbc" relation="ATR" head="15"/>
+      <word id="17" form="in" lemma="in" postag="r--------" relation="AuxP" head="20"/>
+      <word id="18" form="litus" lemma="litus2" postag="n-p---ma-" relation="OBJ" head="17"/>
+      <word id="19" form="telum" lemma="telum" postag="n-s---nn-" relation="SBJ" head="21"/>
+      <word id="20" form="adigi" lemma="adigo" postag="v--pnp---" relation="OBJ" head="21"/>
+      <word id="21" form="posset" lemma="possum" postag="v3sisa---" relation="ADV" head="13"/>
+      <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   <sentence id="74">
+      <word id="1" form="Cuius" lemma="cujus" postag="a-s---mn-" relation="ATR" head="2"/>
+      <word id="2" form="loci" lemma="locus" postag="n-s---mg-" relation="ATR" head="5"/>
+      <word id="3" form="haec" lemma="hic" postag="p-s---fn-" relation="PNOM" head="4"/>
+      <word id="4" form="erat" lemma="sum1" postag="v3siia---" relation="PRED_CO" head="0"/>
+      <word id="5" form="natura" lemma="natura" postag="n-s---fn-" relation="SBJ" head="4"/>
+   </sentence>
+   
+   <sentence id="75">
+      <word id="1" form="ita" lemma="ita" postag="d--------" relation="ADV" head="5"/>
+      <word id="2" form="montibus" lemma="mons" postag="n-p---mb-" relation="OBJ" head="5"/>
+      <word id="3" form="angustis" lemma="angustus" postag="a-p---mb-" relation="ATR" head="2"/>
+      <word id="4" form="mare" lemma="mare" postag="n-s---nn-" relation="SBJ" head="5"/>
+      <word id="5" form="continebatur" lemma="contineo" postag="v3siip---" relation="PRED_CO" head="0"/>
+      <word id="6" form="[ADV]" lemma="uti" postag="c--------" relation="AuxC" head="1"/>
+   </sentence>
+   
+   <sentence id="76">
+      <word id="1" form="uti" lemma="uti" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="8"/>
+      <word id="3" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="2"/>
+      <word id="4" form="superioribus" lemma="superus" postag="a-p---mbc" relation="ATR" head="3"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="AuxP" head="8"/>
+      <word id="6" form="litus" lemma="litus2" postag="n-p---ma-" relation="OBJ" head="5"/>
+      <word id="7" form="telum" lemma="telum" postag="n-s---nn-" relation="SBJ" head="9"/>
+      <word id="8" form="adigi" lemma="adigo" postag="v--pnp---" relation="OBJ" head="9"/>
+      <word id="9" form="posset" lemma="possum" postag="v3sisa---" relation="ADV" head="1"/>
+   </sentence>
+   
+   <sentence id="77">
+      <word id="1" form="ita" lemma="ita" postag="d--------" relation="ADV" head="5"/>
+      <word id="2" form="montibus" lemma="mons" postag="n-p---mb-" relation="OBJ" head="5"/>
+      <word id="3" form="angustis" lemma="angustus" postag="a-p---mb-" relation="ATR" head="2"/>
+      <word id="4" form="mare" lemma="mare" postag="n-s---nn-" relation="SBJ" head="5"/>
+      <word id="5" form="continebatur" lemma="contineo" postag="v3siip---" relation="PRED_CO" head="0"/>
+      <word id="6" form="uti" lemma="uti" postag="c--------" relation="AuxC" head="1"/>
+      <word id="7" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="13"/>
+      <word id="8" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="7"/>
+      <word id="9" form="superioribus" lemma="superus" postag="a-p---mbc" relation="ATR" head="8"/>
+      <word id="10" form="in" lemma="in" postag="r--------" relation="AuxP" head="13"/>
+      <word id="11" form="litus" lemma="litus2" postag="n-p---ma-" relation="OBJ" head="10"/>
+      <word id="12" form="telum" lemma="telum" postag="n-s---nn-" relation="SBJ" head="14"/>
+      <word id="13" form="adigi" lemma="adigo" postag="v--pnp---" relation="OBJ" head="14"/>
+      <word id="14" form="posset" lemma="possum" postag="v3sisa---" relation="ADV" head="6"/>
+   </sentence>
+   
+   <sentence id="78">
+      <word id="1" form="Cuius" lemma="cujus" postag="a-s---mn-" relation="ATR" head="2"/>
+      <word id="2" form="loci" lemma="locus" postag="n-s---mg-" relation="ATR" head="5"/>
+      <word id="3" form="haec" lemma="hic" postag="p-s---fn-" relation="PNOM" head="4"/>
+      <word id="4" form="erat" lemma="sum1" postag="v3siia---" relation="PRED_CO" head="6"/>
+      <word id="5" form="natura" lemma="natura" postag="n-s---fn-" relation="SBJ" head="4"/>
+      <word id="6" form="atque" lemma="atque" postag="c--------" relation="COORD" head="0"/>
+      <word id="7" form="ita" lemma="ita" postag="d--------" relation="ADV" head="11"/>
+      <word id="8" form="montibus" lemma="mons" postag="n-p---mb-" relation="OBJ" head="11"/>
+      <word id="9" form="angustis" lemma="angustus" postag="a-p---mb-" relation="ATR" head="8"/>
+      <word id="10" form="mare" lemma="mare" postag="n-s---nn-" relation="SBJ" head="11"/>
+      <word id="11" form="continebatur" lemma="contineo" postag="v3siip---" relation="PRED_CO" head="6"/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="uti" lemma="uti" postag="c--------" relation="AuxC" head="7"/>
+      <word id="14" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="20"/>
+      <word id="15" form="locis" lemma="locus" postag="n-p---mb-" relation="ADV" head="14"/>
+      <word id="16" form="superioribus" lemma="superus" postag="a-p---mbc" relation="ATR" head="15"/>
+      <word id="17" form="in" lemma="in" postag="r--------" relation="AuxP" head="20"/>
+      <word id="18" form="litus" lemma="litus2" postag="n-p---ma-" relation="OBJ" head="17"/>
+      <word id="19" form="telum" lemma="telum" postag="n-s---nn-" relation="SBJ" head="21"/>
+      <word id="20" form="adigi" lemma="adigo" postag="v--pnp---" relation="OBJ" head="21"/>
+      <word id="21" form="posset" lemma="possum" postag="v3sisa---" relation="ADV" head="13"/>
+      <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   
 </treebank>
