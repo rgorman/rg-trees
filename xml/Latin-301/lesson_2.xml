@@ -1301,5 +1301,112 @@
       <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    
+   <sentence id="79">
+      <word id="1" form="Hunc" lemma="hic" postag="p-s---ma-" relation="SBJ" head="21"/>
+      <word id="2" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="5"/>
+      <word id="3" form="egrediendum" lemma="egredior" postag="v_s_da-a-" relation="ADV" head="2"/>
+      <word id="4" form="nequaquam" lemma="nequaquam" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="5" form="idoneum" lemma="idoneus" postag="a-s---ma-" relation="ATR" head="6"/>
+      <word id="6" form="locum" lemma="locus" postag="n-s---ma-" relation="PNOM" head="21"/>
+      <word id="7" form="arbitratus" lemma="arbitror" postag="v-srpdmn_" relation="ADV" head="19"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="dum" lemma="dum" postag="c--------" relation="AuxC" head="19"/>
+      <word id="10" form="reliquae" lemma="reliquus" postag="a-p---fn-" relation="ATR" head="11"/>
+      <word id="11" form="naves" lemma="navis" postag="n-p---fn-" relation="SBJ" head="13"/>
+      <word id="12" form="eo" lemma="eo2" postag="d--------" relation="OBJ" head="13"/>
+      <word id="13" form="convenirent" lemma="convenio" postag="v3pisa---" relation="OBJ" head="9"/>
+      <word id="14" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="19"/>
+      <word id="15" form="horam" lemma="hora1" postag="n-s---fa-" relation="ADV" head="14"/>
+      <word id="16" form="nonam" lemma="nonus" postag="a-s---fa-" relation="ATR" head="15"/>
+      <word id="17" form="in" lemma="in" postag="r--------" relation="AuxP" head="19"/>
+      <word id="18" form="ancoris" lemma="ancora" postag="n-p---fb-" relation="ADV" head="17"/>
+      <word id="19" form="expectavit" lemma="exspecto" postag="v3sria---" relation="PRED" head="0"/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="21" form="esse" lemma="sum1" postag="v--pna---" relation="OBJ" head="7"/>
+   </sentence>
    
+   <sentence id="80">
+      <word id="1" form="[ADV]" lemma="arbitror" postag="v-srpdmn_" relation="ADV" head="8"/>
+      <word id="2" form="[OBJ]" lemma="dum" postag="c--------" relation="AuxC" head="8"/>
+      <word id="3" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="8"/>
+      <word id="4" form="horam" lemma="hora1" postag="n-s---fa-" relation="ADV" head="3"/>
+      <word id="5" form="nonam" lemma="nonus" postag="a-s---fa-" relation="ATR" head="4"/>
+      <word id="6" form="in" lemma="in" postag="r--------" relation="AuxP" head="8"/>
+      <word id="7" form="ancoris" lemma="ancora" postag="n-p---fb-" relation="ADV" head="6"/>
+      <word id="8" form="expectavit" lemma="exspecto" postag="v3sria---" relation="PRED" head="0"/>
+   </sentence>
+   
+   <sentence id="81">
+      <word id="1" form="dum" lemma="dum" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="reliquae" lemma="reliquus" postag="a-p---fn-" relation="ATR" head="3"/>
+      <word id="3" form="naves" lemma="navis" postag="n-p---fn-" relation="SBJ" head="5"/>
+      <word id="4" form="eo" lemma="eo2" postag="d--------" relation="OBJ" head="5"/>
+      <word id="5" form="convenirent" lemma="convenio" postag="v3pisa---" relation="OBJ" head="1"/>
+   </sentence>
+   
+   <sentence id="82">
+      <word id="1" form="[ADV]" lemma="arbitror" postag="v-srpdmn_" relation="ADV" head="12"/>
+      <word id="2" form="dum" lemma="dum" postag="c--------" relation="AuxC" head="12"/>
+      <word id="3" form="reliquae" lemma="reliquus" postag="a-p---fn-" relation="ATR" head="4"/>
+      <word id="4" form="naves" lemma="navis" postag="n-p---fn-" relation="SBJ" head="6"/>
+      <word id="5" form="eo" lemma="eo2" postag="d--------" relation="OBJ" head="6"/>
+      <word id="6" form="convenirent" lemma="convenio" postag="v3pisa---" relation="OBJ" head="2"/>
+      <word id="7" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="12"/>
+      <word id="8" form="horam" lemma="hora1" postag="n-s---fa-" relation="ADV" head="7"/>
+      <word id="9" form="nonam" lemma="nonus" postag="a-s---fa-" relation="ATR" head="8"/>
+      <word id="10" form="in" lemma="in" postag="r--------" relation="AuxP" head="12"/>
+      <word id="11" form="ancoris" lemma="ancora" postag="n-p---fb-" relation="ADV" head="10"/>
+      <word id="12" form="expectavit" lemma="exspecto" postag="v3sria---" relation="PRED" head="0"/>
+   </sentence>
+   
+   <sentence id="83">
+      <word id="1" form="Hunc" lemma="hic" postag="p-s---ma-" relation="SBJ" head="5"/>
+      <word id="2" form="idoneum" lemma="idoneus" postag="a-s---ma-" relation="ATR" head="3"/>
+      <word id="3" form="locum" lemma="locus" postag="n-s---ma-" relation="PNOM" head="5"/>
+      <word id="4" form="arbitratus" lemma="arbitror" postag="v-srpdmn_" relation="ADV" head="0"/>
+      <word id="5" form="esse" lemma="sum1" postag="v--pna---" relation="OBJ" head="4"/>
+   </sentence>
+   
+   <sentence id="84">
+      <word id="1" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="4"/>
+      <word id="2" form="egrediendum" lemma="egredior" postag="v_s_da-a-" relation="ADV" head="1"/>
+      <word id="3" form="nequaquam" lemma="nequaquam" postag="d--------" relation="AuxZ" head="4"/>
+      <word id="4" form="idoneum" lemma="idoneus" postag="a-s---ma-" relation="ATR" head="5"/>
+      <word id="5" form="[[locum]]" lemma="locus" postag="n-s---ma-" relation="PNOM" head="0"/>
+   </sentence>
+   
+   <sentence id="85">
+      <word id="1" form="Hunc" lemma="hic" postag="p-s---ma-" relation="SBJ" head="8"/>
+      <word id="2" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="5"/>
+      <word id="3" form="egrediendum" lemma="egredior" postag="v_s_da-a-" relation="ADV" head="2"/>
+      <word id="4" form="nequaquam" lemma="nequaquam" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="5" form="idoneum" lemma="idoneus" postag="a-s---ma-" relation="ATR" head="6"/>
+      <word id="6" form="locum" lemma="locus" postag="n-s---ma-" relation="PNOM" head="8"/>
+      <word id="7" form="arbitratus" lemma="arbitror" postag="v-srpdmn_" relation="ADV" head="0"/>
+      <word id="8" form="esse" lemma="sum1" postag="v--pna---" relation="OBJ" head="7"/>
+   </sentence>
+   
+   <sentence id="86">
+      <word id="1" form="Hunc" lemma="hic" postag="p-s---ma-" relation="SBJ" head="21"/>
+      <word id="2" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="5"/>
+      <word id="3" form="egrediendum" lemma="egredior" postag="v_s_da-a-" relation="ADV" head="2"/>
+      <word id="4" form="nequaquam" lemma="nequaquam" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="5" form="idoneum" lemma="idoneus" postag="a-s---ma-" relation="ATR" head="6"/>
+      <word id="6" form="locum" lemma="locus" postag="n-s---ma-" relation="PNOM" head="21"/>
+      <word id="7" form="arbitratus" lemma="arbitror" postag="v-srpdmn_" relation="ADV" head="19"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="dum" lemma="dum" postag="c--------" relation="AuxC" head="19"/>
+      <word id="10" form="reliquae" lemma="reliquus" postag="a-p---fn-" relation="ATR" head="11"/>
+      <word id="11" form="naves" lemma="navis" postag="n-p---fn-" relation="SBJ" head="13"/>
+      <word id="12" form="eo" lemma="eo2" postag="d--------" relation="OBJ" head="13"/>
+      <word id="13" form="convenirent" lemma="convenio" postag="v3pisa---" relation="OBJ" head="9"/>
+      <word id="14" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="19"/>
+      <word id="15" form="horam" lemma="hora1" postag="n-s---fa-" relation="ADV" head="14"/>
+      <word id="16" form="nonam" lemma="nonus" postag="a-s---fa-" relation="ATR" head="15"/>
+      <word id="17" form="in" lemma="in" postag="r--------" relation="AuxP" head="19"/>
+      <word id="18" form="ancoris" lemma="ancora" postag="n-p---fb-" relation="ADV" head="17"/>
+      <word id="19" form="expectavit" lemma="exspecto" postag="v3sria---" relation="PRED" head="0"/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="21" form="esse" lemma="sum1" postag="v--pna---" relation="OBJ" head="7"/>
+   </sentence>
 </treebank>
