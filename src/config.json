@@ -88,6 +88,23 @@
           ]
         },
         {
+          "path": "lesson_3",
+          "author": "Caesar",
+          "work": "Bellum Gallicum",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "2-22",
+              "path": "lesson_3",
+              "xml": "Latin-301/lesson_3.xml",
+              "chunks": {
+                "start": 1,
+                "end": 22
+              }
+            }
+          ]
+        },
+        {
           "path": "Unit_1_2_nouns",
           "author": "Xenophon",
           "work": "Hellenica (simlified excerpts)",
