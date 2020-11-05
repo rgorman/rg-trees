@@ -794,6 +794,15 @@
       <word id="48" form="erat" lemma="sum1" postag="v3siia---" relation="ATR_CO" head="15"/>
    </sentence>
    
+   <sentence id="38">
+      <word id="1" form="quae" lemma="qui2" postag="a-s---fn_" relation="ATR" head="2"/>
+      <word id="2" form="res" lemma="res" postag="n-s---fn-" relation="SBJ" head="6"/>
+      <word id="3" form="magno" lemma="magnus" postag="a-s---md-" relation="ATR" head="4"/>
+      <word id="4" form="usui" lemma="usus2" postag="n-s---md-" relation="" head="6"/>
+      <word id="5" form="nostris" lemma="noster" postag="a-p---md-" relation="ADV" head="6"/>
+      <word id="6" form="fuit" lemma="sum1" postag="v3sria---" relation="PRED" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
    
    
 </treebank>
