@@ -804,5 +804,75 @@
       <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    
+   <sentence id="39">
+      <word id="1" form="Nam" lemma="nam" postag="d-------_" relation="AuxY" head="15"/>
+      <word id="2" form="et" lemma="et" postag="d-------_" relation="AuxY" head="8"/>
+      <word id="3" form="navium" lemma="navis" postag="n-p---fg-" relation="ATR" head="4"/>
+      <word id="4" form="figura" lemma="figura" postag="n-s---fb-" relation="OBJ_CO" head="8"/>
+      <word id="5" form="et" lemma="et" postag="d-------_" relation="AuxY" head="7"/>
+      <word id="6" form="remorum" lemma="remus1" postag="n-p---mg-" relation="ATR" head="7"/>
+      <word id="7" form="motu" lemma="motus2" postag="n-s---mb-" relation="OBJ_CO" head="8"/>
+      <word id="8" form="et" lemma="et" postag="c--------" relation="COORD" head="12"/>
+      <word id="9" form="inusitato" lemma="inusitatus" postag="a-s---nb-" relation="ATR" head="10"/>
+      <word id="10" form="genere" lemma="genus1" postag="n-s---nb-" relation="OBJ_CO" head="8"/>
+      <word id="11" form="tormentorum" lemma="tormentum" postag="n-p---ng-" relation="ATR" head="10"/>
+      <word id="12" form="permoti" lemma="permoveo" postag="v-prppmn-" relation="ADV" head="15"/>
+      <word id="13" form="barbari" lemma="barbarus" postag="n-p---mn-" relation="SBJ" head="15"/>
+      <word id="14" form="constiterunt" lemma="consto" postag="v3pria---" relation="PRED_CO" head="15"/>
+      <word id="15" form="ac" lemma="atque" postag="c--------" relation="COORD" head="0"/>
+      <word id="16" form="paulum" lemma="paulus1" postag="d-------_" relation="ADV" head="19"/>
+      <word id="17" form="modo" lemma="modo" postag="d--------" relation="AuxZ" head="16"/>
+      <word id="18" form="pedem" lemma="pedis" postag="n-s---ma-" relation="OBJ" head="19"/>
+      <word id="19" form="rettulerunt" lemma="refero" postag="v3pria---" relation="PRED_CO" head="15"/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+   <sentence id="40">
+      <word id="1" form="[ADV]" lemma="permoveo" postag="v-prppmn-" relation="ADV" head="4"/>
+      <word id="2" form="barbari" lemma="barbarus" postag="n-p---mn-" relation="SBJ" head="4"/>
+      <word id="3" form="constiterunt" lemma="consto" postag="v3pria---" relation="PRED_CO" head="4"/>
+      <word id="4" form="ac" lemma="atque" postag="c--------" relation="COORD" head="0"/>
+      <word id="5" form="paulum" lemma="paulus1" postag="d-------_" relation="ADV" head="8"/>
+      <word id="6" form="modo" lemma="modo" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="7" form="pedem" lemma="pedis" postag="n-s---ma-" relation="OBJ" head="8"/>
+      <word id="8" form="rettulerunt" lemma="refero" postag="v3pria---" relation="PRED_CO" head="4"/>
+   </sentence>
+   
+   <sentence id="41">
+      <word id="1" form="et" lemma="et" postag="d-------_" relation="AuxY" head="7"/>
+      <word id="2" form="navium" lemma="navis" postag="n-p---fg-" relation="ATR" head="3"/>
+      <word id="3" form="figura" lemma="figura" postag="n-s---fb-" relation="OBJ_CO" head="7"/>
+      <word id="4" form="et" lemma="et" postag="d-------_" relation="AuxY" head="6"/>
+      <word id="5" form="remorum" lemma="remus1" postag="n-p---mg-" relation="ATR" head="6"/>
+      <word id="6" form="motu" lemma="motus2" postag="n-s---mb-" relation="OBJ_CO" head="7"/>
+      <word id="7" form="et" lemma="et" postag="c--------" relation="COORD" head="11"/>
+      <word id="8" form="inusitato" lemma="inusitatus" postag="a-s---nb-" relation="ATR" head="9"/>
+      <word id="9" form="genere" lemma="genus1" postag="n-s---nb-" relation="OBJ_CO" head="7"/>
+      <word id="10" form="tormentorum" lemma="tormentum" postag="n-p---ng-" relation="ATR" head="9"/>
+      <word id="11" form="permoti" lemma="permoveo" postag="v-prppmn-" relation="ADV" head="0"/>
+   </sentence>
+   
+   <sentence id="42">
+      <word id="1" form="Nam" lemma="nam" postag="d-------_" relation="AuxY" head="15"/>
+      <word id="2" form="et" lemma="et" postag="d-------_" relation="AuxY" head="8"/>
+      <word id="3" form="navium" lemma="navis" postag="n-p---fg-" relation="ATR" head="4"/>
+      <word id="4" form="figura" lemma="figura" postag="n-s---fb-" relation="OBJ_CO" head="8"/>
+      <word id="5" form="et" lemma="et" postag="d-------_" relation="AuxY" head="7"/>
+      <word id="6" form="remorum" lemma="remus1" postag="n-p---mg-" relation="ATR" head="7"/>
+      <word id="7" form="motu" lemma="motus2" postag="n-s---mb-" relation="OBJ_CO" head="8"/>
+      <word id="8" form="et" lemma="et" postag="c--------" relation="COORD" head="12"/>
+      <word id="9" form="inusitato" lemma="inusitatus" postag="a-s---nb-" relation="ATR" head="10"/>
+      <word id="10" form="genere" lemma="genus1" postag="n-s---nb-" relation="OBJ_CO" head="8"/>
+      <word id="11" form="tormentorum" lemma="tormentum" postag="n-p---ng-" relation="ATR" head="10"/>
+      <word id="12" form="permoti" lemma="permoveo" postag="v-prppmn-" relation="ADV" head="15"/>
+      <word id="13" form="barbari" lemma="barbarus" postag="n-p---mn-" relation="SBJ" head="15"/>
+      <word id="14" form="constiterunt" lemma="consto" postag="v3pria---" relation="PRED_CO" head="15"/>
+      <word id="15" form="ac" lemma="atque" postag="c--------" relation="COORD" head="0"/>
+      <word id="16" form="paulum" lemma="paulus1" postag="d-------_" relation="ADV" head="19"/>
+      <word id="17" form="modo" lemma="modo" postag="d--------" relation="AuxZ" head="16"/>
+      <word id="18" form="pedem" lemma="pedis" postag="n-s---ma-" relation="OBJ" head="19"/>
+      <word id="19" form="rettulerunt" lemma="refero" postag="v3pria---" relation="PRED_CO" head="15"/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
    
 </treebank>
