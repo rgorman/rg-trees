@@ -94,12 +94,12 @@
           "editors": "Robert Gorman",
           "sections": [
             {
-              "locus": "2-22",
+              "locus": "1-49",
               "path": "lesson_3",
               "xml": "Latin-301/lesson_3.xml",
               "chunks": {
                 "start": 1,
-                "end": 22
+                "end": 49
               }
             }
           ]
