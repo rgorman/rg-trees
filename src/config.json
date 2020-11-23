@@ -113,7 +113,7 @@
             {
               "locus": "1-2",
               "path": "Final-exam-trees",
-              "xml": "Final-exam-trees.xml",
+              "xml": "Latin-301/Final-exam-trees.xml",
               "chunks": {
                 "start": 1,
                 "end": 2
