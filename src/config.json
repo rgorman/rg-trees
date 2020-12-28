@@ -105,6 +105,23 @@
           ]
         },
         {
+          "path": "Ovid_ars_amatoria-1",
+          "author": "Caesar",
+          "work": "Bellum Gallicum",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-38",
+              "path": "Ovid_ars_amatoria-1",
+              "xml": "Ovid_ars_amatoria-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 38
+              }
+            }
+          ]
+        },
+        {
           "path": "Final-exam-trees",
           "author": "Caesar",
           "work": "Bellum Gallicum",
