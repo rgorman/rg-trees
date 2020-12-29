@@ -118,7 +118,7 @@
       <word id="1" form="Tiphys" lemma="Tiphys" postag="n-s---mn-" relation="PNOM_CO" head="2"/>
       <word id="2" form="et" lemma="et" postag="c--------" relation="COORD" head="4"/>
       <word id="3" form="Automedon" lemma="Automedon" postag="n-s---mn-" relation="PNOM_CO" head="2"/>
-      <word id="4" form="dicar" lemma="dico2" postag="v1sfip---" relation="PRED" head="0"/>
+      <word id="4" form="dicar" lemma="dico" postag="v1sfip---" relation="PRED" head="0"/>
       <word id="5" form="Amoris" lemma="amor" postag="n-s---mg-" relation="ATR" head="2"/>
       <word id="6" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="4"/>
       <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
