@@ -32,7 +32,7 @@
              document_id="https://my.unl.edu/bbcswebdav/users/rgorman1/templates/Latin302_2016_HW1.xml"
              subdoc=""
              span="">
-      <word id="1" form="Sī" lemma="Sī" postag="c--------" relation="AuxC" head="12"/>
+      <word id="1" form="Si" lemma="Sī" postag="c--------" relation="AuxC" head="12"/>
       <word id="2" form="quis" lemma="quis2" postag="p-s---mn-" relation="SBJ" head="8"/>
       <word id="3" form="in" lemma="in" postag="r--------" relation="AuxP" head="2"/>
       <word id="4" form="hoc" lemma="hic" postag="a-s---mb_" relation="ATR" head="6"/>
@@ -40,7 +40,7 @@
       <word id="6" form="populo" lemma="populus1" postag="n-s---mb-" relation="ATR" head="3"/>
       <word id="7" form="non" lemma="nōn" postag="d--------" relation="AuxZ" head="8"/>
       <word id="8" form="novit" lemma="nosco" postag="v3sria---" relation="ADV" head="1"/>
-      <word id="9" form="amandī" lemma="amo" postag="v_s_da-g-" relation="ATR" head="5"/>
+      <word id="9" form="amandi" lemma="amo" postag="v_s_da-g-" relation="ATR" head="5"/>
       <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="11" form="Hoc" lemma="hic" postag="p-s---na-" relation="OBJ" head="12"/>
       <word id="12" form="legat" lemma="lego2" postag="v3spsa---" relation="PRED_CO" head="13"/>
@@ -57,10 +57,10 @@
         span="">
         <word id="1" form="Arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="8"/>
         <word id="2" form="citae" lemma="cieo" postag="v-prppfn-" relation="ATR" head="5"/>
-        <word id="3" form="vēlo" lemma="vēlum1" postag="n-s---nb-" relation="OBJ_CO" head="7"/>
+        <word id="3" form="velo" lemma="vēlum1" postag="n-s---nb-" relation="OBJ_CO" head="7"/>
         <word id="4" form="-que" lemma="-que" postag="c--------" relation="AuxY" head="7"/>
         <word id="5" form="rates" lemma="ratis" postag="n-p---fn-" relation="SBJ" head="8"/>
-        <word id="6" form="rēmo" lemma="remus1" postag="n-s---mb-" relation="OBJ_CO" head="7"/>
+        <word id="6" form="remo" lemma="remus1" postag="n-s---mb-" relation="OBJ_CO" head="7"/>
         <word id="7" form="-que" lemma="-que" postag="c--------" relation="COORD" head="8"/>
         <word id="8" form="moventur" lemma="moveo" postag="v3ppip---" relation="PRED_CO" head="9"/>
         <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
