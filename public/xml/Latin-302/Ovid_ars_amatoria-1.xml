@@ -30,20 +30,20 @@
   </annotator>
    <sentence id="1" document_id="" subdoc="" span="">
       <word id="1" form="Si" lemma="si" postag="c--------" relation="AuxC" head="13"/>
-      <word id="2" form="quis" lemma="quis2" postag="p-s---mn-" relation="SBJ" head="8"/>
+      <word id="2" form="quis" lemma="quis" postag="p-s---mn-" relation="SBJ" head="8"/>
       <word id="3" form="in" lemma="in" postag="r--------" relation="AuxP" head="8"/>
       <word id="4" form="hoc" lemma="hic" postag="a-s---mb_" relation="ATR" head="6"/>
       <word id="5" form="artem" lemma="ars" postag="n-s---fa-" relation="OBJ" head="8"/>
-      <word id="6" form="populo" lemma="populus1" postag="n-s---mb-" relation="ADV" head="3"/>
+      <word id="6" form="populo" lemma="populus" postag="n-s---mb-" relation="ADV" head="3"/>
       <word id="7" form="non" lemma="non" postag="d--------" relation="AuxZ" head="8"/>
       <word id="8" form="novit" lemma="nosco" postag="v3sria---" relation="ADV" head="1"/>
       <word id="9" form="amandi" lemma="amo" postag="v_s_d_-g-" relation="ATR" head="5"/>
       <word id="10" form="," lemma="" postag="" relation="AuxX" head="0"/>
       <word id="11" form="Hoc" lemma="hic" postag="p-s---na-" relation="OBJ" head="12"/>
-      <word id="12" form="legat" lemma="lego2" postag="v3spsa---" relation="PRED_CO" head="13"/>
+      <word id="12" form="legat" lemma="lego" postag="v3spsa---" relation="PRED_CO" head="13"/>
       <word id="13" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
       <word id="14" form="lecto" lemma="lego2" postag="v-srppnb-" relation="ADV" head="17"/>
-      <word id="15" form="carmine" lemma="carmen2" postag="n-s---nb-" relation="SBJ" head="14"/>
+      <word id="15" form="carmine" lemma="carmen" postag="n-s---nb-" relation="SBJ" head="14"/>
       <word id="16" form="doctus" lemma="doceo" postag="v-srppmn-" relation="ATV" head="17"/>
       <word id="17" form="amet" lemma="amo" postag="v3spsa---" relation="PRED_CO" head="13"/>
       <word id="18" form="." lemma="" postag="" relation="AuxK" head="0"/>
@@ -54,12 +54,12 @@
       <word id="3" form="velo" lemma="velum" postag="n-s---nb-" relation="ADV_CO" head="7"/>
       <word id="4" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="7"/>
       <word id="5" form="rates" lemma="ratis" postag="n-p---fn-" relation="SBJ" head="8"/>
-      <word id="6" form="remo" lemma="remus1" postag="n-s---mb-" relation="ADV_CO" head="7"/>
+      <word id="6" form="remo" lemma="remus" postag="n-s---mb-" relation="ADV_CO" head="7"/>
       <word id="7" form="-que" lemma="que" postag="c--------" relation="COORD" head="8"/>
       <word id="8" form="moventur" lemma="moveo" postag="v3ppip---" relation="PRED_CO" head="9"/>
       <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
       <word id="10" form="Arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="14"/>
-      <word id="11" form="leves" lemma="levis1" postag="a-p---mn-" relation="ATR" head="12"/>
+      <word id="11" form="leves" lemma="levis" postag="a-p---mn-" relation="ATR" head="12"/>
       <word id="12" form="currus" lemma="currus" postag="n-p---mn-" relation="SBJ" head="14"/>
       <word id="13" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="14" form="moventur" lemma="moveo" postag="v3ppip---" relation="PRED_CO" head="9"/>
@@ -100,7 +100,7 @@
       <word id="1" form="Tiphys" lemma="Tiphys" postag="n-s---mn-" relation="PNOM_CO" head="2"/>
       <word id="2" form="et" lemma="et" postag="c--------" relation="COORD" head="4"/>
       <word id="3" form="Automedon" lemma="Automedon" postag="n-s---mn-" relation="PNOM_CO" head="2"/>
-      <word id="4" form="dicar" lemma="dico2" postag="v1sfip---" relation="PRED" head="0"/>
+      <word id="4" form="dicar" lemma="dico" postag="v1sfip---" relation="PRED" head="0"/>
       <word id="5" form="Amoris" lemma="amor" postag="n-s---mg-" relation="ATR" head="2"/>
       <word id="6" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="4"/>
       <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
