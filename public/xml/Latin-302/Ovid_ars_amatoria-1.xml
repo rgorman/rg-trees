@@ -223,10 +223,10 @@
       <word id="10" form="Qui" lemma="qui" postag="p-s---mn-" relation="SBJ" head="17"/>
       <word id="11" form="nova" lemma="novus" postag="a-p---na-" relation="ATR" head="16"/>
       <word id="12" form="nunc" lemma="nunc" postag="d--------" relation="ADV" head="17"/>
-      <word id="13" form="primum" lemma="primus" postag="d-------_" relation="ADV" head="17"/>
+      <word id="13" form="primum" lemma="primum" postag="d-------_" relation="ADV" head="17"/>
       <word id="14" form="miles" lemma="miles" postag="n-s---mn-" relation="ATV" head="10"/>
       <word id="15" form="in" lemma="in" postag="r--------" relation="AuxP" head="17"/>
-      <word id="16" form="arma" lemma="arma" postag="n-p---na-" relation="OBJ" head="15"/>
+      <word id="16" form="arma" lemma="armum" postag="n-p---na-" relation="OBJ" head="15"/>
       <word id="17" form="venis" lemma="venio" postag="v2spia---" relation="SBJ" head="8"/>
       <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
@@ -246,7 +246,7 @@
       <word id="3" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="9"/>
       <word id="4" form="longo" lemma="longus" postag="a-s---nb-" relation="ATR" head="5"/>
       <word id="5" form="tempore" lemma="tempus" postag="n-s---nb-" relation="ADV" head="6"/>
-      <word id="6" form="duret" lemma="duro" postag="v3spsa---" relation="SBJ" head="3"/>
+      <word id="6" form="duret" lemma="duro" postag="v3spsa---" relation="PNOM" head="3"/>
       <word id="7" form="amor" lemma="amor" postag="n-s---mn-" relation="SBJ" head="6"/>
       <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="9" form="est" lemma="sum" postag="v3spia---" relation="PRED" head="0"/>
