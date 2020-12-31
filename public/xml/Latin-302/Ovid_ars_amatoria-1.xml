@@ -136,7 +136,7 @@
       <word id="28" form="-que" lemma="que" postag="c--------" relation="COORD" head="25"/>
       <word id="29" form="sorores" lemma="soror" postag="n-p---fn-" relation="SBJ_CO" head="28"/>
       <word id="30" form="Servanti" lemma="servo" postag="v-spp-md-" relation="ATR" head="23"/>
-      <word id="31" form="pecudes" lemma="pecus2" postag="n-p---ma-" relation="OBJ" head="30"/>
+      <word id="31" form="pecudes" lemma="pecus" postag="n-p---ma-" relation="OBJ" head="30"/>
       <word id="32" form="vallibus" lemma="valles" postag="n-p---fb-" relation="ADV" head="30"/>
       <word id="33" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="34" form="Ascra" lemma="Ascra" postag="n-s---fv-" relation="ExD" head="25"/>
