@@ -146,9 +146,9 @@
    </sentence>
    <sentence id="8" document_id="" subdoc="" span="">
       <word id="1" form="Usus" lemma="usus" postag="n-s---mn-" relation="SBJ" head="3"/>
-      <word id="2" form="opus" lemma="opus" postag="n-s---nn-" relation="OBJ" head="3"/>
+      <word id="2" form="opus" lemma="opus" postag="n-s---na-" relation="OBJ" head="3"/>
       <word id="3" form="movet" lemma="moveo" postag="v3spia---" relation="PRED" head="0"/>
-      <word id="4" form="hoc" lemma="hic" postag="a-s---nb_" relation="ATR" head="2"/>
+      <word id="4" form="hoc" lemma="hic" postag="a-s---na_" relation="ATR" head="2"/>
       <word id="5" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="9" document_id="" subdoc="" span="">
