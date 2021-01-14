@@ -44,7 +44,7 @@
       <word id="13" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
       <word id="14" form="lecto" lemma="lego" postag="v-srppnb-" relation="ADV" head="17"/>
       <word id="15" form="carmine" lemma="carmen" postag="n-s---nb-" relation="SBJ" head="14"/>
-      <word id="16" form="doctus" lemma="doceo" postag="a-s---mn-" relation="ATV" head="17"/>
+      <word id="16" form="doctus" lemma="doctus" postag="a-s---mn-" relation="ATV" head="17"/>
       <word id="17" form="amet" lemma="amo" postag="v3spsa---" relation="PRED_CO" head="13"/>
       <word id="18" form="." lemma="" postag="" relation="AuxK" head="0"/>
    </sentence>
