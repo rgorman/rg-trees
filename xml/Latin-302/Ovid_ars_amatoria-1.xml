@@ -181,7 +181,7 @@
       <word id="7" form="insigne" lemma="insigne" postag="n-s---nv-" relation="ExD_AP_CO" head="6"/>
       <word id="8" form="pudoris" lemma="pudor" postag="n-s---mg-" relation="ATR" head="7"/>
       <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="Quae" lemma="qui" postag="p-s---fn-" relation="SBJ" head="12"/>
+      <word id="10" form="Quae" lemma="qui1" postag="p-s---fn-" relation="SBJ" head="12"/>
       <word id="11" form="-que" lemma="" postag="" relation="COORD" head="1"/>
       <word id="12" form="tegis" lemma="tego" postag="v2spia---" relation="ATR" head="15"/>
       <word id="13" form="medios" lemma="medius" postag="a-p---ma-" relation="ATR" head="18"/>
