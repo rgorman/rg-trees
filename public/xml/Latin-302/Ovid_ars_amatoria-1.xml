@@ -55,7 +55,7 @@
       <word id="4" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="7"/>
       <word id="5" form="rates" lemma="ratis" postag="n-p---fn-" relation="SBJ" head="8"/>
       <word id="6" form="remo" lemma="remus" postag="n-s---mb-" relation="ADV_CO" head="7"/>
-      <word id="7" form="-que" lemma="que" postag="c--------" relation="COORD" head="8"/>
+      <word id="7" form="-que" lemma="-que" postag="c--------" relation="COORD" head="8"/>
       <word id="8" form="moventur" lemma="moveo" postag="v3ppip---" relation="PRED_CO" head="9"/>
       <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
       <word id="10" form="Arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="14"/>
