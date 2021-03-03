@@ -1,597 +1,890 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank xmlns:saxon="http://saxon.sf.net/"
-          xml:lang="lat"
-          format="aldt"
-          version="1.5">
-   <date>2016-01-12 18:07:37 +0000</date>
-   <annotator>
-      <short/>
-      <name/>
-      <address/>
-      <uri>http://services2.perseids.org/llt/segtok</uri>
-  </annotator>
-   <annotator>
-      <short/>
-      <name/>
-      <address/>
-      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
-  </annotator>
-   <annotator>
-      <short>Bob Gorman</short>
-      <name>Robert Gorman</name>
-      <address>rgorman1@unl.edu</address>
-      <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
-  </annotator>
-   <annotator>
-      <short>Bob Gorman</short>
-      <name>Robert Gorman</name>
-      <address>rgorman1@unl.edu</address>
-      <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
-  </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
-      <word id="1" form="Si" lemma="si" postag="c--------" relation="AuxC" head="13"/>
-      <word id="2" form="quis" lemma="quis" postag="p-s---mn-" relation="SBJ" head="8"/>
-      <word id="3" form="in" lemma="in" postag="r--------" relation="AuxP" head="8"/>
-      <word id="4" form="hoc" lemma="hic" postag="a-s---mb_" relation="ATR" head="6"/>
-      <word id="5" form="artem" lemma="ars" postag="n-s---fa-" relation="OBJ" head="8"/>
-      <word id="6" form="populo" lemma="populus" postag="n-s---mb-" relation="ADV" head="3"/>
-      <word id="7" form="non" lemma="non" postag="d--------" relation="AuxZ" head="8"/>
-      <word id="8" form="novit" lemma="nosco" postag="v3sria---" relation="ADV" head="1"/>
-      <word id="9" form="amandi" lemma="amo" postag="v_s_d_-g-" relation="ATR" head="5"/>
-      <word id="10" form="," lemma="" postag="" relation="AuxX" head="0"/>
-      <word id="11" form="Hoc" lemma="hic" postag="p-s---na-" relation="OBJ" head="12"/>
-      <word id="12" form="legat" lemma="lego" postag="v3spsa---" relation="PRED_CO" head="13"/>
-      <word id="13" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
-      <word id="14" form="lecto" lemma="lego" postag="v-srppnb-" relation="ADV" head="17"/>
-      <word id="15" form="carmine" lemma="carmen" postag="n-s---nb-" relation="SBJ" head="14"/>
-      <word id="16" form="doctus" lemma="doctus" postag="a-s---mn-" relation="ATV" head="17"/>
-      <word id="17" form="amet" lemma="amo" postag="v3spsa---" relation="PRED_CO" head="13"/>
-      <word id="18" form="." lemma="" postag="" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="2" document_id="" subdoc="" span="">
-      <word id="1" form="Arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="8"/>
-      <word id="2" form="citae" lemma="citus" postag="a-p---fn-" relation="ATR" head="5"/>
-      <word id="3" form="velo" lemma="velum" postag="n-s---nb-" relation="ADV_CO" head="7"/>
-      <word id="4" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="7"/>
-      <word id="5" form="rates" lemma="ratis" postag="n-p---fn-" relation="SBJ" head="8"/>
-      <word id="6" form="remo" lemma="remus" postag="n-s---mb-" relation="ADV_CO" head="7"/>
-      <word id="7" form="-que" lemma="-que" postag="c--------" relation="COORD" head="8"/>
-      <word id="8" form="moventur" lemma="moveo" postag="v3ppip---" relation="PRED_CO" head="9"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
-      <word id="10" form="Arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="14"/>
-      <word id="11" form="leves" lemma="levis" postag="a-p---mn-" relation="ATR" head="12"/>
-      <word id="12" form="currus" lemma="currus" postag="n-p---mn-" relation="SBJ" head="14"/>
-      <word id="13" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="14" form="moventur" lemma="moveo" postag="v3ppip---" relation="PRED_CO" head="9"/>
-   </sentence>
-   <sentence id="3" document_id="" subdoc="" span="">
-      <word id="1" form="arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="2"/>
-      <word id="2" form="regendus" lemma="rego" postag="v-s-g-mn-" relation="PRED" head="0"/>
-      <word id="3" form="amor" lemma="amor" postag="n-s---mn-" relation="SBJ" head="2"/>
-      <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="4" document_id="" subdoc="" span="">
-      <word id="1" form="Curribus" lemma="currus" postag="n-p---md-" relation="ADV_CO" head="4"/>
-      <word id="2" form="Automedon" lemma="Automedon" postag="n-s---mn-" relation="SBJ" head="5"/>
-      <word id="3" form="lentis" lemma="lentus" postag="a-p---fd-" relation="ATR" head="7"/>
-      <word id="4" form="que" lemma="que" postag="c--------" relation="COORD" head="6"/>
-      <word id="5" form="erat" lemma="sum" postag="v3siia---" relation="PRED_CO" head="8"/>
-      <word id="6" form="aptus" lemma="aptus" postag="a-s---mn-" relation="PNOM" head="5"/>
-      <word id="7" form="habenis" lemma="habena" postag="n-p---fd-" relation="ADV_CO" head="4"/>
-      <word id="8" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
-      <word id="9" form="Tiphys" lemma="Tiphys" postag="n-s---mn-" relation="SBJ" head="14"/>
-      <word id="10" form="in" lemma="in" postag="r--------" relation="AuxP" head="14"/>
-      <word id="11" form="Haemonia" lemma="Haemonius" postag="a-s---fb_" relation="ATR" head="12"/>
-      <word id="12" form="puppe" lemma="puppis" postag="n-s---fb-" relation="ADV" head="10"/>
-      <word id="13" form="magister" lemma="magister" postag="n-s---mn-" relation="PNOM" head="14"/>
-      <word id="14" form="erat" lemma="sum" postag="v3siia---" relation="PRED_CO" head="8"/>
-      <word id="15" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="5" document_id="" subdoc="" span="">
-      <word id="1" form="Me" lemma="ego" postag="p-s---ma-" relation="OBJ" head="5"/>
-      <word id="2" form="Venus" lemma="Venus" postag="n-s---fn-" relation="SBJ" head="5"/>
-      <word id="3" form="artificem" lemma="artifex" postag="n-s---ma-" relation="ATV" head="1"/>
-      <word id="4" form="tenero" lemma="tener" postag="a-s---md-" relation="ATR" head="6"/>
-      <word id="5" form="praefecit" lemma="praeficio" postag="v3sria---" relation="PRED" head="0"/>
-      <word id="6" form="Amori" lemma="amor" postag="n-s---md-" relation="OBJ" head="5"/>
-      <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="6" document_id="" subdoc="" span="">
-      <word id="1" form="Tiphys" lemma="Tiphys" postag="n-s---mn-" relation="PNOM_CO" head="2"/>
-      <word id="2" form="et" lemma="et" postag="c--------" relation="COORD" head="4"/>
-      <word id="3" form="Automedon" lemma="Automedon" postag="n-s---mn-" relation="PNOM_CO" head="2"/>
-      <word id="4" form="dicar" lemma="dico" postag="v1sfip---" relation="PRED" head="0"/>
-      <word id="5" form="Amoris" lemma="amor" postag="n-s---mg-" relation="ATR" head="2"/>
-      <word id="6" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="4"/>
-      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="7" document_id="" subdoc="" span="">
-      <word id="1" form="Non" lemma="non" postag="d--------" relation="AuxZ" head="10"/>
-      <word id="2" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="10"/>
-      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="4" form="Phoebe" lemma="Phoebus" postag="n-s---mv-" relation="ExD" head="10"/>
-      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="6" form="datas" lemma="do" postag="v-prppfa-" relation="OBJ" head="10"/>
-      <word id="7" form="a" lemma="ab" postag="r--------" relation="AuxP" head="6"/>
-      <word id="8" form="te" lemma="tu" postag="p-s---mb-" relation="OBJ" head="7"/>
-      <word id="9" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="10"/>
-      <word id="10" form="mentiar" lemma="mentior" postag="v1sfid---" relation="PRED_CO" head="22"/>
-      <word id="11" form="artes" lemma="ars" postag="n-p---fa-" relation="SBJ" head="6"/>
-      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="13" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="18"/>
-      <word id="14" form="-c" lemma="que" postag="d-------_" relation="AuxY" head="22"/>
-      <word id="15" form="nos" lemma="nos" postag="p-p---mn-" relation="SBJ" head="18"/>
-      <word id="16" form="aeriae" lemma="aerius" postag="a-s---fg-" relation="ATR" head="19"/>
-      <word id="17" form="voce" lemma="vox" postag="n-s---fb-" relation="" head="18"/>
-      <word id="18" form="monemur" lemma="moneo" postag="v1ppip---" relation="PRED_CO" head="22"/>
-      <word id="19" form="avis" lemma="avis" postag="n-s---fg-" relation="ATR" head="17"/>
-      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="21" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="25"/>
-      <word id="22" form="-c" lemma="que" postag="c--------" relation="COORD" head="0"/>
-      <word id="23" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="25"/>
-      <word id="24" form="sunt" lemma="sum" postag="v3ppia---" relation="AuxV" head="25"/>
-      <word id="25" form="visae" lemma="video" postag="v-prppfn-" relation="PRED_CO" head="22"/>
-      <word id="26" form="Clio" lemma="Clio" postag="n-s---fn-" relation="SBJ_CO" head="28"/>
-      <word id="27" form="Clius" lemma="Clius" postag="n-s---fg-" relation="ATR" head="29"/>
-      <word id="28" form="-que" lemma="que" postag="c--------" relation="COORD" head="25"/>
-      <word id="29" form="sorores" lemma="soror" postag="n-p---fn-" relation="SBJ_CO" head="28"/>
-      <word id="30" form="Servanti" lemma="servo" postag="v-spp-md-" relation="ATR" head="23"/>
-      <word id="31" form="pecudes" lemma="pecus" postag="n-p---ma-" relation="OBJ" head="30"/>
-      <word id="32" form="vallibus" lemma="valles" postag="n-p---fb-" relation="ADV" head="30"/>
-      <word id="33" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="34" form="Ascra" lemma="Ascra" postag="n-s---fv-" relation="ExD" head="25"/>
-      <word id="35" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="36" form="tuis" lemma="tuus" postag="a-p---fb-" relation="ATR" head="32"/>
-      <word id="37" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="8" document_id="" subdoc="" span="">
-      <word id="1" form="Usus" lemma="usus" postag="n-s---mn-" relation="SBJ" head="3"/>
-      <word id="2" form="opus" lemma="opus" postag="n-s---na-" relation="OBJ" head="3"/>
-      <word id="3" form="movet" lemma="moveo" postag="v3spia---" relation="PRED" head="0"/>
-      <word id="4" form="hoc" lemma="hic" postag="a-s---na_" relation="ATR" head="2"/>
-      <word id="5" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="9" document_id="" subdoc="" span="">
-      <word id="1" form="vati" lemma="vates" postag="n-s---md-" relation="OBJ" head="2"/>
-      <word id="2" form="parete" lemma="pareo" postag="v2ppma---" relation="PRED" head="0"/>
-      <word id="3" form="perito" lemma="peritus" postag="a-s---md-" relation="ATR" head="1"/>
-      <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="10" document_id="" subdoc="" span="">
-      <word id="1" form="Vera" lemma="verus" postag="a-p---na-" relation="OBJ" head="2"/>
-      <word id="2" form="canam" lemma="cano" postag="v1sfia---" relation="PRED" head="0"/>
-      <word id="3" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="11" document_id="" subdoc="" span="">
-      <word id="1" form="coeptis" lemma="coeptum" postag="n-p---nd-" relation="OBJ" head="6"/>
-      <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="3" form="mater" lemma="mater" postag="n-s---fv-" relation="ExD" head="6"/>
-      <word id="4" form="Amoris" lemma="amor" postag="n-s---mg-" relation="ATR" head="3"/>
-      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="6" form="ades" lemma="adsum" postag="v2spma---" relation="PRED" head="0"/>
-      <word id="7" form="!" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="12" document_id="" subdoc="" span="">
-      <word id="1" form="Este" lemma="sum" postag="v2ppma---" relation="PRED" head="0"/>
-      <word id="2" form="procul" lemma="procul" postag="d--------" relation="PNOM" head="1"/>
-      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="4" form="vittae" lemma="vitta" postag="n-p---fv-" relation="ExD_AP_CO" head="6"/>
-      <word id="5" form="tenues" lemma="tenuis" postag="a-p---fv-" relation="ATR" head="4"/>
-      <word id="6" form="," lemma="punc1" postag="u--------" relation="APOS" head="11"/>
-      <word id="7" form="insigne" lemma="insigne" postag="n-s---nv-" relation="ExD_AP_CO" head="6"/>
-      <word id="8" form="pudoris" lemma="pudor" postag="n-s---mg-" relation="ATR" head="7"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="Quae" lemma="qui1" postag="p-s---fn-" relation="SBJ" head="12"/>
-      <word id="11" form="-que" lemma="" postag="" relation="COORD" head="1"/>
-      <word id="12" form="tegis" lemma="tego" postag="v2spia---" relation="ATR" head="15"/>
-      <word id="13" form="medios" lemma="medius" postag="a-p---ma-" relation="ATR" head="18"/>
-      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="15" form="instita" lemma="instita" postag="n-s---fv-" relation="ExD_CO" head="11"/>
-      <word id="16" form="longa" lemma="longus" postag="a-s---fv-" relation="ATR" head="15"/>
-      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="18" form="pedes" lemma="pes" postag="n-p---ma-" relation="OBJ" head="12"/>
-      <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="13" document_id="" subdoc="" span="">
-      <word id="1" form="Nos" lemma="nos" postag="p-p---fa-" relation="SBJ" head="7"/>
-      <word id="2" form="venerem" lemma="Venus" postag="n-s---fa-" relation="OBJ_CO" head="5"/>
-      <word id="3" form="tutam" lemma="tutus" postag="a-s---fa_" relation="ATR" head="2"/>
-      <word id="4" form="concessa" lemma="concedo" postag="v-prppna-" relation="ATR" head="6"/>
-      <word id="5" form="-que" lemma="que" postag="c--------" relation="COORD" head="7"/>
-      <word id="6" form="furta" lemma="furtum" postag="n-p---na-" relation="OBJ_CO" head="5"/>
-      <word id="7" form="canemus" lemma="cano" postag="v1pfia---" relation="PRED_CO" head="10"/>
-      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="9" form="In" lemma="in" postag="r--------" relation="AuxP" head="15"/>
-      <word id="10" form="-que" lemma="que" postag="c--------" relation="COORD" head="0"/>
-      <word id="11" form="meo" lemma="meus" postag="a-s---nb-" relation="ATR" head="13"/>
-      <word id="12" form="nullum" lemma="nullus" postag="a-s---nn-" relation="ATR" head="14"/>
-      <word id="13" form="carmine" lemma="carmen" postag="n-s---nb-" relation="PNOM" head="9"/>
-      <word id="14" form="crimen" lemma="crimen" postag="n-s---nn-" relation="SBJ" head="15"/>
-      <word id="15" form="erit" lemma="sum" postag="v3sfia---" relation="PRED_CO" head="10"/>
-      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="14" document_id="" subdoc="" span="">
-      <word id="1" form="Principio" lemma="principium" postag="n-s---nb-" relation="AuxY" head=""/>
-      <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="3" form="quod" lemma="qui" postag="p-s---na-" relation="OBJ" head="4"/>
-      <word id="4" form="amare" lemma="amo" postag="v--pna---" relation="OBJ" head="5"/>
-      <word id="5" form="velis" lemma="volo" postag="v2spsa---" relation="OBJ" head="7"/>
-      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="7" form="reperire" lemma="reperio" postag="v--pna---" relation="OBJ" head="8"/>
-      <word id="8" form="labora" lemma="laboro" postag="v2spma---" relation="PRED" head="0"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="Qui" lemma="qui" postag="p-s---mn-" relation="SBJ" head="17"/>
-      <word id="11" form="nova" lemma="novus" postag="a-p---na-" relation="ATR" head="16"/>
-      <word id="12" form="nunc" lemma="nunc" postag="d--------" relation="ADV" head="17"/>
-      <word id="13" form="primum" lemma="primum" postag="d-------_" relation="ADV" head="17"/>
-      <word id="14" form="miles" lemma="miles" postag="n-s---mn-" relation="ATV" head="10"/>
-      <word id="15" form="in" lemma="in" postag="r--------" relation="AuxP" head="17"/>
-      <word id="16" form="arma" lemma="armum" postag="n-p---na-" relation="OBJ" head="15"/>
-      <word id="17" form="venis" lemma="venio" postag="v2spia---" relation="SBJ" head="8"/>
-      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="15" document_id="" subdoc="" span="">
-      <word id="1" form="Proximus" lemma="proximus" postag="a-s---mn-" relation="ATR" head="3"/>
-      <word id="2" form="huic" lemma="hic" postag="p-s---md-" relation="ADV" head="1"/>
-      <word id="3" form="labor" lemma="labor" postag="n-s---mn-" relation="SBJ" head="4"/>
-      <word id="4" form="est" lemma="sum" postag="v3spia---" relation="PRED" head="0"/>
-      <word id="5" form="placitam" lemma="placitus" postag="a-s---fa-" relation="ATR" head="7"/>
-      <word id="6" form="exorare" lemma="exoro" postag="v--pna---" relation="PNOM" head="4"/>
-      <word id="7" form="puellam" lemma="puella" postag="n-s---fa-" relation="OBJ" head="6"/>
-      <word id="8" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="16" document_id="" subdoc="" span="">
-      <word id="1" form="Tertius" lemma="tertius" postag="a-s---mn-" relation="SBJ" head="9"/>
-      <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="3" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="9"/>
-      <word id="4" form="longo" lemma="longus" postag="a-s---nb-" relation="ATR" head="5"/>
-      <word id="5" form="tempore" lemma="tempus" postag="n-s---nb-" relation="ADV" head="6"/>
-      <word id="6" form="duret" lemma="duro" postag="v3spsa---" relation="PNOM" head="3"/>
-      <word id="7" form="amor" lemma="amor" postag="n-s---mn-" relation="SBJ" head="6"/>
-      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="9" form="est" lemma="sum" postag="v3spia---" relation="PRED" head="0"/>
-   </sentence>
-   <sentence id="17" document_id="" subdoc="" span="">
-      <word id="1" form="Hic" lemma="hic" postag="p-s---mn-" relation="SBJ" head="10"/>
-      <word id="2" form="modus" lemma="modus" postag="n-s---mn-" relation="PNOM" head="10"/>
-      <word id="3" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
-      <word id="4" form="haec" lemma="hic" postag="a-s---fn_" relation="ATR" head="7"/>
-      <word id="5" form="nostro" lemma="noster" postag="a-s---mb-" relation="ATR" head="8"/>
-      <word id="6" form="signabitur" lemma="signo" postag="v3sfip---" relation="PRED_CO" head="3"/>
-      <word id="7" form="area" lemma="area" postag="n-s---fn-" relation="SBJ" head="6"/>
-      <word id="8" form="curru" lemma="currus" postag="n-s---mb-" relation="ADV" head="6"/>
-      <word id="9" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="10" form="erit" lemma="sum" postag="v3sfia---" relation="PRED_CO" head="3"/>
-   </sentence>
-   <sentence id="18" document_id="" subdoc="" span="">
-      <word id="1" form="Haec" lemma="hic" postag="a-s---fn_" relation="ATR" head="4"/>
-      <word id="2" form="erit" lemma="sum" postag="v3sfia---" relation="AuxV" head="5"/>
-      <word id="3" form="admissa" lemma="admitto" postag="v-srppfb-" relation="ATR" head="6"/>
-      <word id="4" form="meta" lemma="meta" postag="n-s---fn-" relation="SBJ" head="5"/>
-      <word id="5" form="premenda" lemma="premo" postag="v-s-g-fn-" relation="PRED" head="0"/>
-      <word id="6" form="rota" lemma="rota" postag="n-s---fb-" relation="ADV" head="5"/>
-      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="19" document_id="" subdoc="" span="">
-      <word id="1" form="Dum" lemma="dum" postag="c--------" relation="AuxC" head="10"/>
-      <word id="2" form="licet" lemma="licet" postag="v3spia---" relation="ADV_CO" head="3"/>
-      <word id="3" form="et" lemma="et" postag="c--------" relation="COORD" head="1"/>
-      <word id="4" form="loris" lemma="lorum" postag="n-p---nb-" relation="ADV" head="7"/>
-      <word id="5" form="passim" lemma="passim" postag="d--------" relation="ADV" head="7"/>
-      <word id="6" form="potes" lemma="possum" postag="v2spia---" relation="ADV_CO" head="3"/>
-      <word id="7" form="ire" lemma="eo" postag="v--pna---" relation="OBJ" head="6"/>
-      <word id="8" form="solutis" lemma="solvo" postag="v-prppnb-" relation="ATR" head="4"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="Elige" lemma="eligo" postag="v2spma---" relation="PRED" head="0"/>
-      <word id="11" form="cui" lemma="qui2" postag="p-s---fd-" relation="OBJ" head="12"/>
-      <word id="12" form="dicas" lemma="dico" postag="v2spsa---" relation="OBJ" head="10"/>
-      <word id="13" form="‘" lemma="" postag="" relation="AuxX" head="0"/>
-      <word id="14" form="tu" lemma="tu" postag="p-s---fn-" relation="SBJ" head="17"/>
-      <word id="15" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="17"/>
-      <word id="16" form="sola" lemma="solus" postag="a-s---fn-" relation="ATR" head="14"/>
-      <word id="17" form="places" lemma="placeo" postag="v2spia---" relation="OBJ" head="12"/>
-      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="20" document_id="" subdoc="" span="">
-      <word id="1" form="’" lemma="" postag="" relation="AuxX" head="0"/>
-      <word id="2" form="Haec" lemma="hic" postag="p-s---fn-" relation="SBJ" head="6"/>
-      <word id="3" form="tibi" lemma="tu" postag="p-s---md-" relation="OBJ" head="6"/>
-      <word id="4" form="non" lemma="non" postag="d--------" relation="AuxZ" head="6"/>
-      <word id="5" form="tenues" lemma="tenuis" postag="a-p---fa-" relation="ATR" head="9"/>
-      <word id="6" form="veniet" lemma="venio" postag="v3sfia---" relation="PRED" head="0"/>
-      <word id="7" form="delapsa" lemma="delabor" postag="v-srpdfn_" relation="ADV" head="6"/>
-      <word id="8" form="per" lemma="per" postag="r--------" relation="AuxP" head="7"/>
-      <word id="9" form="auras" lemma="aura" postag="n-p---fa-" relation="ADV" head="8"/>
-      <word id="10" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="21" document_id="" subdoc="" span="">
-      <word id="1" form="Quaerenda" lemma="quaero" postag="v-s-g-fn-" relation="PRED" head="0"/>
-      <word id="2" form="est" lemma="sum" postag="v3spia---" relation="AuxV" head="1"/>
-      <word id="3" form="oculis" lemma="oculus" postag="n-p---mb-" relation="ADV" head="4"/>
-      <word id="4" form="apta" lemma="aptus" postag="a-s---fn-" relation="ATR" head="5"/>
-      <word id="5" form="puella" lemma="puella" postag="n-s---fn-" relation="SBJ" head="1"/>
-      <word id="6" form="tuis" lemma="tuus" postag="a-p---mb-" relation="ATR" head="3"/>
-      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="22" document_id="" subdoc="" span="">
-      <word id="1" form="Scit" lemma="scio" postag="v3spia---" relation="PRED" head="0"/>
-      <word id="2" form="bene" lemma="bene" postag="d--------" relation="ADV" head="1"/>
-      <word id="3" form="venator" lemma="venator" postag="n-s---mn-" relation="SBJ" head="1"/>
-      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="5" form="cervis" lemma="cerva" postag="n-p---fd-" relation="ADV" head="8"/>
-      <word id="6" form="ubi" lemma="ubi" postag="c--------" relation="AuxC" head="1"/>
-      <word id="7" form="retia" lemma="rete" postag="n-p---na-" relation="OBJ" head="8"/>
-      <word id="8" form="tendat" lemma="tendo" postag="v3spsa---" relation="OBJ" head="6"/>
-      <word id="9" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="23" document_id="" subdoc="" span="">
-      <word id="1" form="Scit" lemma="scio" postag="v3spia---" relation="PRED" head="0"/>
-      <word id="2" form="bene" lemma="bene" postag="d--------" relation="ADV" head="1"/>
-      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="4" form="qua" lemma="qui" postag="p-s---fb-" relation="ATR" head="6"/>
-      <word id="5" form="frendens" lemma="frendo" postag="v-spp-mn-" relation="ATR" head="8"/>
-      <word id="6" form="valle" lemma="valles" postag="n-s---fb-" relation="ADV" head="7"/>
-      <word id="7" form="moretur" lemma="moror" postag="v3spsp---" relation="OBJ" head="1"/>
-      <word id="8" form="aper" lemma="aper" postag="n-s---mn-" relation="SBJ" head="7"/>
-      <word id="9" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="24" document_id="" subdoc="" span="">
-      <word id="1" form="Aucupibus" lemma="auceps" postag="n-s---md-" relation="ADV" head="5"/>
-      <word id="2" form="noti" lemma="notus" postag="a-p---mn-" relation="PNOM" head="5"/>
-      <word id="3" form="frutices" lemma="frutex" postag="n-p---mn-" relation="SBJ" head="5"/>
-      <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="5" insertion_id="0004e" artificial="elliptic" relation="PRED" lemma="sum1" postag="v3ppia---" form="sunt" head="0"/>
-   </sentence>
-   <sentence id="25" document_id="" subdoc="" span="">
-      <word id="1" form="qui" lemma="qui" postag="p-s---mn-" relation="SBJ" head="2"/>
-      <word id="2" form="sustinet" lemma="sustineo" postag="v3spia---" relation="SBJ" head="5"/>
-      <word id="3" form="hamos" lemma="hamus" postag="n-p---ma-" relation="OBJ" head="2"/>
-      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="5" form="Novit" lemma="nosco" postag="v3sria---" relation="PRED" head="0"/>
-      <word id="6" form="quae" lemma="quis" postag="a-p---fn_" relation="ATR" head="10"/>
-      <word id="7" form="multo" lemma="multus" postag="a-s---mb-" relation="ATR" head="8"/>
-      <word id="8" form="pisce" lemma="piscis" postag="n-s---mb-" relation="OBJ" head="9"/>
-      <word id="9" form="natentur" lemma="nato" postag="v3ppsp---" relation="OBJ" head="5"/>
-      <word id="10" form="aquae" lemma="aqua" postag="n-p---fn-" relation="SBJ" head="9"/>
-      <word id="11" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="26" document_id="" subdoc="" span="">
-      <word id="1" form="Tu" lemma="tu" postag="p-s---mn-" relation="SBJ" head="14"/>
-      <word id="2" form="quoque" lemma="quoque" postag="d--------" relation="AuxZ" head="1"/>
-      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="4" form="materiam" lemma="materia" postag="n-s---fa-" relation="OBJ" head="7"/>
-      <word id="5" form="longo" lemma="longus" postag="a-s---md-" relation="ATR" head="8"/>
-      <word id="6" form="qui" lemma="qui" postag="p-s---mn-" relation="SBJ" head="7"/>
-      <word id="7" form="quaeris" lemma="quaero" postag="v2spia---" relation="ATR" head="1"/>
-      <word id="8" form="amori" lemma="amor" postag="n-s---md-" relation="ATR" head="4"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="Ante" lemma="ante" postag="d--------" relation="ADV" head="14"/>
-      <word id="11" form="frequens" lemma="frequens" postag="a-s---nn-" relation="ATR" head="15"/>
-      <word id="12" form="quo" lemma="quis" postag="a-s---mb_" relation="ATR" head="16"/>
-      <word id="13" form="sit" lemma="sum" postag="v3spsa---" relation="OBJ" head="14"/>
-      <word id="14" form="disce" lemma="disco" postag="v2spma---" relation="PRED" head="0"/>
-      <word id="15" form="puella" lemma="puella" postag="n-s---fn-" relation="SBJ" head="13"/>
-      <word id="16" form="loco" lemma="locus" postag="n-s---mb-" relation="PNOM" head="13"/>
-      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="27" document_id="" subdoc="" span="">
-      <word id="1" form="Nōn" lemma="non" postag="d--------" relation="AuxZ" head="7"/>
-      <word id="2" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="7"/>
-      <word id="3" form="quaerentem" lemma="quaero" postag="v-spp-ma-" relation="SBJ" head="5"/>
-      <word id="4" form="ventō" lemma="ventus" postag="n-s---md-" relation="OBJ" head="5"/>
-      <word id="5" form="dare" lemma="do" postag="v--pna---" relation="OBJ" head="7"/>
-      <word id="6" form="vēla" lemma="velum" postag="n-p---na-" relation="OBJ" head="5"/>
-      <word id="7" form="iubēbō" lemma="jubeo" postag="v1sfia---" relation="PRED_CO" head="10"/>
-      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="9" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="17"/>
-      <word id="10" form="-c" lemma="que" postag="c--------" relation="COORD" head="0"/>
-      <word id="11" form="tibi" lemma="tu" postag="p-s---md-" relation="OBJ" head="17"/>
-      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="13" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="17"/>
-      <word id="14" form="inveniās" lemma="invenio" postag="v2spsa---" relation="ADV" head="13"/>
-      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="16" form="longa" lemma="longus" postag="a-s---fn-" relation="ATR" head="18"/>
-      <word id="17" form="terenda" lemma="tero" postag="v-s-g-fn-" relation="PRED_CO" head="10"/>
-      <word id="18" form="via" lemma="via" postag="n-s---fn-" relation="SBJ" head="17"/>
-      <word id="19" form="est" lemma="sum" postag="v3spia---" relation="AuxV" head="17"/>
-      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="28" document_id="" subdoc="" span="">
-      <word id="1" form="Gargara" lemma="Gargara" postag="n-p---nn-" relation="SBJ" head="28"/>
-      <word id="2" form="quot" lemma="quot" postag="a-p---fa_" relation="ATR" head="3"/>
-      <word id="3" form="segetes" lemma="seges" postag="n-p---fa-" relation="OBJ" head="28"/>
-      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="5" form="quot" lemma="quot" postag="a-p---ma_" relation="ATR" head="8"/>
-      <word id="6" form="habet" lemma="habeo" postag="v3spia---" relation="ADV_CO" head="17"/>
-      <word id="7" form="Methymna" lemma="Methymna" postag="n-s---fn-" relation="SBJ" head="6"/>
-      <word id="8" form="racemos" lemma="racemus" postag="n-p---ma-" relation="OBJ" head="6"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="Aequore" lemma="aequor" postag="n-s---nb-" relation="OBJ" head="29"/>
-      <word id="11" form="quot" lemma="quot" postag="a-p---mn_" relation="ATR" head="12"/>
-      <word id="12" form="pisces" lemma="piscis" postag="n-p---mn-" relation="SBJ" head="29"/>
-      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="14" form="fronde" lemma="frons" postag="n-s---fb-" relation="OBJ" head="15"/>
-      <word id="15" form="teguntur" lemma="tego" postag="v3ppip---" relation="ADV_CO" head="17"/>
-      <word id="16" form="aves" lemma="avis" postag="n-p---fn-" relation="SBJ" head="15"/>
-      <word id="17" form="," lemma="punc1" postag="u--------" relation="COORD" head="22"/>
-      <word id="18" form="Quot" lemma="quot" postag="a-p---fa_" relation="ATR" head="20"/>
-      <word id="19" form="caelum" lemma="caelum1" postag="n-s---nn-" relation="SBJ" head="31"/>
-      <word id="20" form="stellas" lemma="stella" postag="n-p---fa-" relation="OBJ" head="31"/>
-      <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="22" form="tot" lemma="tot" postag="a-p---fa_" relation="ATR" head="26"/>
-      <word id="23" form="habet" lemma="habeo" postag="v3spia---" relation="PRED" head="0"/>
-      <word id="24" form="tua" lemma="tuus" postag="a-s---fn-" relation="ATR" head="25"/>
-      <word id="25" form="Roma" lemma="Roma" postag="n-s---fn-" relation="SBJ" head="23"/>
-      <word id="26" form="puellas" lemma="puella" postag="n-p---fa-" relation="OBJ" head="23"/>
-      <word id="27" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="28" insertion_id="0027e" artificial="elliptic" relation="ADV_CO" lemma="habeo" postag="v3ppia---" form="habent" head="17"/>
-      <word id="29" insertion_id="0027f" artificial="elliptic" relation="ADV_CO" lemma="tego" postag="v3ppip---" form="teguntur" head="17"/>
-      <word id="30" insertion_id="0027g" artificial="elliptic" relation="ATR" lemma="quot" postag="a-p---fn_" form="quot" head="16"/>
-      <word id="31" insertion_id="0027h" artificial="elliptic" relation="ADV_CO" lemma="habeo" postag="v3spia---" form="habet" head="17"/>
-   </sentence>
-   <sentence id="29" document_id="" subdoc="" span="">
-      <word id="1" form="Mater" lemma="mater" postag="n-s---fn-" relation="SBJ" head="4"/>
-      <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="4"/>
-      <word id="3" form="Aeneae" lemma="Aenea" postag="n-s---mg-" relation="ATR" head="5"/>
-      <word id="4" form="constitit" lemma="consto" postag="v3sria---" relation="PRED" head="0"/>
-      <word id="5" form="urbe" lemma="urbs" postag="n-s---fb-" relation="OBJ" head="2"/>
-      <word id="6" form="sui" lemma="suus" postag="a-s---mg-" relation="ATR" head="3"/>
-      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="30" document_id="" subdoc="" span="">
-      <word id="1" form="Se-" lemma="si" postag="c--------" relation="AuxC" head="12"/>
-      <word id="2" form="-u" lemma="-ve" postag="d-------_" relation="AuxY" head="12"/>
-      <word id="3" form="caperis" lemma="capio" postag="v2spip---" relation="ADV" head="1"/>
-      <word id="4" form="primis" lemma="primus" postag="a-p---mb-" relation="ATR_CO" head="5"/>
-      <word id="5" form="et" lemma="et" postag="c--------" relation="COORD" head="8"/>
-      <word id="6" form="adhuc" lemma="adhuc" postag="d--------" relation="ADV" head="7"/>
-      <word id="7" form="crescentibus" lemma="cresco" postag="v-ppp-mb-" relation="ATR_CO" head="5"/>
-      <word id="8" form="annis" lemma="annus" postag="n-p---mb-" relation="OBJ" head="3"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="Ante" lemma="ante" postag="r--------" relation="AuxP" head="12"/>
-      <word id="11" form="oculos" lemma="oculus" postag="n-p---ma-" relation="OBJ" head="10"/>
-      <word id="12" form="veniet" lemma="venio" postag="v3sfia---" relation="PRED" head="0"/>
-      <word id="13" form="vera" lemma="verus" postag="a-s---fn-" relation="ATR" head="14"/>
-      <word id="14" form="puella" lemma="puella" postag="n-s---fn-" relation="SBJ" head="12"/>
-      <word id="15" form="tuos" lemma="tuus" postag="a-p---ma-" relation="ATR" head="11"/>
-      <word id="16" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="31" document_id="" subdoc="" span="">
-      <word id="1" form="Si-" lemma="si" postag="c--------" relation="AuxC" head="9"/>
-      <word id="2" form="-ve" lemma="sive" postag="d-------_" relation="AuxY" head="9"/>
-      <word id="3" form="cupis" lemma="cupio" postag="v2spia---" relation="ADV" head="1"/>
-      <word id="4" form="iuvenem" lemma="juvenis" postag="a-s---fa-" relation="OBJ" head="3"/>
-      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="6" form="iuvenes" lemma="juvenis" postag="a-p---fn-" relation="SBJ" head="9"/>
-      <word id="7" form="tibi" lemma="tu" postag="p-s---md-" relation="OBJ" head="9"/>
-      <word id="8" form="mille" lemma="mille" postag="a-p---fn_" relation="ATR" head="6"/>
-      <word id="9" form="placebunt" lemma="placeo" postag="v3pfia---" relation="PRED" head="0"/>
-      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="32" document_id="" subdoc="" span="">
-      <word id="1" form="Cogeris" lemma="cogo" postag="v2sfip---" relation="PRED" head="0"/>
-      <word id="2" form="voti" lemma="votum" postag="n-s---ng-" relation="ADV" head="3"/>
-      <word id="3" form="nescius" lemma="nescius" postag="a-s---mn-" relation="PNOM" head="4"/>
-      <word id="4" form="esse" lemma="sum" postag="v--pna---" relation="OBJ" head="1"/>
-      <word id="5" form="tui" lemma="tuus" postag="a-s---ng-" relation="ATR" head="2"/>
-      <word id="6" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="33" document_id="" subdoc="" span="">
-      <word id="1" form="Se-" lemma="si" postag="c--------" relation="AuxC" head="19"/>
-      <word id="2" form="-u" lemma="-ve" postag="d-------_" relation="AuxY" head="19"/>
-      <word id="3" form="te" lemma="tu" postag="p-s---ma-" relation="OBJ" head="5"/>
-      <word id="4" form="forte" lemma="forte" postag="d-------_" relation="ADV" head="5"/>
-      <word id="5" form="iuvat" lemma="juvo" postag="v3spia---" relation="ADV" head="1"/>
-      <word id="6" form="sera" lemma="serus" postag="a-s---fn-" relation="ATR_CO" head="7"/>
-      <word id="7" form="et" lemma="et" postag="c--------" relation="COORD" head="9"/>
-      <word id="8" form="sapientior" lemma="sapiens" postag="a-s---fnc" relation="ATR_CO" head="7"/>
-      <word id="9" form="aetas" lemma="aetas" postag="n-s---fn-" relation="SBJ" head="5"/>
-      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="11" form="Hoc" lemma="hic" postag="a-s---nn_" relation="ATR" head="18"/>
-      <word id="12" form="quoque" lemma="quoque" postag="d--------" relation="AuxZ" head="11"/>
-      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="14" form="crede" lemma="credo" postag="v2spma---" relation="AuxY" head="19"/>
-      <word id="15" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="14"/>
-      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="17" form="plenius" lemma="plenus" postag="a-s---nnc" relation="PNOM" head="19"/>
-      <word id="18" form="agmen" lemma="agmen" postag="n-s---nn-" relation="SBJ" head="19"/>
-      <word id="19" form="erit" lemma="sum1" postag="v3sfia---" relation="PRED" head="0"/>
-      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   
-   
-   <sentence id="34" document_id="" subdoc="" span="">
-      <word id="1" form="Sed" lemma="sed" postag="c--------" relation="COORD" head="0"/>
-      <word id="2" form="tu" lemma="tu" postag="p-s---mn-" relation="SBJ" head="5"/>
-      <word id="3" form="praecipue" lemma="praecipuus" postag="d-------_" relation="AuxZ" head="6"/>
-      <word id="4" form="curvis" lemma="curvus" postag="a-p---nb-" relation="ATR" head="6"/>
-      <word id="5" form="venare" lemma="venor" postag="v2spmp---" relation="PRED_CO" head="1"/>
-      <word id="6" form="theatris" lemma="theatrum" postag="n-p---nb-" relation="ADV" head="5"/>
-      <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="35" document_id="" subdoc="" span="">
-      <word id="1" form="Haec" lemma="hic" postag="a-p---nn_" relation="ATR" head="2"/>
-      <word id="2" form="loca" lemma="locum" postag="n-p---nn-" relation="SBJ" head="3"/>
-      <word id="3" form="sunt" lemma="sum1" postag="v3ppia---" relation="PRED" head="0"/>
-      <word id="4" form="voto" lemma="votum" postag="n-s---nd-" relation="ADV" head="5"/>
-      <word id="5" form="fertiliora" lemma="fertilis" postag="a-p---nnc" relation="PNOM" head="3"/>
-      <word id="6" form="tuo" lemma="tuus" postag="a-s---nd-" relation="ATR" head="4"/>
-      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="36" document_id="" subdoc="" span="">
-      <word id="1" form="Illic" lemma="illic" postag="d--------" relation="ADV" head="2"/>
-      <word id="2" form="invenies" lemma="invenio" postag="v2sfia---" relation="PRED" head="0"/>
-      <word id="3" form="quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="4"/>
-      <word id="4" form="ames" lemma="amo" postag="v2spsa---" relation="OBJ_CO" head="5"/>
-      <word id="5" form="," lemma="punc1" postag="u--------" relation="COORD" head="9"/>
-      <word id="6" form="quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="7"/>
-      <word id="7" form="ludere" lemma="ludo" postag="v--pna---" relation="OBJ" head="8"/>
-      <word id="8" form="possis" lemma="possum" postag="v2spsa---" relation="OBJ_CO" head="5"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="2"/>
-      <word id="10" form="Quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="13"/>
-      <word id="11" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="16"/>
-      <word id="12" form="semel" lemma="semel" postag="d--------" relation="ADV" head="13"/>
-      <word id="13" form="tangas" lemma="tango" postag="v2spsa---" relation="OBJ_CO" head="16"/>
-      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="15" form="quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="17"/>
-      <word id="16" form="-que" lemma="-que" postag="c--------" relation="COORD" head="9"/>
-      <word id="17" form="tenere" lemma="teneo" postag="v--pna---" relation="OBJ" head="18"/>
-      <word id="18" form="velis" lemma="volo1" postag="v2spsa---" relation="OBJ_CO" head="16"/>
-      <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="37" document_id="" subdoc="" span="">
-      <word id="1" form="Ut" lemma="ut" postag="c--------" relation="AuxC" head="18"/>
-      <word id="2" form="redit" lemma="redeo" postag="v3spia---" relation="ADV_CO" head="4"/>
-      <word id="3" form="it" lemma="eo1" postag="v3spia---" relation="ADV_CO" head="4"/>
-      <word id="4" form="-que" lemma="-que" postag="c--------" relation="COORD" head="1"/>
-      <word id="5" form="frequens" lemma="frequens" postag="a-s---fn-" relation="ATV" head="7"/>
-      <word id="6" form="longum" lemma="longus" postag="a-s---na-" relation="ATR" head="9"/>
-      <word id="7" form="formica" lemma="formica" postag="n-s---fn-" relation="SBJ" head="4"/>
-      <word id="8" form="per" lemma="per" postag="r--------" relation="AuxP" head="4"/>
-      <word id="9" form="agmen" lemma="agmen" postag="n-s---na-" relation="ADV" head="8"/>
-      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="11" form="Granifero" lemma="granifer" postag="a-s---nb-" relation="ATR" head="15"/>
-      <word id="12" form="solitum" lemma="soleo" postag="v-srppma-" relation="ATR" head="16"/>
-      <word id="13" form="cum" lemma="cum" postag="c--------" relation="AuxC" head="4"/>
-      <word id="14" form="vehit" lemma="veho" postag="v3spia---" relation="ADV" head="13"/>
-      <word id="15" form="ore" lemma="os1" postag="n-s---nb-" relation="ADV" head="14"/>
-      <word id="16" form="cibum" lemma="cibus" postag="n-s---ma-" relation="OBJ" head="14"/>
-      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="18" form="Aut" lemma="aut" postag="c--------" relation="COORD" head="35"/>
-      <word id="19" form="ut" lemma="ut" postag="d--------" relation="AuxC" head="18"/>
-      <word id="20" form="apes" lemma="apis1" postag="n-p---fn-" relation="SBJ" head="33"/>
-      <word id="21" form="saltus" lemma="saltus1" postag="n-p---ma-" relation="OBJ_CO" head="24"/>
-      <word id="22" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="24"/>
-      <word id="23" form="suos" lemma="suus" postag="a-p---ma-" relation="ATR" head="21"/>
-      <word id="24" form="et" lemma="et" postag="c--------" relation="COORD" head="26"/>
-      <word id="25" form="olentia" lemma="oleo1" postag="v-ppp-na-" relation="ATR" head="27"/>
-      <word id="26" form="nactae" lemma="nanciscor" postag="v-prppfn-" relation="ADV" head="33"/>
-      <word id="27" form="Pascua" lemma="pascuum" postag="n-p---na-" relation="OBJ_CO" head="24"/>
-      <word id="28" form="per" lemma="per" postag="r--------" relation="AuxP" head="33"/>
-      <word id="29" form="flores" lemma="flos" postag="n-p---ma-" relation="ADV_CO" head="30"/>
-      <word id="30" form="et" lemma="et" postag="c--------" relation="COORD" head="28"/>
-      <word id="31" form="thyma" lemma="thymum" postag="n-p---na-" relation="ADV_CO" head="30"/>
-      <word id="32" form="summa" lemma="superus" postag="a-p---nas" relation="ATR" head="31"/>
-      <word id="33" form="volant" lemma="volo2" postag="v3ppia---" relation="ADV_CO" head="19"/>
-      <word id="34" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="35" form="Sic" lemma="sic" postag="d--------" relation="ADV" head="36"/>
-      <word id="36" form="ruit" lemma="ruo" postag="v3spia---" relation="PRED" head="0"/>
-      <word id="37" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="36"/>
-      <word id="38" form="celebres" lemma="celeber" postag="a-p---ma-" relation="ATR" head="41"/>
-      <word id="39" form="cultissima" lemma="cultus" postag="a-s---fns" relation="ATR" head="40"/>
-      <word id="40" form="femina" lemma="femina" postag="n-s---fn-" relation="SBJ" head="36"/>
-      <word id="41" form="ludos" lemma="ludus" postag="n-p---ma-" relation="OBJ" head="37"/>
-      <word id="42" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="38" document_id="" subdoc="" span="">
-      <word id="1" form="Copia" lemma="copia1" postag="n-s---fn-" relation="SBJ" head="4"/>
-      <word id="2" form="iudicium" lemma="judicium" postag="n-s---na-" relation="OBJ" head="4"/>
-      <word id="3" form="saepe" lemma="saepe" postag="d--------" relation="ADV" head="4"/>
-      <word id="4" form="morata" lemma="moror1" postag="v-srppfn-" relation="PRED" head="0"/>
-      <word id="5" form="meum" lemma="meus" postag="a-s---na-" relation="ATR" head="2"/>
-      <word id="6" form="est" lemma="sum1" postag="v3spia---" relation="AuxV" head="4"/>
-      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
+
+<treebank xmlns:saxon="http://saxon.sf.net/" xml:lang="lat" format="aldt" version="1.5">
+    <date>2016-01-12 18:07:37 +0000</date>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://services2.perseids.org/llt/segtok</uri>
+    </annotator>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+    </annotator>
+    <annotator>
+        <short>Bob Gorman</short>
+        <name>Robert Gorman</name>
+        <address>rgorman1@unl.edu</address>
+        <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
+    </annotator>
+    <annotator>
+        <short>Bob Gorman</short>
+        <name>Robert Gorman</name>
+        <address>rgorman1@unl.edu</address>
+        <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
+    </annotator>
+    <sentence id="1" document_id="" subdoc="">
+        <word id="1" form="Si" lemma="si" postag="c--------" relation="AuxC" head="13"/>
+        <word id="2" form="quis" lemma="quis" postag="p-s---mn-" relation="SBJ" head="8"/>
+        <word id="3" form="in" lemma="in" postag="r--------" relation="AuxP" head="8"/>
+        <word id="4" form="hoc" lemma="hic" postag="a-s---mb_" relation="ATR" head="6"/>
+        <word id="5" form="artem" lemma="ars" postag="n-s---fa-" relation="OBJ" head="8"/>
+        <word id="6" form="populo" lemma="populus" postag="n-s---mb-" relation="ADV" head="3"/>
+        <word id="7" form="non" lemma="non" postag="d--------" relation="AuxZ" head="8"/>
+        <word id="8" form="novit" lemma="nosco" postag="v3sria---" relation="ADV" head="1"/>
+        <word id="9" form="amandi" lemma="amo" postag="v_s_d_-g-" relation="ATR" head="5"/>
+        <word id="10" form="," lemma="" postag="" relation="AuxX" head="0"/>
+        <word id="11" form="Hoc" lemma="hic" postag="p-s---na-" relation="OBJ" head="12"/>
+        <word id="12" form="legat" lemma="lego" postag="v3spsa---" relation="PRED_CO" head="13"/>
+        <word id="13" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
+        <word id="14" form="lecto" lemma="lego" postag="v-srppnb-" relation="ADV" head="17"/>
+        <word id="15" form="carmine" lemma="carmen" postag="n-s---nb-" relation="SBJ" head="14"/>
+        <word id="16" form="doctus" lemma="doctus" postag="a-s---mn-" relation="ATV" head="17"/>
+        <word id="17" form="amet" lemma="amo" postag="v3spsa---" relation="PRED_CO" head="13"/>
+        <word id="18" form="." lemma="" postag="" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="2" document_id="" subdoc="">
+        <word id="1" form="Arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="8"/>
+        <word id="2" form="citae" lemma="citus" postag="a-p---fn-" relation="ATR" head="5"/>
+        <word id="3" form="velo" lemma="velum" postag="n-s---nb-" relation="ADV_CO" head="7"/>
+        <word id="4" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="7"/>
+        <word id="5" form="rates" lemma="ratis" postag="n-p---fn-" relation="SBJ" head="8"/>
+        <word id="6" form="remo" lemma="remus" postag="n-s---mb-" relation="ADV_CO" head="7"/>
+        <word id="7" form="-que" lemma="-que" postag="c--------" relation="COORD" head="8"/>
+        <word id="8" form="moventur" lemma="moveo" postag="v3ppip---" relation="PRED_CO" head="9"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="10" form="Arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="14"/>
+        <word id="11" form="leves" lemma="levis" postag="a-p---mn-" relation="ATR" head="12"/>
+        <word id="12" form="currus" lemma="currus" postag="n-p---mn-" relation="SBJ" head="14"/>
+        <word id="13" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="14" form="moventur" lemma="moveo" postag="v3ppip---" relation="PRED_CO" head="9"/>
+    </sentence>
+    <sentence id="3" document_id="" subdoc="">
+        <word id="1" form="arte" lemma="ars" postag="n-s---fb-" relation="ADV" head="2"/>
+        <word id="2" form="regendus" lemma="rego" postag="v-s-g-mn-" relation="PRED" head="0"/>
+        <word id="3" form="amor" lemma="amor" postag="n-s---mn-" relation="SBJ" head="2"/>
+        <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="4" document_id="" subdoc="">
+        <word id="1" form="Curribus" lemma="currus" postag="n-p---md-" relation="ADV_CO" head="4"/>
+        <word id="2" form="Automedon" lemma="Automedon" postag="n-s---mn-" relation="SBJ" head="5"/>
+        <word id="3" form="lentis" lemma="lentus" postag="a-p---fd-" relation="ATR" head="7"/>
+        <word id="4" form="que" lemma="que" postag="c--------" relation="COORD" head="6"/>
+        <word id="5" form="erat" lemma="sum" postag="v3siia---" relation="PRED_CO" head="8"/>
+        <word id="6" form="aptus" lemma="aptus" postag="a-s---mn-" relation="PNOM" head="5"/>
+        <word id="7" form="habenis" lemma="habena" postag="n-p---fd-" relation="ADV_CO" head="4"/>
+        <word id="8" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="9" form="Tiphys" lemma="Tiphys" postag="n-s---mn-" relation="SBJ" head="14"/>
+        <word id="10" form="in" lemma="in" postag="r--------" relation="AuxP" head="14"/>
+        <word id="11" form="Haemonia" lemma="Haemonius" postag="a-s---fb_" relation="ATR" head="12"/>
+        <word id="12" form="puppe" lemma="puppis" postag="n-s---fb-" relation="ADV" head="10"/>
+        <word id="13" form="magister" lemma="magister" postag="n-s---mn-" relation="PNOM" head="14"/>
+        <word id="14" form="erat" lemma="sum" postag="v3siia---" relation="PRED_CO" head="8"/>
+        <word id="15" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="5" document_id="" subdoc="">
+        <word id="1" form="Me" lemma="ego" postag="p-s---ma-" relation="OBJ" head="5"/>
+        <word id="2" form="Venus" lemma="Venus" postag="n-s---fn-" relation="SBJ" head="5"/>
+        <word id="3" form="artificem" lemma="artifex" postag="n-s---ma-" relation="ATV" head="1"/>
+        <word id="4" form="tenero" lemma="tener" postag="a-s---md-" relation="ATR" head="6"/>
+        <word id="5" form="praefecit" lemma="praeficio" postag="v3sria---" relation="PRED" head="0"/>
+        <word id="6" form="Amori" lemma="amor" postag="n-s---md-" relation="OBJ" head="5"/>
+        <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="6" document_id="" subdoc="">
+        <word id="1" form="Tiphys" lemma="Tiphys" postag="n-s---mn-" relation="PNOM_CO" head="2"/>
+        <word id="2" form="et" lemma="et" postag="c--------" relation="COORD" head="4"/>
+        <word id="3" form="Automedon" lemma="Automedon" postag="n-s---mn-" relation="PNOM_CO"
+            head="2"/>
+        <word id="4" form="dicar" lemma="dico" postag="v1sfip---" relation="PRED" head="0"/>
+        <word id="5" form="Amoris" lemma="amor" postag="n-s---mg-" relation="ATR" head="2"/>
+        <word id="6" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="4"/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="7" document_id="" subdoc="">
+        <word id="1" form="Non" lemma="non" postag="d--------" relation="AuxZ" head="10"/>
+        <word id="2" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="10"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="Phoebe" lemma="Phoebus" postag="n-s---mv-" relation="ExD" head="10"/>
+        <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="6" form="datas" lemma="do" postag="v-prppfa-" relation="OBJ" head="10"/>
+        <word id="7" form="a" lemma="ab" postag="r--------" relation="AuxP" head="6"/>
+        <word id="8" form="te" lemma="tu" postag="p-s---mb-" relation="OBJ" head="7"/>
+        <word id="9" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="10"/>
+        <word id="10" form="mentiar" lemma="mentior" postag="v1sfid---" relation="PRED_CO" head="22"/>
+        <word id="11" form="artes" lemma="ars" postag="n-p---fa-" relation="SBJ" head="6"/>
+        <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="13" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="18"/>
+        <word id="14" form="-c" lemma="que" postag="d-------_" relation="AuxY" head="22"/>
+        <word id="15" form="nos" lemma="nos" postag="p-p---mn-" relation="SBJ" head="18"/>
+        <word id="16" form="aeriae" lemma="aerius" postag="a-s---fg-" relation="ATR" head="19"/>
+        <word id="17" form="voce" lemma="vox" postag="n-s---fb-" relation="" head="18"/>
+        <word id="18" form="monemur" lemma="moneo" postag="v1ppip---" relation="PRED_CO" head="22"/>
+        <word id="19" form="avis" lemma="avis" postag="n-s---fg-" relation="ATR" head="17"/>
+        <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="21" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="25"/>
+        <word id="22" form="-c" lemma="que" postag="c--------" relation="COORD" head="0"/>
+        <word id="23" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="25"/>
+        <word id="24" form="sunt" lemma="sum" postag="v3ppia---" relation="AuxV" head="25"/>
+        <word id="25" form="visae" lemma="video" postag="v-prppfn-" relation="PRED_CO" head="22"/>
+        <word id="26" form="Clio" lemma="Clio" postag="n-s---fn-" relation="SBJ_CO" head="28"/>
+        <word id="27" form="Clius" lemma="Clius" postag="n-s---fg-" relation="ATR" head="29"/>
+        <word id="28" form="-que" lemma="que" postag="c--------" relation="COORD" head="25"/>
+        <word id="29" form="sorores" lemma="soror" postag="n-p---fn-" relation="SBJ_CO" head="28"/>
+        <word id="30" form="Servanti" lemma="servo" postag="v-spp-md-" relation="ATR" head="23"/>
+        <word id="31" form="pecudes" lemma="pecus" postag="n-p---ma-" relation="OBJ" head="30"/>
+        <word id="32" form="vallibus" lemma="valles" postag="n-p---fb-" relation="ADV" head="30"/>
+        <word id="33" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="34" form="Ascra" lemma="Ascra" postag="n-s---fv-" relation="ExD" head="25"/>
+        <word id="35" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="36" form="tuis" lemma="tuus" postag="a-p---fb-" relation="ATR" head="32"/>
+        <word id="37" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="8" document_id="" subdoc="">
+        <word id="1" form="Usus" lemma="usus" postag="n-s---mn-" relation="SBJ" head="3"/>
+        <word id="2" form="opus" lemma="opus" postag="n-s---na-" relation="OBJ" head="3"/>
+        <word id="3" form="movet" lemma="moveo" postag="v3spia---" relation="PRED" head="0"/>
+        <word id="4" form="hoc" lemma="hic" postag="a-s---na_" relation="ATR" head="2"/>
+        <word id="5" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="9" document_id="" subdoc="">
+        <word id="1" form="vati" lemma="vates" postag="n-s---md-" relation="OBJ" head="2"/>
+        <word id="2" form="parete" lemma="pareo" postag="v2ppma---" relation="PRED" head="0"/>
+        <word id="3" form="perito" lemma="peritus" postag="a-s---md-" relation="ATR" head="1"/>
+        <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="10" document_id="" subdoc="">
+        <word id="1" form="Vera" lemma="verus" postag="a-p---na-" relation="OBJ" head="2"/>
+        <word id="2" form="canam" lemma="cano" postag="v1sfia---" relation="PRED" head="0"/>
+        <word id="3" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="11" document_id="" subdoc="">
+        <word id="1" form="coeptis" lemma="coeptum" postag="n-p---nd-" relation="OBJ" head="6"/>
+        <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="3" form="mater" lemma="mater" postag="n-s---fv-" relation="ExD" head="6"/>
+        <word id="4" form="Amoris" lemma="amor" postag="n-s---mg-" relation="ATR" head="3"/>
+        <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="6" form="ades" lemma="adsum" postag="v2spma---" relation="PRED" head="0"/>
+        <word id="7" form="!" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="12" document_id="" subdoc="">
+        <word id="1" form="Este" lemma="sum" postag="v2ppma---" relation="PRED" head="0"/>
+        <word id="2" form="procul" lemma="procul" postag="d--------" relation="PNOM" head="1"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="vittae" lemma="vitta" postag="n-p---fv-" relation="ExD_AP_CO" head="6"/>
+        <word id="5" form="tenues" lemma="tenuis" postag="a-p---fv-" relation="ATR" head="4"/>
+        <word id="6" form="," lemma="punc1" postag="u--------" relation="APOS" head="11"/>
+        <word id="7" form="insigne" lemma="insigne" postag="n-s---nv-" relation="ExD_AP_CO" head="6"/>
+        <word id="8" form="pudoris" lemma="pudor" postag="n-s---mg-" relation="ATR" head="7"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="10" form="Quae" lemma="qui1" postag="p-s---fn-" relation="SBJ" head="12"/>
+        <word id="11" form="-que" lemma="" postag="" relation="COORD" head="1"/>
+        <word id="12" form="tegis" lemma="tego" postag="v2spia---" relation="ATR" head="15"/>
+        <word id="13" form="medios" lemma="medius" postag="a-p---ma-" relation="ATR" head="18"/>
+        <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="15" form="instita" lemma="instita" postag="n-s---fv-" relation="ExD_CO" head="11"/>
+        <word id="16" form="longa" lemma="longus" postag="a-s---fv-" relation="ATR" head="15"/>
+        <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="18" form="pedes" lemma="pes" postag="n-p---ma-" relation="OBJ" head="12"/>
+        <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="13" document_id="" subdoc="">
+        <word id="1" form="Nos" lemma="nos" postag="p-p---fa-" relation="SBJ" head="7"/>
+        <word id="2" form="venerem" lemma="Venus" postag="n-s---fa-" relation="OBJ_CO" head="5"/>
+        <word id="3" form="tutam" lemma="tutus" postag="a-s---fa_" relation="ATR" head="2"/>
+        <word id="4" form="concessa" lemma="concedo" postag="v-prppna-" relation="ATR" head="6"/>
+        <word id="5" form="-que" lemma="que" postag="c--------" relation="COORD" head="7"/>
+        <word id="6" form="furta" lemma="furtum" postag="n-p---na-" relation="OBJ_CO" head="5"/>
+        <word id="7" form="canemus" lemma="cano" postag="v1pfia---" relation="PRED_CO" head="10"/>
+        <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="9" form="In" lemma="in" postag="r--------" relation="AuxP" head="15"/>
+        <word id="10" form="-que" lemma="que" postag="c--------" relation="COORD" head="0"/>
+        <word id="11" form="meo" lemma="meus" postag="a-s---nb-" relation="ATR" head="13"/>
+        <word id="12" form="nullum" lemma="nullus" postag="a-s---nn-" relation="ATR" head="14"/>
+        <word id="13" form="carmine" lemma="carmen" postag="n-s---nb-" relation="PNOM" head="9"/>
+        <word id="14" form="crimen" lemma="crimen" postag="n-s---nn-" relation="SBJ" head="15"/>
+        <word id="15" form="erit" lemma="sum" postag="v3sfia---" relation="PRED_CO" head="10"/>
+        <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="14" document_id="" subdoc="">
+        <word id="1" form="Principio" lemma="principium" postag="n-s---nb-" relation="AuxY" head=""/>
+        <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="3" form="quod" lemma="qui" postag="p-s---na-" relation="OBJ" head="4"/>
+        <word id="4" form="amare" lemma="amo" postag="v--pna---" relation="OBJ" head="5"/>
+        <word id="5" form="velis" lemma="volo" postag="v2spsa---" relation="OBJ" head="7"/>
+        <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="7" form="reperire" lemma="reperio" postag="v--pna---" relation="OBJ" head="8"/>
+        <word id="8" form="labora" lemma="laboro" postag="v2spma---" relation="PRED" head="0"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="10" form="Qui" lemma="qui" postag="p-s---mn-" relation="SBJ" head="17"/>
+        <word id="11" form="nova" lemma="novus" postag="a-p---na-" relation="ATR" head="16"/>
+        <word id="12" form="nunc" lemma="nunc" postag="d--------" relation="ADV" head="17"/>
+        <word id="13" form="primum" lemma="primum" postag="d-------_" relation="ADV" head="17"/>
+        <word id="14" form="miles" lemma="miles" postag="n-s---mn-" relation="ATV" head="10"/>
+        <word id="15" form="in" lemma="in" postag="r--------" relation="AuxP" head="17"/>
+        <word id="16" form="arma" lemma="armum" postag="n-p---na-" relation="OBJ" head="15"/>
+        <word id="17" form="venis" lemma="venio" postag="v2spia---" relation="SBJ" head="8"/>
+        <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="15" document_id="" subdoc="">
+        <word id="1" form="Proximus" lemma="proximus" postag="a-s---mn-" relation="ATR" head="3"/>
+        <word id="2" form="huic" lemma="hic" postag="p-s---md-" relation="ADV" head="1"/>
+        <word id="3" form="labor" lemma="labor" postag="n-s---mn-" relation="SBJ" head="4"/>
+        <word id="4" form="est" lemma="sum" postag="v3spia---" relation="PRED" head="0"/>
+        <word id="5" form="placitam" lemma="placitus" postag="a-s---fa-" relation="ATR" head="7"/>
+        <word id="6" form="exorare" lemma="exoro" postag="v--pna---" relation="PNOM" head="4"/>
+        <word id="7" form="puellam" lemma="puella" postag="n-s---fa-" relation="OBJ" head="6"/>
+        <word id="8" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="16" document_id="" subdoc="">
+        <word id="1" form="Tertius" lemma="tertius" postag="a-s---mn-" relation="SBJ" head="9"/>
+        <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="3" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="9"/>
+        <word id="4" form="longo" lemma="longus" postag="a-s---nb-" relation="ATR" head="5"/>
+        <word id="5" form="tempore" lemma="tempus" postag="n-s---nb-" relation="ADV" head="6"/>
+        <word id="6" form="duret" lemma="duro" postag="v3spsa---" relation="PNOM" head="3"/>
+        <word id="7" form="amor" lemma="amor" postag="n-s---mn-" relation="SBJ" head="6"/>
+        <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="9" form="est" lemma="sum" postag="v3spia---" relation="PRED" head="0"/>
+    </sentence>
+    <sentence id="17" document_id="" subdoc="">
+        <word id="1" form="Hic" lemma="hic" postag="p-s---mn-" relation="SBJ" head="10"/>
+        <word id="2" form="modus" lemma="modus" postag="n-s---mn-" relation="PNOM" head="10"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="4" form="haec" lemma="hic" postag="a-s---fn_" relation="ATR" head="7"/>
+        <word id="5" form="nostro" lemma="noster" postag="a-s---mb-" relation="ATR" head="8"/>
+        <word id="6" form="signabitur" lemma="signo" postag="v3sfip---" relation="PRED_CO" head="3"/>
+        <word id="7" form="area" lemma="area" postag="n-s---fn-" relation="SBJ" head="6"/>
+        <word id="8" form="curru" lemma="currus" postag="n-s---mb-" relation="ADV" head="6"/>
+        <word id="9" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="10" form="erit" lemma="sum" postag="v3sfia---" relation="PRED_CO" head="3"/>
+    </sentence>
+    <sentence id="18" document_id="" subdoc="">
+        <word id="1" form="Haec" lemma="hic" postag="a-s---fn_" relation="ATR" head="4"/>
+        <word id="2" form="erit" lemma="sum" postag="v3sfia---" relation="AuxV" head="5"/>
+        <word id="3" form="admissa" lemma="admitto" postag="v-srppfb-" relation="ATR" head="6"/>
+        <word id="4" form="meta" lemma="meta" postag="n-s---fn-" relation="SBJ" head="5"/>
+        <word id="5" form="premenda" lemma="premo" postag="v-s-g-fn-" relation="PRED" head="0"/>
+        <word id="6" form="rota" lemma="rota" postag="n-s---fb-" relation="ADV" head="5"/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="19" document_id="" subdoc="">
+        <word id="1" form="Dum" lemma="dum" postag="c--------" relation="AuxC" head="10"/>
+        <word id="2" form="licet" lemma="licet" postag="v3spia---" relation="ADV_CO" head="3"/>
+        <word id="3" form="et" lemma="et" postag="c--------" relation="COORD" head="1"/>
+        <word id="4" form="loris" lemma="lorum" postag="n-p---nb-" relation="ADV" head="7"/>
+        <word id="5" form="passim" lemma="passim" postag="d--------" relation="ADV" head="7"/>
+        <word id="6" form="potes" lemma="possum" postag="v2spia---" relation="ADV_CO" head="3"/>
+        <word id="7" form="ire" lemma="eo" postag="v--pna---" relation="OBJ" head="6"/>
+        <word id="8" form="solutis" lemma="solvo" postag="v-prppnb-" relation="ATR" head="4"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="10" form="Elige" lemma="eligo" postag="v2spma---" relation="PRED" head="0"/>
+        <word id="11" form="cui" lemma="qui2" postag="p-s---fd-" relation="OBJ" head="12"/>
+        <word id="12" form="dicas" lemma="dico" postag="v2spsa---" relation="OBJ" head="10"/>
+        <word id="13" form="‘" lemma="" postag="" relation="AuxX" head="0"/>
+        <word id="14" form="tu" lemma="tu" postag="p-s---fn-" relation="SBJ" head="17"/>
+        <word id="15" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="17"/>
+        <word id="16" form="sola" lemma="solus" postag="a-s---fn-" relation="ATR" head="14"/>
+        <word id="17" form="places" lemma="placeo" postag="v2spia---" relation="OBJ" head="12"/>
+        <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="20" document_id="" subdoc="">
+        <word id="1" form="’" lemma="" postag="" relation="AuxX" head="0"/>
+        <word id="2" form="Haec" lemma="hic" postag="p-s---fn-" relation="SBJ" head="6"/>
+        <word id="3" form="tibi" lemma="tu" postag="p-s---md-" relation="OBJ" head="6"/>
+        <word id="4" form="non" lemma="non" postag="d--------" relation="AuxZ" head="6"/>
+        <word id="5" form="tenues" lemma="tenuis" postag="a-p---fa-" relation="ATR" head="9"/>
+        <word id="6" form="veniet" lemma="venio" postag="v3sfia---" relation="PRED" head="0"/>
+        <word id="7" form="delapsa" lemma="delabor" postag="v-srpdfn_" relation="ADV" head="6"/>
+        <word id="8" form="per" lemma="per" postag="r--------" relation="AuxP" head="7"/>
+        <word id="9" form="auras" lemma="aura" postag="n-p---fa-" relation="ADV" head="8"/>
+        <word id="10" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="21" document_id="" subdoc="">
+        <word id="1" form="Quaerenda" lemma="quaero" postag="v-s-g-fn-" relation="PRED" head="0"/>
+        <word id="2" form="est" lemma="sum" postag="v3spia---" relation="AuxV" head="1"/>
+        <word id="3" form="oculis" lemma="oculus" postag="n-p---mb-" relation="ADV" head="4"/>
+        <word id="4" form="apta" lemma="aptus" postag="a-s---fn-" relation="ATR" head="5"/>
+        <word id="5" form="puella" lemma="puella" postag="n-s---fn-" relation="SBJ" head="1"/>
+        <word id="6" form="tuis" lemma="tuus" postag="a-p---mb-" relation="ATR" head="3"/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="22" document_id="" subdoc="">
+        <word id="1" form="Scit" lemma="scio" postag="v3spia---" relation="PRED" head="0"/>
+        <word id="2" form="bene" lemma="bene" postag="d--------" relation="ADV" head="1"/>
+        <word id="3" form="venator" lemma="venator" postag="n-s---mn-" relation="SBJ" head="1"/>
+        <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="5" form="cervis" lemma="cerva" postag="n-p---fd-" relation="ADV" head="8"/>
+        <word id="6" form="ubi" lemma="ubi" postag="c--------" relation="AuxC" head="1"/>
+        <word id="7" form="retia" lemma="rete" postag="n-p---na-" relation="OBJ" head="8"/>
+        <word id="8" form="tendat" lemma="tendo" postag="v3spsa---" relation="OBJ" head="6"/>
+        <word id="9" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="23" document_id="" subdoc="">
+        <word id="1" form="Scit" lemma="scio" postag="v3spia---" relation="PRED" head="0"/>
+        <word id="2" form="bene" lemma="bene" postag="d--------" relation="ADV" head="1"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="qua" lemma="qui" postag="p-s---fb-" relation="ATR" head="6"/>
+        <word id="5" form="frendens" lemma="frendo" postag="v-spp-mn-" relation="ATR" head="8"/>
+        <word id="6" form="valle" lemma="valles" postag="n-s---fb-" relation="ADV" head="7"/>
+        <word id="7" form="moretur" lemma="moror" postag="v3spsp---" relation="OBJ" head="1"/>
+        <word id="8" form="aper" lemma="aper" postag="n-s---mn-" relation="SBJ" head="7"/>
+        <word id="9" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="24" document_id="" subdoc="">
+        <word id="1" form="Aucupibus" lemma="auceps" postag="n-s---md-" relation="ADV" head="5"/>
+        <word id="2" form="noti" lemma="notus" postag="a-p---mn-" relation="PNOM" head="5"/>
+        <word id="3" form="frutices" lemma="frutex" postag="n-p---mn-" relation="SBJ" head="5"/>
+        <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="5" insertion_id="0004e" artificial="elliptic" relation="PRED" lemma="sum1"
+            postag="v3ppia---" form="sunt" head="0"/>
+    </sentence>
+    <sentence id="25" document_id="" subdoc="">
+        <word id="1" form="qui" lemma="qui" postag="p-s---mn-" relation="SBJ" head="2"/>
+        <word id="2" form="sustinet" lemma="sustineo" postag="v3spia---" relation="SBJ" head="5"/>
+        <word id="3" form="hamos" lemma="hamus" postag="n-p---ma-" relation="OBJ" head="2"/>
+        <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="5" form="Novit" lemma="nosco" postag="v3sria---" relation="PRED" head="0"/>
+        <word id="6" form="quae" lemma="quis" postag="a-p---fn_" relation="ATR" head="10"/>
+        <word id="7" form="multo" lemma="multus" postag="a-s---mb-" relation="ATR" head="8"/>
+        <word id="8" form="pisce" lemma="piscis" postag="n-s---mb-" relation="OBJ" head="9"/>
+        <word id="9" form="natentur" lemma="nato" postag="v3ppsp---" relation="OBJ" head="5"/>
+        <word id="10" form="aquae" lemma="aqua" postag="n-p---fn-" relation="SBJ" head="9"/>
+        <word id="11" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="26" document_id="" subdoc="">
+        <word id="1" form="Tu" lemma="tu" postag="p-s---mn-" relation="SBJ" head="14"/>
+        <word id="2" form="quoque" lemma="quoque" postag="d--------" relation="AuxZ" head="1"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="materiam" lemma="materia" postag="n-s---fa-" relation="OBJ" head="7"/>
+        <word id="5" form="longo" lemma="longus" postag="a-s---md-" relation="ATR" head="8"/>
+        <word id="6" form="qui" lemma="qui" postag="p-s---mn-" relation="SBJ" head="7"/>
+        <word id="7" form="quaeris" lemma="quaero" postag="v2spia---" relation="ATR" head="1"/>
+        <word id="8" form="amori" lemma="amor" postag="n-s---md-" relation="ATR" head="4"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="10" form="Ante" lemma="ante" postag="d--------" relation="ADV" head="14"/>
+        <word id="11" form="frequens" lemma="frequens" postag="a-s---nn-" relation="ATR" head="15"/>
+        <word id="12" form="quo" lemma="quis" postag="a-s---mb_" relation="ATR" head="16"/>
+        <word id="13" form="sit" lemma="sum" postag="v3spsa---" relation="OBJ" head="14"/>
+        <word id="14" form="disce" lemma="disco" postag="v2spma---" relation="PRED" head="0"/>
+        <word id="15" form="puella" lemma="puella" postag="n-s---fn-" relation="SBJ" head="13"/>
+        <word id="16" form="loco" lemma="locus" postag="n-s---mb-" relation="PNOM" head="13"/>
+        <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="27" document_id="" subdoc="">
+        <word id="1" form="Nōn" lemma="non" postag="d--------" relation="AuxZ" head="7"/>
+        <word id="2" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="7"/>
+        <word id="3" form="quaerentem" lemma="quaero" postag="v-spp-ma-" relation="SBJ" head="5"/>
+        <word id="4" form="ventō" lemma="ventus" postag="n-s---md-" relation="OBJ" head="5"/>
+        <word id="5" form="dare" lemma="do" postag="v--pna---" relation="OBJ" head="7"/>
+        <word id="6" form="vēla" lemma="velum" postag="n-p---na-" relation="OBJ" head="5"/>
+        <word id="7" form="iubēbō" lemma="jubeo" postag="v1sfia---" relation="PRED_CO" head="10"/>
+        <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="9" form="Ne" lemma="ne1" postag="d--------" relation="AuxZ" head="17"/>
+        <word id="10" form="-c" lemma="que" postag="c--------" relation="COORD" head="0"/>
+        <word id="11" form="tibi" lemma="tu" postag="p-s---md-" relation="OBJ" head="17"/>
+        <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="13" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="17"/>
+        <word id="14" form="inveniās" lemma="invenio" postag="v2spsa---" relation="ADV" head="13"/>
+        <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="16" form="longa" lemma="longus" postag="a-s---fn-" relation="ATR" head="18"/>
+        <word id="17" form="terenda" lemma="tero" postag="v-s-g-fn-" relation="PRED_CO" head="10"/>
+        <word id="18" form="via" lemma="via" postag="n-s---fn-" relation="SBJ" head="17"/>
+        <word id="19" form="est" lemma="sum" postag="v3spia---" relation="AuxV" head="17"/>
+        <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="28" document_id="" subdoc="">
+        <word id="1" form="Gargara" lemma="Gargara" postag="n-p---nn-" relation="SBJ" head="28"/>
+        <word id="2" form="quot" lemma="quot" postag="a-p---fa_" relation="ATR" head="3"/>
+        <word id="3" form="segetes" lemma="seges" postag="n-p---fa-" relation="OBJ" head="28"/>
+        <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="5" form="quot" lemma="quot" postag="a-p---ma_" relation="ATR" head="8"/>
+        <word id="6" form="habet" lemma="habeo" postag="v3spia---" relation="ADV_CO" head="17"/>
+        <word id="7" form="Methymna" lemma="Methymna" postag="n-s---fn-" relation="SBJ" head="6"/>
+        <word id="8" form="racemos" lemma="racemus" postag="n-p---ma-" relation="OBJ" head="6"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="10" form="Aequore" lemma="aequor" postag="n-s---nb-" relation="OBJ" head="29"/>
+        <word id="11" form="quot" lemma="quot" postag="a-p---mn_" relation="ATR" head="12"/>
+        <word id="12" form="pisces" lemma="piscis" postag="n-p---mn-" relation="SBJ" head="29"/>
+        <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="14" form="fronde" lemma="frons" postag="n-s---fb-" relation="OBJ" head="15"/>
+        <word id="15" form="teguntur" lemma="tego" postag="v3ppip---" relation="ADV_CO" head="17"/>
+        <word id="16" form="aves" lemma="avis" postag="n-p---fn-" relation="SBJ" head="15"/>
+        <word id="17" form="," lemma="punc1" postag="u--------" relation="COORD" head="22"/>
+        <word id="18" form="Quot" lemma="quot" postag="a-p---fa_" relation="ATR" head="20"/>
+        <word id="19" form="caelum" lemma="caelum1" postag="n-s---nn-" relation="SBJ" head="31"/>
+        <word id="20" form="stellas" lemma="stella" postag="n-p---fa-" relation="OBJ" head="31"/>
+        <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="22" form="tot" lemma="tot" postag="a-p---fa_" relation="ATR" head="26"/>
+        <word id="23" form="habet" lemma="habeo" postag="v3spia---" relation="PRED" head="0"/>
+        <word id="24" form="tua" lemma="tuus" postag="a-s---fn-" relation="ATR" head="25"/>
+        <word id="25" form="Roma" lemma="Roma" postag="n-s---fn-" relation="SBJ" head="23"/>
+        <word id="26" form="puellas" lemma="puella" postag="n-p---fa-" relation="OBJ" head="23"/>
+        <word id="27" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="28" insertion_id="0027e" artificial="elliptic" relation="ADV_CO" lemma="habeo"
+            postag="v3ppia---" form="habent" head="17"/>
+        <word id="29" insertion_id="0027f" artificial="elliptic" relation="ADV_CO" lemma="tego"
+            postag="v3ppip---" form="teguntur" head="17"/>
+        <word id="30" insertion_id="0027g" artificial="elliptic" relation="ATR" lemma="quot"
+            postag="a-p---fn_" form="quot" head="16"/>
+        <word id="31" insertion_id="0027h" artificial="elliptic" relation="ADV_CO" lemma="habeo"
+            postag="v3spia---" form="habet" head="17"/>
+    </sentence>
+    <sentence id="29" document_id="" subdoc="">
+        <word id="1" form="Mater" lemma="mater" postag="n-s---fn-" relation="SBJ" head="4"/>
+        <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="4"/>
+        <word id="3" form="Aeneae" lemma="Aenea" postag="n-s---mg-" relation="ATR" head="5"/>
+        <word id="4" form="constitit" lemma="consto" postag="v3sria---" relation="PRED" head="0"/>
+        <word id="5" form="urbe" lemma="urbs" postag="n-s---fb-" relation="OBJ" head="2"/>
+        <word id="6" form="sui" lemma="suus" postag="a-s---mg-" relation="ATR" head="3"/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="30" document_id="" subdoc="">
+        <word id="1" form="Se-" lemma="si" postag="c--------" relation="AuxC" head="12"/>
+        <word id="2" form="-u" lemma="-ve" postag="d-------_" relation="AuxY" head="12"/>
+        <word id="3" form="caperis" lemma="capio" postag="v2spip---" relation="ADV" head="1"/>
+        <word id="4" form="primis" lemma="primus" postag="a-p---mb-" relation="ATR_CO" head="5"/>
+        <word id="5" form="et" lemma="et" postag="c--------" relation="COORD" head="8"/>
+        <word id="6" form="adhuc" lemma="adhuc" postag="d--------" relation="ADV" head="7"/>
+        <word id="7" form="crescentibus" lemma="cresco" postag="v-ppp-mb-" relation="ATR_CO"
+            head="5"/>
+        <word id="8" form="annis" lemma="annus" postag="n-p---mb-" relation="OBJ" head="3"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="10" form="Ante" lemma="ante" postag="r--------" relation="AuxP" head="12"/>
+        <word id="11" form="oculos" lemma="oculus" postag="n-p---ma-" relation="OBJ" head="10"/>
+        <word id="12" form="veniet" lemma="venio" postag="v3sfia---" relation="PRED" head="0"/>
+        <word id="13" form="vera" lemma="verus" postag="a-s---fn-" relation="ATR" head="14"/>
+        <word id="14" form="puella" lemma="puella" postag="n-s---fn-" relation="SBJ" head="12"/>
+        <word id="15" form="tuos" lemma="tuus" postag="a-p---ma-" relation="ATR" head="11"/>
+        <word id="16" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="31" document_id="" subdoc="">
+        <word id="1" form="Si-" lemma="si" postag="c--------" relation="AuxC" head="9"/>
+        <word id="2" form="-ve" lemma="sive" postag="d-------_" relation="AuxY" head="9"/>
+        <word id="3" form="cupis" lemma="cupio" postag="v2spia---" relation="ADV" head="1"/>
+        <word id="4" form="iuvenem" lemma="juvenis" postag="a-s---fa-" relation="OBJ" head="3"/>
+        <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="6" form="iuvenes" lemma="juvenis" postag="a-p---fn-" relation="SBJ" head="9"/>
+        <word id="7" form="tibi" lemma="tu" postag="p-s---md-" relation="OBJ" head="9"/>
+        <word id="8" form="mille" lemma="mille" postag="a-p---fn_" relation="ATR" head="6"/>
+        <word id="9" form="placebunt" lemma="placeo" postag="v3pfia---" relation="PRED" head="0"/>
+        <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="32" document_id="" subdoc="">
+        <word id="1" form="Cogeris" lemma="cogo" postag="v2sfip---" relation="PRED" head="0"/>
+        <word id="2" form="voti" lemma="votum" postag="n-s---ng-" relation="ADV" head="3"/>
+        <word id="3" form="nescius" lemma="nescius" postag="a-s---mn-" relation="PNOM" head="4"/>
+        <word id="4" form="esse" lemma="sum" postag="v--pna---" relation="OBJ" head="1"/>
+        <word id="5" form="tui" lemma="tuus" postag="a-s---ng-" relation="ATR" head="2"/>
+        <word id="6" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="33" document_id="" subdoc="">
+        <word id="1" form="Se-" lemma="si" postag="c--------" relation="AuxC" head="19"/>
+        <word id="2" form="-u" lemma="-ve" postag="d-------_" relation="AuxY" head="19"/>
+        <word id="3" form="te" lemma="tu" postag="p-s---ma-" relation="OBJ" head="5"/>
+        <word id="4" form="forte" lemma="forte" postag="d-------_" relation="ADV" head="5"/>
+        <word id="5" form="iuvat" lemma="juvo" postag="v3spia---" relation="ADV" head="1"/>
+        <word id="6" form="sera" lemma="serus" postag="a-s---fn-" relation="ATR_CO" head="7"/>
+        <word id="7" form="et" lemma="et" postag="c--------" relation="COORD" head="9"/>
+        <word id="8" form="sapientior" lemma="sapiens" postag="a-s---fnc" relation="ATR_CO" head="7"/>
+        <word id="9" form="aetas" lemma="aetas" postag="n-s---fn-" relation="SBJ" head="5"/>
+        <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="11" form="Hoc" lemma="hic" postag="a-s---nn_" relation="ATR" head="18"/>
+        <word id="12" form="quoque" lemma="quoque" postag="d--------" relation="AuxZ" head="11"/>
+        <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="14" form="crede" lemma="credo" postag="v2spma---" relation="AuxY" head="19"/>
+        <word id="15" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="14"/>
+        <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="17" form="plenius" lemma="plenus" postag="a-s---nnc" relation="PNOM" head="19"/>
+        <word id="18" form="agmen" lemma="agmen" postag="n-s---nn-" relation="SBJ" head="19"/>
+        <word id="19" form="erit" lemma="sum1" postag="v3sfia---" relation="PRED" head="0"/>
+        <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+
+
+    <sentence id="34" document_id="" subdoc="">
+        <word id="1" form="Sed" lemma="sed" postag="c--------" relation="COORD" head="0"/>
+        <word id="2" form="tu" lemma="tu" postag="p-s---mn-" relation="SBJ" head="5"/>
+        <word id="3" form="praecipue" lemma="praecipuus" postag="d-------_" relation="AuxZ" head="6"/>
+        <word id="4" form="curvis" lemma="curvus" postag="a-p---nb-" relation="ATR" head="6"/>
+        <word id="5" form="venare" lemma="venor" postag="v2spmp---" relation="PRED_CO" head="1"/>
+        <word id="6" form="theatris" lemma="theatrum" postag="n-p---nb-" relation="ADV" head="5"/>
+        <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="35" document_id="" subdoc="">
+        <word id="1" form="Haec" lemma="hic" postag="a-p---nn_" relation="ATR" head="2"/>
+        <word id="2" form="loca" lemma="locum" postag="n-p---nn-" relation="SBJ" head="3"/>
+        <word id="3" form="sunt" lemma="sum1" postag="v3ppia---" relation="PRED" head="0"/>
+        <word id="4" form="voto" lemma="votum" postag="n-s---nd-" relation="ADV" head="5"/>
+        <word id="5" form="fertiliora" lemma="fertilis" postag="a-p---nnc" relation="PNOM" head="3"/>
+        <word id="6" form="tuo" lemma="tuus" postag="a-s---nd-" relation="ATR" head="4"/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="36" document_id="" subdoc="">
+        <word id="1" form="Illic" lemma="illic" postag="d--------" relation="ADV" head="2"/>
+        <word id="2" form="invenies" lemma="invenio" postag="v2sfia---" relation="PRED" head="0"/>
+        <word id="3" form="quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="4"/>
+        <word id="4" form="ames" lemma="amo" postag="v2spsa---" relation="OBJ_CO" head="5"/>
+        <word id="5" form="," lemma="punc1" postag="u--------" relation="COORD" head="9"/>
+        <word id="6" form="quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="7"/>
+        <word id="7" form="ludere" lemma="ludo" postag="v--pna---" relation="OBJ" head="8"/>
+        <word id="8" form="possis" lemma="possum" postag="v2spsa---" relation="OBJ_CO" head="5"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="2"/>
+        <word id="10" form="Quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="13"/>
+        <word id="11" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="16"/>
+        <word id="12" form="semel" lemma="semel" postag="d--------" relation="ADV" head="13"/>
+        <word id="13" form="tangas" lemma="tango" postag="v2spsa---" relation="OBJ_CO" head="16"/>
+        <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="15" form="quod" lemma="qui2" postag="p-s---na-" relation="OBJ" head="17"/>
+        <word id="16" form="-que" lemma="-que" postag="c--------" relation="COORD" head="9"/>
+        <word id="17" form="tenere" lemma="teneo" postag="v--pna---" relation="OBJ" head="18"/>
+        <word id="18" form="velis" lemma="volo1" postag="v2spsa---" relation="OBJ_CO" head="16"/>
+        <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="37" document_id="" subdoc="">
+        <word id="1" form="Ut" lemma="ut" postag="c--------" relation="AuxC" head="18"/>
+        <word id="2" form="redit" lemma="redeo" postag="v3spia---" relation="ADV_CO" head="4"/>
+        <word id="3" form="it" lemma="eo1" postag="v3spia---" relation="ADV_CO" head="4"/>
+        <word id="4" form="-que" lemma="-que" postag="c--------" relation="COORD" head="1"/>
+        <word id="5" form="frequens" lemma="frequens" postag="a-s---fn-" relation="ATV" head="7"/>
+        <word id="6" form="longum" lemma="longus" postag="a-s---na-" relation="ATR" head="9"/>
+        <word id="7" form="formica" lemma="formica" postag="n-s---fn-" relation="SBJ" head="4"/>
+        <word id="8" form="per" lemma="per" postag="r--------" relation="AuxP" head="4"/>
+        <word id="9" form="agmen" lemma="agmen" postag="n-s---na-" relation="ADV" head="8"/>
+        <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="11" form="Granifero" lemma="granifer" postag="a-s---nb-" relation="ATR" head="15"/>
+        <word id="12" form="solitum" lemma="soleo" postag="v-srppma-" relation="ATR" head="16"/>
+        <word id="13" form="cum" lemma="cum" postag="c--------" relation="AuxC" head="4"/>
+        <word id="14" form="vehit" lemma="veho" postag="v3spia---" relation="ADV" head="13"/>
+        <word id="15" form="ore" lemma="os1" postag="n-s---nb-" relation="ADV" head="14"/>
+        <word id="16" form="cibum" lemma="cibus" postag="n-s---ma-" relation="OBJ" head="14"/>
+        <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="18" form="Aut" lemma="aut" postag="c--------" relation="COORD" head="35"/>
+        <word id="19" form="ut" lemma="ut" postag="d--------" relation="AuxC" head="18"/>
+        <word id="20" form="apes" lemma="apis1" postag="n-p---fn-" relation="SBJ" head="33"/>
+        <word id="21" form="saltus" lemma="saltus1" postag="n-p---ma-" relation="OBJ_CO" head="24"/>
+        <word id="22" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="24"/>
+        <word id="23" form="suos" lemma="suus" postag="a-p---ma-" relation="ATR" head="21"/>
+        <word id="24" form="et" lemma="et" postag="c--------" relation="COORD" head="26"/>
+        <word id="25" form="olentia" lemma="oleo1" postag="v-ppp-na-" relation="ATR" head="27"/>
+        <word id="26" form="nactae" lemma="nanciscor" postag="v-prppfn-" relation="ADV" head="33"/>
+        <word id="27" form="Pascua" lemma="pascuum" postag="n-p---na-" relation="OBJ_CO" head="24"/>
+        <word id="28" form="per" lemma="per" postag="r--------" relation="AuxP" head="33"/>
+        <word id="29" form="flores" lemma="flos" postag="n-p---ma-" relation="ADV_CO" head="30"/>
+        <word id="30" form="et" lemma="et" postag="c--------" relation="COORD" head="28"/>
+        <word id="31" form="thyma" lemma="thymum" postag="n-p---na-" relation="ADV_CO" head="30"/>
+        <word id="32" form="summa" lemma="superus" postag="a-p---nas" relation="ATR" head="31"/>
+        <word id="33" form="volant" lemma="volo2" postag="v3ppia---" relation="ADV_CO" head="19"/>
+        <word id="34" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="35" form="Sic" lemma="sic" postag="d--------" relation="ADV" head="36"/>
+        <word id="36" form="ruit" lemma="ruo" postag="v3spia---" relation="PRED" head="0"/>
+        <word id="37" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="36"/>
+        <word id="38" form="celebres" lemma="celeber" postag="a-p---ma-" relation="ATR" head="41"/>
+        <word id="39" form="cultissima" lemma="cultus" postag="a-s---fns" relation="ATR" head="40"/>
+        <word id="40" form="femina" lemma="femina" postag="n-s---fn-" relation="SBJ" head="36"/>
+        <word id="41" form="ludos" lemma="ludus" postag="n-p---ma-" relation="OBJ" head="37"/>
+        <word id="42" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="38" document_id="" subdoc="">
+        <word id="1" form="Copia" lemma="copia1" postag="n-s---fn-" relation="SBJ" head="4"/>
+        <word id="2" form="iudicium" lemma="judicium" postag="n-s---na-" relation="OBJ" head="4"/>
+        <word id="3" form="saepe" lemma="saepe" postag="d--------" relation="ADV" head="4"/>
+        <word id="4" form="morata" lemma="moror1" postag="v-srppfn-" relation="PRED" head="0"/>
+        <word id="5" form="meum" lemma="meus" postag="a-s---na-" relation="ATR" head="2"/>
+        <word id="6" form="est" lemma="sum1" postag="v3spia---" relation="AuxV" head="4"/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+
+    <sentence id="39" document_id="" subdoc="">
+        <word id="1" form="Illic" lemma="illic" postag="d--------" relation="ADV" head="14"/>
+        <word id="2" form="quas" lemma="qui2" postag="p-p---fa-" relation="OBJ" head="3"/>
+        <word id="3" form="tulerant" lemma="fero" postag="v3plia---" relation="ATR" head="7"/>
+        <word id="4" form="nemorosa" lemma="nemorosus" postag="a-p---nn-" relation="ATR" head="5"/>
+        <word id="5" form="Palatia" lemma="palatium" postag="n-p---nn-" relation="SBJ" head="3"/>
+        <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="7" form="frondes" lemma="frons1" postag="n-p---fn-" relation="PNOM" head="14"/>
+        <word id="8" form="Simpliciter" lemma="simpliciter" postag="d--------" relation="ADV"
+            head="9"/>
+        <word id="9" form="positae" lemma="pono" postag="v-prppfn-" relation="ATR" head="7"/>
+        <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="11" form="scena" lemma="scena" postag="n-s---fn-" relation="SBJ" head="14"/>
+        <word id="12" form="sine" lemma="sine" postag="d--------" relation="AuxP" head="11"/>
+        <word id="13" form="arte" lemma="ars" postag="n-s---fb-" relation="ATR" head="12"/>
+        <word id="14" form="fuit" lemma="sum1" postag="v3sria---" relation="PRED" head="0"/>
+        <word id="15" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="40" document_id="" subdoc="">
+        <word id="1" form="In" lemma="in" postag="r--------" relation="AuxP" head="3"/>
+        <word id="2" form="gradibus" lemma="gradus" postag="n-p---mb-" relation="OBJ" head="1"/>
+        <word id="3" form="sedit" lemma="sedeo" postag="v3sria---" relation="PRED" head="0"/>
+        <word id="4" form="populus" lemma="populus1" postag="n-s---mn-" relation="SBJ" head="3"/>
+        <word id="5" form="de" lemma="de" postag="r--------" relation="AuxP" head="7"/>
+        <word id="6" form="caespite" lemma="caespes" postag="n-s---mb-" relation="ADV" head="5"/>
+        <word id="7" form="factis" lemma="facio" postag="v-prppmb-" relation="ATR" head="2"/>
+        <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="9" form="Qualibet" lemma="quilibet" postag="a-s---fb_" relation="ATR" head="11"/>
+        <word id="10" form="hirsutas" lemma="hirsutus" postag="a-p---fa-" relation="ATR" head="13"/>
+        <word id="11" form="fronde" lemma="frons1" postag="n-s---fb-" relation="SBJ" head="12"/>
+        <word id="12" form="tegente" lemma="tego" postag="v-spp-mb-" relation="ATR" head="3"/>
+        <word id="13" form="comas" lemma="coma" postag="n-p---fa-" relation="OBJ" head="12"/>
+        <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="41" document_id="" subdoc="">
+        <word id="1" form="Respiciunt" lemma="respicio" postag="v3ppia---" relation="PRED_CO"
+            head="4"/>
+        <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="3" form="oculis" lemma="oculus" postag="n-p---mb-" relation="ADV" head="5"/>
+        <word id="4" form="-que" lemma="-que" postag="c--------" relation="COORD" head="12"/>
+        <word id="5" form="notant" lemma="noto" postag="v3ppia---" relation="PRED_CO" head="4"/>
+        <word id="6" form="sibi" lemma="sui" postag="p-s---md-" relation="OBJ" head="5"/>
+        <word id="7" form="quisque" lemma="quisque" postag="p-s---mn-" relation="ATV" head="5"/>
+        <word id="8" form="puellam" lemma="puella" postag="n-s---fa-" relation="OBJ" head="5"/>
+        <word id="9" form="Quam" lemma="qui2" postag="p-s---fa-" relation="OBJ" head="10"/>
+        <word id="10" form="velit" lemma="volo1" postag="v3spsa---" relation="ATR" head="8"/>
+        <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="12" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
+        <word id="13" form="tacito" lemma="tacitus" postag="a-s---nb_" relation="ATR" head="14"/>
+        <word id="14" form="pectore" lemma="pectus" postag="n-s---nb-" relation="ADV" head="16"/>
+        <word id="15" form="multa" lemma="multus" postag="a-p---na-" relation="OBJ" head="16"/>
+        <word id="16" form="movent" lemma="moveo" postag="v3ppia---" relation="PRED_CO" head="12"/>
+        <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="42" document_id="" subdoc="">
+        <word id="1" form="Dum" lemma="dum" postag="c--------" relation="AuxC" head="31"/>
+        <word id="2" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="rudem" lemma="rudis1" postag="a-s---ma-" relation="ATR" head="6"/>
+        <word id="5" form="praebente" lemma="praebeo" postag="v-spp-mb-" relation="ADV" head="14"/>
+        <word id="6" form="modum" lemma="modus" postag="n-s---ma-" relation="OBJ" head="5"/>
+        <word id="7" form="tibicine" lemma="tibicen" postag="n-s---mb-" relation="SBJ" head="5"/>
+        <word id="8" form="Tusco" lemma="Tuscus" postag="a-s---mb_" relation="ATR" head="7"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="10" form="Ludius" lemma="ludius1" postag="n-s---mn-" relation="SBJ" head="14"/>
+        <word id="11" form="aequatam" lemma="aequo" postag="v-srppfa-" relation="ATR" head="15"/>
+        <word id="12" form="ter" lemma="ter" postag="d--------" relation="ADV" head="14"/>
+        <word id="13" form="pede" lemma="pedis" postag="n-s---mb-" relation="ADV" head="14"/>
+        <word id="14" form="pulsat" lemma="pulso" postag="v3spia---" relation="" head="1"/>
+        <word id="15" form="humum" lemma="humus" postag="n-s---fa-" relation="OBJ" head="14"/>
+        <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="17" form="In" lemma="in" postag="r--------" relation="" head="31"/>
+        <word id="18" form="medio" lemma="medius" postag="a-s---mb-" relation="ATR" head="19"/>
+        <word id="19" form="plausu" lemma="plausus3" postag="n-s---mb-" relation="ADV" head="17"/>
+        <word id="20" form="(" lemma="punc1" postag="u--------" relation="AuxG" head="24"/>
+        <word id="21" form="plausus" lemma="plausus3" postag="n-p---mn-" relation="SBJ" head="24"/>
+        <word id="22" form="tunc" lemma="tunc" postag="d--------" relation="ADV" head="24"/>
+        <word id="23" form="arte" lemma="ars" postag="n-s---fb-" relation="OBJ" head="24"/>
+        <word id="24" form="carebant" lemma="careo" postag="v3piia---" relation="AuxY" head="19"/>
+        <word id="25" form=")" lemma="punc1" postag="u--------" relation="AuxG" head="24"/>
+        <word id="26" form="Rex" lemma="rex" postag="n-s---mn-" relation="SBJ" head="31"/>
+        <word id="27" form="populo" lemma="populus1" postag="n-s---md-" relation="OBJ" head="31"/>
+        <word id="28" form="praedae" lemma="praeda" postag="n-s---fg-" relation="ATR" head="29"/>
+        <word id="29" form="signa" lemma="signum" postag="n-p---na-" relation="OBJ" head="31"/>
+        <word id="30" form="petita" lemma="peto" postag="v-prppna-" relation="ATR" head="29"/>
+        <word id="31" form="dedit" lemma="do" postag="v3sria---" relation="PRED_CO" head="2"/>
+        <word id="32" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="43" document_id="" subdoc="">
+        <word id="1" form="Protinus" lemma="protinus" postag="d--------" relation="ADV" head="2"/>
+        <word id="2" form="exiliunt" lemma="exsilio" postag="v3ppia---" relation="PRED_CO" head="11"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="animum" lemma="animus" postag="n-p---mg-" relation="OBJ" head="6"/>
+        <word id="5" form="clamore" lemma="clamor" postag="n-s---mb-" relation="ADV" head="6"/>
+        <word id="6" form="fatentes" lemma="fateor" postag="v-ppp-mn-" relation="ADV" head="2"/>
+        <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="8" form="Virginibus" lemma="virgo" postag="n-p---fd-" relation="OBJ" head="10"/>
+        <word id="9" form="cupidas" lemma="cupidus" postag="a-p---fa-" relation="ATR" head="12"/>
+        <word id="10" form="iniciunt" lemma="inicio" postag="v3ppia---" relation="PRED_CO" head="11"/>
+        <word id="11" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
+        <word id="12" form="manus" lemma="manus1" postag="n-p---fa-" relation="OBJ" head="10"/>
+        <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="44" document_id="" subdoc="">
+        <word id="1" form="Ut" lemma="ut" postag="c--------" relation="AuxC" head="9"/>
+        <word id="2" form="fugiunt" lemma="fugio" postag="v3ppia---" relation="ADV_CO" head="1"/>
+        <word id="3" form="aquilas" lemma="aquila1" postag="n-p---fa-" relation="OBJ" head="2"/>
+        <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="5" form="timidissima" lemma="timidus" postag="a-p---nns" relation="ATR" head="6"/>
+        <word id="6" form="turba" lemma="turba" postag="n-s---fn-" relation="SBJ_AP" head="7"/>
+        <word id="7" form="," lemma="punc1" postag="u--------" relation="APOS" head="2"/>
+        <word id="8" form="columbae" lemma="columba" postag="n-p---fn-" relation="SBJ_AP" head="7"/>
+        <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="17"/>
+        <word id="10" form="Ut" lemma="ut" postag="c--------" relation="AuxC" head="9"/>
+        <word id="11" form="fugit" lemma="fugio" postag="v3spia---" relation="ADV_CO" head="10"/>
+        <word id="12" form="invisos" lemma="invisus2" postag="a-p---ma-" relation="ATR" head="15"/>
+        <word id="13" form="agna" lemma="agna1" postag="n-s---fn-" relation="SBJ" head="11"/>
+        <word id="14" form="novella" lemma="novellus1" postag="a-s---fn-" relation="ATR" head="13"/>
+        <word id="15" form="lupos" lemma="lupus1" postag="n-p---ma-" relation="OBJ" head="11"/>
+        <word id="16" form=":" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="17" form="Sic" lemma="sic" postag="d--------" relation="ADV" head="19"/>
+        <word id="18" form="illae" lemma="ille" postag="p-p---fn-" relation="SBJ" head="19"/>
+        <word id="19" form="timuere" lemma="timeo" postag="v3pria---" relation="PRED" head="0"/>
+        <word id="20" form="viros" lemma="vir" postag="n-p---ma-" relation="OBJ" head="19"/>
+        <word id="21" form="sine" lemma="sine" postag="r--------" relation="AuxP" head="23"/>
+        <word id="22" form="more" lemma="mos" postag="n-s---mb-" relation="ATR" head="21"/>
+        <word id="23" form="ruentes" lemma="ruo" postag="v-ppp-ma-" relation="ATR" head="20"/>
+        <word id="24" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="45" document_id="" subdoc="">
+        <word id="1" form="Constitit" lemma="consto" postag="v3sria---" relation="PRED" head="0"/>
+        <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="1"/>
+        <word id="3" form="nulla" lemma="nullus" postag="a-s---fb-" relation="OBJ" head="2"/>
+        <word id="4" form="qui" lemma="qui2" postag="p-s---mn-" relation="SBJ" head="5"/>
+        <word id="5" form="fuit" lemma="sum1" postag="v3sria---" relation="ATR" head="7"/>
+        <word id="6" form="ante" lemma="ante" postag="d--------" relation="ADV" head="5"/>
+        <word id="7" form="color" lemma="color" postag="n-s---mn-" relation="SBJ" head="1"/>
+        <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="46" document_id="" subdoc="">
+        <word id="1" form="Nam" lemma="nam" postag="d-------_" relation="AuxY" head="5"/>
+        <word id="2" form="timor" lemma="timor" postag="n-s---mn-" relation="SBJ" head="4"/>
+        <word id="3" form="unus" lemma="unus" postag="a-s---mn-" relation="PNOM" head="4"/>
+        <word id="4" form="erat" lemma="sum1" postag="v3siia---" relation="PRED_CO" head="5"/>
+        <word id="5" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="6" form="facies" lemma="facies" postag="n-p---fn-" relation="SBJ" head="11"/>
+        <word id="7" form="non" lemma="non" postag="d--------" relation="AuxZ" head="11"/>
+        <word id="8" form="una" lemma="unus" postag="a-s---fn-" relation="PNOM" head="11"/>
+        <word id="9" form="timoris" lemma="timor" postag="n-s---mg-" relation="ATR" head="6"/>
+        <word id="10" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="11" insertion_id="0010e" artificial="elliptic" relation="PRED_CO" lemma="sum1"
+            postag="v3siia---" form="erat" head="5"/>
+    </sentence>
+    <sentence id="47" document_id="" subdoc="">
+        <word id="1" form="Pars" lemma="pars" postag="n-s---fn-" relation="SBJ" head="2"/>
+        <word id="2" form="laniat" lemma="lanio1" postag="v3spia---" relation="PRED_CO" head="4"/>
+        <word id="3" form="crines" lemma="crinis" postag="n-p---ma-" relation="OBJ" head="2"/>
+        <word id="4" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="5" form="pars" lemma="pars" postag="n-s---fn-" relation="SBJ" head="8"/>
+        <word id="6" form="sine" lemma="sine" postag="r--------" relation="AuxP" head="8"/>
+        <word id="7" form="mente" lemma="mens" postag="n-s---fb-" relation="ADV" head="6"/>
+        <word id="8" form="sedet" lemma="sedeo" postag="v3spia---" relation="PRED_CO" head="4"/>
+        <word id="9" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="48" document_id="" subdoc="">
+        <word id="1" form="Altera" lemma="alter" postag="n-s---fn-" relation="SBJ" head="3"/>
+        <word id="2" form="maesta" lemma="maestus" postag="a-s---fn-" relation="ATV" head="1"/>
+        <word id="3" form="silet" lemma="sileo" postag="v3spia---" relation="PRED_CO" head="4"/>
+        <word id="4" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="5" form="frustra" lemma="frustra" postag="d--------" relation="ADV" head="6"/>
+        <word id="6" form="vocat" lemma="voco" postag="v3spia---" relation="PRED_CO" head="4"/>
+        <word id="7" form="altera" lemma="alter" postag="n-s---fn-" relation="SBJ" head="6"/>
+        <word id="8" form="matrem" lemma="mater" postag="n-s---fa-" relation="OBJ" head="6"/>
+        <word id="9" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="49" document_id="" subdoc="">
+        <word id="1" form="Haec" lemma="hic" postag="p-s---fn-" relation="SBJ" head="2"/>
+        <word id="2" form="queritur" lemma="queror" postag="v3spid---" relation="PRED_CO" head="3"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="4" form="stupet" lemma="stupeo" postag="v3spia---" relation="PRED_CO" head="3"/>
+        <word id="5" form="haec" lemma="hic" postag="p-s---fn-" relation="SBJ" head="4"/>
+        <word id="6" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="50" document_id="" subdoc="">
+        <word id="1" form="haec" lemma="hic" postag="p-s---fn-" relation="SBJ" head="2"/>
+        <word id="2" form="manet" lemma="maneo" postag="v3spia---" relation="PRED_CO" head="3"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="4" form="illa" lemma="ille" postag="p-s---fn-" relation="SBJ" head="5"/>
+        <word id="5" form="fugit" lemma="fugio" postag="v3spia---" relation="PRED_CO" head="3"/>
+        <word id="6" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="51" document_id="" subdoc="">
+        <word id="1" form="Ducuntur" lemma="duco" postag="v3ppip---" relation="PRED_CO" head="9"/>
+        <word id="2" form="raptae" lemma="rapio" postag="v-prppfn-" relation="ATR" head="7"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="genialis" lemma="genialis" postag="a-s---fn-" relation="ATR" head="5"/>
+        <word id="5" form="praeda" lemma="praeda" postag="n-s---fn-" relation="SBJ_AP" head="6"/>
+        <word id="6" form="," lemma="punc1" postag="u--------" relation="APOS" head="1"/>
+        <word id="7" form="puellae" lemma="puella" postag="n-p---fn-" relation="SBJ_AP" head="6"/>
+        <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="9" form="Et" lemma="et" postag="c--------" relation="COORD" head="0"/>
+        <word id="10" form="potuit" lemma="possum" postag="v3sria---" relation="PRED_CO" head="9"/>
+        <word id="11" form="multas" lemma="multus" postag="a-p---fa-" relation="OBJ" head="13"/>
+        <word id="12" form="ipse" lemma="ipse" postag="a-s---mn_" relation="ATR" head="14"/>
+        <word id="13" form="decere" lemma="decet" postag="v--pna---" relation="OBJ" head="10"/>
+        <word id="14" form="timor" lemma="timor" postag="n-s---mn-" relation="SBJ" head="10"/>
+        <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="52" document_id="" subdoc="">
+        <word id="1" form="Si" lemma="si" postag="c--------" relation="AuxC" head="12"/>
+        <word id="2" form="qua" lemma="quis" postag="p-s---fn-" relation="SBJ" head="6"/>
+        <word id="3" form="repugnarat" lemma="repugno" postag="v3slia---" relation="ADV_CO" head="6"/>
+        <word id="4" form="nimium" lemma="nimius" postag="d-------_" relation="ADV" head="3"/>
+        <word id="5" form="comitem" lemma="comes" postag="n-s---ma-" relation="OBJ" head="7"/>
+        <word id="6" form="-que" lemma="-que" postag="c--------" relation="COORD" head="1"/>
+        <word id="7" form="negabat" lemma="nego" postag="v3siia---" relation="ADV_CO" head="6"/>
+        <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="9" form="Sublatam" lemma="tollo" postag="v-srppfa-" relation="OBJ" head="12"/>
+        <word id="10" form="cupido" lemma="cupidus" postag="a-s---mb-" relation="ATR" head="14"/>
+        <word id="11" form="vir" lemma="vir" postag="n-s---mn-" relation="SBJ" head="12"/>
+        <word id="12" form="tulit" lemma="fero" postag="v3sria---" relation="PRED_CO" head="16"/>
+        <word id="13" form="ipse" lemma="ipse" postag="a-s---mn_" relation="ATR" head="11"/>
+        <word id="14" form="sinu" lemma="sinus1" postag="n-s---mb-" relation="ADV" head="9"/>
+        <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="16" form="Atque" lemma="atque" postag="c--------" relation="COORD" head="0"/>
+        <word id="17" form="ita" lemma="ita" postag="d--------" relation="ADV" head="25"/>
+        <word id="18" form="'" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="19" form="quid" lemma="quis1" postag="n-s---na-" relation="ADV" head="22"/>
+        <word id="20" form="teneros" lemma="tener" postag="a-p---ma-" relation="ATR" head="22"/>
+        <word id="21" form="lacrimis" lemma="lacrima" postag="n-p---fb-" relation="ADV" head="22"/>
+        <word id="22" form="corrumpis" lemma="corrumpo" postag="v2spia---" relation="OBJ" head="25"/>
+        <word id="23" form="ocellos" lemma="ocellus" postag="n-p---ma-" relation="OBJ" head="22"/>
+        <word id="24" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="25" insertion_id="0024e" artificial="elliptic" relation="PRED_CO" lemma="dico2"
+            postag="v3sria---" form="dixit" head="16"/>
+    </sentence>
+    <sentence id="53" document_id="" subdoc="">
+        <word id="1" form="Quod" lemma="qui2" postag="p-s---nn-" relation="PNOM" head="4"/>
+        <word id="2" form="matri" lemma="mater" postag="n-s---fd-" relation="ADV" head="4"/>
+        <word id="3" form="pater" lemma="pater" postag="n-s---mn-" relation="SBJ" head="4"/>
+        <word id="4" form="est" lemma="sum1" postag="v3spia---" relation="ATR" head="6"/>
+        <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="6" form="hoc" lemma="hic" postag="p-s---nn-" relation="PNOM" head="11"/>
+        <word id="7" form="tibi" lemma="tu" postag="p-s---fd-" relation="ADV" head="11"/>
+        <word id="8" form="'" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="9" form="dixit" lemma="dico2" postag="v3sria---" relation="PRED" head="0"/>
+        <word id="10" form="'" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="11" form="ero" lemma="sum1" postag="v1sfia---" relation="OBJ" head="9"/>
+        <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="13" form="'" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="54" document_id="" subdoc="">
+        <word id="1" form="Romule" lemma="Romulus" postag="n-s---mv-" relation="ExD" head="4"/>
+        <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="3" form="militibus" lemma="miles" postag="n-p---md-" relation="OBJ" head="5"/>
+        <word id="4" form="scisti" lemma="scio" postag="v2sria---" relation="PRED" head="0"/>
+        <word id="5" form="dare" lemma="do" postag="v--pna---" relation="OBJ" head="4"/>
+        <word id="6" form="commoda" lemma="commodum" postag="n-p---na-" relation="OBJ" head="5"/>
+        <word id="7" form="solus" lemma="solus1" postag="a-s---mn-" relation="AtvV" head="4"/>
+        <word id="8" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="55" document_id="" subdoc="">
+        <word id="1" form="Haec" lemma="hic" postag="a-p---na_" relation="ATR" head="5"/>
+        <word id="2" form="mihi" lemma="ego" postag="p-s---md-" relation="OBJ" head="4"/>
+        <word id="3" form="si" lemma="si" postag="c--------" relation="AuxC" head="8"/>
+        <word id="4" form="dederis" lemma="do" postag="v2stia---" relation="ADV" head="3"/>
+        <word id="5" form="commoda" lemma="commodum" postag="n-p---na-" relation="OBJ" head="4"/>
+        <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="7" form="miles" lemma="miles" postag="n-s---mn-" relation="PNOM" head="8"/>
+        <word id="8" form="ero" lemma="sum1" postag="v1sfia---" relation="PRED" head="0"/>
+        <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="56" document_id="" subdoc="">
+        <word id="1" form="Scilicet" lemma="scilicet" postag="d--------" relation="ADV" head="11"/>
+        <word id="2" form="ex" lemma="ex" postag="r--------" relation="AuxX" head="11"/>
+        <word id="3" form="illo" lemma="ille" postag="p-s---nb-" relation="ADV" head="2"/>
+        <word id="4" form="sollemnia" lemma="sollemnis" postag="a-p---nn-" relation="ATR" head="6"/>
+        <word id="5" form="more" lemma="mos" postag="n-s---mb-" relation="ADV" head="11"/>
+        <word id="6" form="theatra" lemma="theatrum" postag="n-p---nn-" relation="SBJ" head="11"/>
+        <word id="7" form="Nunc" lemma="nunc" postag="d--------" relation="ADV" head="11"/>
+        <word id="8" form="quoque" lemma="quoque" postag="d--------" relation="AuxZ" head="7"/>
+        <word id="9" form="formosis" lemma="formosus" postag="a-p---fd-" relation="ATR" head="10"/>
+        <word id="10" form="insidiosa" lemma="insidiosus" postag="a-p---nn-" relation="PNOM"
+            head="11"/>
+        <word id="11" form="manent" lemma="maneo" postag="v3ppia---" relation="PRED" head="0"/>
+        <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+
+
 </treebank>
-
-
