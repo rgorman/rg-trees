@@ -679,7 +679,7 @@
       <word id="9" form="Qualibet" lemma="quilibet" postag="a-s---fb_" relation="ATR" head="11"/>
       <word id="10" form="hirsutas" lemma="hirsutus" postag="a-p---fa-" relation="ATR" head="13"/>
       <word id="11" form="fronde" lemma="frons1" postag="n-s---fb-" relation="SBJ" head="12"/>
-      <word id="12" form="tegente" lemma="tego" postag="v-spp-mb-" relation="ATR" head="3"/>
+      <word id="12" form="tegente" lemma="tego" postag="v-spp-mb-" relation="ADV" head="3"/>
       <word id="13" form="comas" lemma="coma" postag="n-p---fa-" relation="OBJ" head="12"/>
       <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
