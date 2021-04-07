@@ -1553,7 +1553,7 @@
       <word id="8" form="advertite" lemma="adverto" postag="v2ppma---" relation="PRED_CO" head="12"/>
       <word id="9" form="mentes" lemma="mens" postag="n-p---fa-" relation="OBJ" head="8"/>
       <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="11" form="Pollicitis" lemma="pollicitum" postag="n-p---nd-" relation="OBJ" head="13"/>
+      <word id="11" form="Pollicitis" lemma="pollicitum" postag="n-p---nd-" relation="OBJ" head="17"/>
       <word id="12" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
       <word id="13" form="favens" lemma="faveo" postag="v-spp-nn-" relation="ATR" head="15"/>
       <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
