@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+    xml:lang="lat"
+    format="aldt"
+    direction="ltr"
+    version="1.5">
+    <date>2022-01-18 21:04:35 UTC</date>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>https://services.perseids.org/llt/segtok</uri>
+    </annotator>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+    </annotator>
+    <annotator>
+        <short>Bob Gorman</short>
+        <name>Robert Gorman</name>
+        <address>rgorman1@unl.edu</address>
+        <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
+    </annotator>
+    <sentence id="1" document_id="" subdoc="" span="">
+        <word id="1" form="ab" lemma="ab" postag="r--------" relation="AuxP" head="3"/>
+        <word id="2" form="aratro" lemma="aratrum" postag="n-s---nb-" relation="OBJ" head="1"/>
+        <word id="3" form="abduxerunt" lemma="abduco" postag="v3pria---" relation="PRED" head="0"/>
+        <word id="4" form="Cincinnatum" lemma="Cincinnatus" postag="n-s---ma-" relation="OBJ" head="3"/>
+        <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="6" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="3"/>
+        <word id="7" form="dictator" lemma="dictator" postag="n-s---mn-" relation="PNOM" head="8"/>
+        <word id="8" form="esset" lemma="sum1" postag="v3sisa---" relation="ADV" head="6"/>
+        <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+</treebank>
+
