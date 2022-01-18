@@ -60,12 +60,12 @@
           "editors": "Robert Gorman",
           "sections": [
             {
-              "locus": "1",
+              "locus": "1-2",
               "path": "Test1",
               "xml": "Test1.xml",
               "chunks": {
                 "start": 1,
-                "end": 1
+                "end": 2
               }
             }
           ]
