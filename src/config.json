@@ -54,6 +54,23 @@
           ]
         },
         {
+          "path": "Tree_Practice1",
+          "author": "Treebeard",
+          "work": "review",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-16",
+              "path": "Tree_Practice1",
+              "xml": "Latin-102/Tree_Practice1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 16
+              }
+            }
+          ]
+        },
+        {
           "path": "Test1",
           "author": "Test",
           "work": "purp. clauses",
