@@ -71,6 +71,23 @@
           ]
         },
         {
+          "path": "Purp_Result_Compl",
+          "author": "Treebeard",
+          "work": "review",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-22",
+              "path": "Purp_Result_Compl",
+              "xml": "Latin-102/Purp_Result_Compl.xml",
+              "chunks": {
+                "start": 1,
+                "end": 22
+              }
+            }
+          ]
+        },
+        {
           "path": "Test1",
           "author": "Test",
           "work": "purp. clauses",
