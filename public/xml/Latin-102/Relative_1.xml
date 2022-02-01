@@ -204,7 +204,7 @@
       <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="15" document_id="" subdoc="" span="">
-      <word id="1" form="Decius" lemma="Decius" postag="n-s---mn-" relation="ATR" head="2"/>
+      <word id="1" form="Decimus" lemma="Decius" postag="n-s---mn-" relation="ATR" head="2"/>
       <word id="2" form="Tullius" lemma="Tullius" postag="n-s---mn-" relation="SBJ" head="11"/>
       <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="4" form="cui" lemma="qui2" postag="p-s---md-" relation="OBJ" head="8"/>
