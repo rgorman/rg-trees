@@ -254,7 +254,7 @@
       <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="21" document_id="" subdoc="" span="">
-      <word id="1" form="hebere" lemma="" postag="" relation="" head=""/>
+      <word id="1" form="habere" lemma="" postag="" relation="" head=""/>
       <word id="2" form="talem" lemma="" postag="" relation="" head=""/>
       <word id="3" form="amicum" lemma="" postag="" relation="" head=""/>
       <word id="4" form="volunt" lemma="" postag="" relation="" head=""/>
