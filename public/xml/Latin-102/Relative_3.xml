@@ -24,7 +24,7 @@
       <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
   </annotator>
   
-  <sentence id="1" document_id="" subdoc="" span="">
+    <sentence id="1" document_id="" subdoc="" span="">
       <word id="1" form="eae" lemma="is" postag="a-p---fn_" relation="ATR" head="2"/>
       <word id="2" form="res" lemma="res" postag="n-p---fn-" relation="SBJ_CO" head="4"/>
       <word id="3" form="gratiores" lemma="gratus" postag="a-p---fnc" relation="PNOM" head="7"/>
@@ -446,20 +446,18 @@
       <word id="13" form="non" lemma="" postag="" relation="" head=""/>
       <word id="14" form="utitur" lemma="" postag="" relation="" head=""/>
       <word id="15" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="16" form="nihil" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="autem" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="mundo" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="melius" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="et" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="ratione" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="igitur" lemma="" postag="" relation="" head=""/>
+      <word id="23" form="mundus" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="utitur" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="29" document_id="" subdoc="" span="">
-      <word id="1" form="nihil" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="autem" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="mundo" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="melius" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="et" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="ratione" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="igitur" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="mundus" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="utitur" lemma="" postag="" relation="" head=""/>
-      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-   </sentence>
-   <sentence id="30" document_id="" subdoc="" span="">
       <word id="1" form="multas" lemma="" postag="" relation="" head=""/>
       <word id="2" form="uno" lemma="" postag="" relation="" head=""/>
       <word id="3" form="tempore" lemma="" postag="" relation="" head=""/>
@@ -486,7 +484,7 @@
       <word id="24" form="iucundae" lemma="" postag="" relation="" head=""/>
       <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="31" document_id="" subdoc="" span="">
+   <sentence id="30" document_id="" subdoc="" span="">
       <word id="1" form="omnes" lemma="" postag="" relation="" head=""/>
       <word id="2" form="hostes" lemma="" postag="" relation="" head=""/>
       <word id="3" form="terga" lemma="" postag="" relation="" head=""/>
@@ -511,7 +509,7 @@
       <word id="22" form="pervenerunt" lemma="" postag="" relation="" head=""/>
       <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="32" document_id="" subdoc="" span="">
+   <sentence id="31" document_id="" subdoc="" span="">
       <word id="1" form="constitueramus" lemma="" postag="" relation="" head=""/>
       <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="3" form="ut" lemma="" postag="" relation="" head=""/>
@@ -537,7 +535,7 @@
       <word id="23" form="audiebamus" lemma="" postag="" relation="" head=""/>
       <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="33" document_id="" subdoc="" span="">
+   <sentence id="32" document_id="" subdoc="" span="">
       <word id="1" form="Pompeius" lemma="" postag="" relation="" head=""/>
       <word id="2" form="ne" lemma="" postag="" relation="" head=""/>
       <word id="3" form="-que" lemma="" postag="" relation="" head=""/>
@@ -563,7 +561,7 @@
       <word id="23" form="poterat" lemma="" postag="" relation="" head=""/>
       <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="34" document_id="" subdoc="" span="">
+   <sentence id="33" document_id="" subdoc="" span="">
       <word id="1" form="nos" lemma="" postag="" relation="" head=""/>
       <word id="2" form="apud" lemma="" postag="" relation="" head=""/>
       <word id="3" form="Alyziam" lemma="" postag="" relation="" head=""/>
@@ -589,7 +587,7 @@
       <word id="23" form="erat" lemma="" postag="" relation="" head=""/>
       <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="35" document_id="" subdoc="" span="">
+   <sentence id="34" document_id="" subdoc="" span="">
       <word id="1" form="Crassum" lemma="" postag="" relation="" head=""/>
       <word id="2" form="Samarobrivae" lemma="" postag="" relation="" head=""/>
       <word id="3" form="praeficit" lemma="" postag="" relation="" head=""/>
