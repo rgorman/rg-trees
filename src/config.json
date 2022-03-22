@@ -137,7 +137,24 @@
               }
             }
           ]
-        },      
+        },
+        {
+          "path": "Relative_4",
+          "author": "Treebeard",
+          "work": "Temporal Relative Clauses, temporal cum, etc.",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-17",
+              "path": "Relative_3",
+              "xml": "Latin-102/Relative_4.xml",
+              "chunks": {
+                "start": 1,
+                "end": 34
+              }
+            }
+          ]
+        },           
         {
           "path": "Test1",
           "author": "Test",
