@@ -146,11 +146,11 @@
           "sections": [
             {
               "locus": "1-17",
-              "path": "Relative_3",
+              "path": "Relative_4",
               "xml": "Latin-102/Relative_4.xml",
               "chunks": {
                 "start": 1,
-                "end": 34
+                "end": 17
               }
             }
           ]
