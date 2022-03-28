@@ -150,7 +150,7 @@
       <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="13" document_id="" subdoc="" span="">
-      <word id="1" form="princeps" lemma="princeps" postag="n-s---mn-" relation="ATV" head="3"/>
+      <word id="1" form="princeps" lemma="princeps" postag="a-s---fn-" relation="ATV" head="3"/>
       <word id="2" form="decima" lemma="decimus1" postag="a-s---fn-" relation="ATR" head="3"/>
       <word id="3" form="legio" lemma="legio" postag="n-s---fn-" relation="SBJ" head="9"/>
       <word id="4" form="per" lemma="per" postag="r--------" relation="AuxP" head="9"/>
