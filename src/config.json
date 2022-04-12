@@ -188,7 +188,24 @@
               }
             }
           ]
-        },                
+        }, 
+         {
+          "path": "Indir_Statement",
+          "author": "Treebeard",
+          "work": "Indirect Statements",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-17",
+              "path": "Indir_Statement",
+              "xml": "Latin-102/Indir_Statement.xml",
+              "chunks": {
+                "start": 1,
+                "end": 17
+              }
+            }
+          ]
+        },                      
         {
           "path": "Test1",
           "author": "Test",
