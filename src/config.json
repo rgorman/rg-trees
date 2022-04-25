@@ -213,12 +213,12 @@
           "editors": "Robert Gorman",
           "sections": [
             {
-              "locus": "1-17",
+              "locus": "1-16",
               "path": "Periphrastics",
               "xml": "Latin-102/Periphrastics.xml",
               "chunks": {
                 "start": 1,
-                "end": 17
+                "end": 16
               }
             }
           ]
