@@ -28,7 +28,7 @@
       <word id="1" form="respondi" lemma="respondeo" postag="v1sria---" relation="PRED" head="0"/>
       <word id="2" form="Clodio" lemma="Clodius" postag="n-s---md-" relation="OBJ" head="1"/>
       <word id="3" form="me" lemma="ego" postag="p-s---ma-" relation="SBJ" head="6"/>
-      <word id="4" form="ita" lemma="ita" postag="d--------" relation="OBJ" head="6"/>
+      <word id="4" form="ita" lemma="ita" postag="d--------" relation="ADV" head="6"/>
       <word id="5" form="esse" lemma="sum1" postag="v--pna---" relation="AuxV" head="6"/>
       <word id="6" form="facturum" lemma="facio" postag="v-sfpama-" relation="OBJ" head="1"/>
       <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
