@@ -205,7 +205,24 @@
               }
             }
           ]
-        },  
+        },
+        {
+          "path": "Periphrastics",
+          "author": "Treebeard",
+          "work": "Periphrastics",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-17",
+              "path": "Periphrastics",
+              "xml": "Latin-102/Periphrastics.xml",
+              "chunks": {
+                "start": 1,
+                "end": 17
+              }
+            }
+          ]
+        },    
         {
           "path": "Indir_Question",
           "author": "Treebeard",
