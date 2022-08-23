@@ -224,15 +224,15 @@
           ]
         },    
         {
-          "path": "Indir_Question",
+          "path": "Misc.subj-1",
           "author": "Treebeard",
-          "work": "Indirect Questions",
+          "work": "Miscellaneous Subjunctives 1",
           "editors": "Robert Gorman",
           "sections": [
             {
-              "locus": "1-17",
-              "path": "Indir_Question",
-              "xml": "Latin-102/Indir_Question.xml",
+              "locus": "1-38",
+              "path": "Misc.subj-1",
+              "xml": "Latin-301/fall_2022/Misc_subj-1.xml",
               "chunks": {
                 "start": 1,
                 "end": 17
