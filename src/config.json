@@ -240,7 +240,24 @@
               }
             }
           ]
-        },                           
+        },
+        {
+          "path": "Phrase_equiv",
+          "author": "Treebeard",
+          "work": "Phrase Equivalent Clauses",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-20",
+              "path": "Phrase_equiv",
+              "xml": "Latin-301/fall_2022/Phrase_equiv.xml",
+              "chunks": {
+                "start": 1,
+                "end": 20
+              }
+            }
+          ]
+        },                                  
         {
           "path": "Test1",
           "author": "Test",
