@@ -242,6 +242,23 @@
           ]
         },
         {
+          "path": "Future",
+          "author": "Treebeard",
+          "work": "Futures etc.",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-20",
+              "path": "Misc_subj-1",
+              "xml": "Latin-301/fall_2022/Future.xml",
+              "chunks": {
+                "start": 1,
+                "end": 20
+              }
+            }
+          ]
+        },
+        {
           "path": "Phrase_equiv",
           "author": "Treebeard",
           "work": "Phrase Equivalent Clauses",
