@@ -182,7 +182,7 @@
       <word id="2" form="eas" lemma="is" postag="a-p---fa_" relation="ATR" head="5"/>
       <word id="3" form="ego" lemma="ego" postag="p-s---mn-" relation="SBJ" head="7"/>
       <word id="4" form="ei" lemma="is" postag="p-s---md-" relation="OBJ" head="7"/>
-      <word id="5" form="litteras" lemma="littera" postag="n-p---fa-" relation="OBJ" head="1"/>
+      <word id="5" form="litteras" lemma="littera" postag="n-p---fa-" relation="ADV" head="1"/>
       <word id="6" form="nihil" lemma="nihil" postag="n-s---na-" relation="OBJ" head="7"/>
       <word id="7" form="rescripsi" lemma="rescribo" postag="v1sria---" relation="PRED" head="0"/>
       <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
