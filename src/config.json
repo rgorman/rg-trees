@@ -293,15 +293,15 @@
           ]
         },
         {
-          "path": "Cicero_Letter-1",
+          "path": "Cicero1",
           "author": "Treebeard",
           "work": "Cicero ad Fam. 16.11.2-3",
           "editors": "Robert Gorman",
           "sections": [
             {
               "locus": "1-18",
-              "path": "Cicero_Letter-1",
-              "xml": "Latin-301/fall_2022/Cicero_Letter-1.xml",
+              "path": "Cicero1",
+              "xml": "Latin-301/fall_2022/Cicero1.xml",
               "chunks": {
                 "start": 1,
                 "end": 18
