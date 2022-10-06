@@ -54,6 +54,23 @@
           ]
         },
         {
+          "path": "Cicero1",
+          "author": "Cicero",
+          "work": "Ad Fam. 16.11",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-18",
+              "path": "Cicero1",
+              "xml": "Latin-301/fall_2022/Cicero1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 18
+              }
+            }
+          ]
+        },
+        {
           "path": "Tree_Practice1",
           "author": "Treebeard",
           "work": "review",
