@@ -71,6 +71,23 @@
           ]
         },
         {
+          "path": "Caesar_BC-1",
+          "author": "Caesar",
+          "work": "De Bello Civili",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-56",
+              "path": "Caesar_BC-1",
+              "xml": "Latin-301/fall_2022/Caesar_BC-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 56
+              }
+            }
+          ]
+        },
+        {
           "path": "Tree_Practice1",
           "author": "Treebeard",
           "work": "review",
