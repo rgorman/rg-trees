@@ -256,7 +256,7 @@
       <word id="33" form="conscripti" lemma="conscribo" postag="v-prppmn-" relation="ADV_CO" head="31"/>
       <word id="34" form="essent" lemma="edo1" postag="v3pisa---" relation="AuxV" head="31"/>
       <word id="35" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="36" form="quo" lemma="qui2" postag="a-s---nb_" relation="ATR" head="45"/>
+      <word id="36" form="quo" lemma="qui2" postag="a-s---nb_" relation="ATV" head="45"/>
       <word id="37" form="praesidio" lemma="praesidium" postag="n-s---nb-" relation="ADV" head="36"/>
       <word id="38" form="tuto" lemma="tuto" postag="d--------" relation="ADV_CO" head="39"/>
       <word id="39" form="et" lemma="et" postag="c--------" relation="COORD" head="44"/>
