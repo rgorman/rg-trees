@@ -597,7 +597,7 @@
       <word id="8" form="dubii" lemma="dubius" postag="a-p---mn-" relation="SBJ" head="9"/>
       <word id="9" form="confirmantur" lemma="confirmo" postag="v3ppip---" relation="PRED_CO" head="10"/>
       <word id="10" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
-      <word id="11" form="plerisque" lemma="plerusque" postag="a-p---mb_" relation="OBJ" head="16"/>
+      <word id="11" form="plerisque" lemma="plerusque" postag="a-p---md_" relation="OBJ" head="16"/>
       <word id="12" form="vero" lemma="vero" postag="d-------_" relation="AuxY" head="16"/>
       <word id="13" form="libere" lemma="liber1" postag="d-------_" relation="ADV" head="14"/>
       <word id="14" form="decernendi" lemma="decerno" postag="v_s_da-g-" relation="ATR" head="15"/>
