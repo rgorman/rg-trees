@@ -86,7 +86,7 @@
       <word id="2" form="in" lemma="in" postag="r--------" relation="AuxP" head="5"/>
       <word id="3" form="re" lemma="res" postag="n-s---fb-" relation="OBJ" head="2"/>
       <word id="4" form="publica" lemma="publicus" postag="a-s---fb-" relation="ATR" head="3"/>
-      <word id="5" form="introductum" lemma="introduco" postag="v-srppna-" relation="OBJ" head="7"/>
+      <word id="5" form="introductum" lemma="introduco" postag="v-srppna-" relation="ADV" head="7"/>
       <word id="6" form="exemplum" lemma="exemplum" postag="n-s---na-" relation="SBJ_AP" head="8"/>
       <word id="7" form="queritur" lemma="queror" postag="v3spid---" relation="COORD" head="0"/>
       <word id="8" form="," lemma="punc1" postag="u--------" relation="APOS" head="5"/>
