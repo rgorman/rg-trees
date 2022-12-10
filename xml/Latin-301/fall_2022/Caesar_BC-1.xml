@@ -1113,7 +1113,7 @@
       <word id="2" form="eadem" lemma="idem" postag="a-p---na_" relation="ATR" head="3"/>
       <word id="3" form="illa" lemma="ille" postag="p-p---na-" relation="SBJ" head="10"/>
       <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="5" form="quae" lemma="qui2" postag="p-p---na-" relation="SBJ" head="8"/>
+      <word id="5" form="quae" lemma="qui2" postag="p-p---na-" relation="OBJ" head="8"/>
       <word id="6" form="per" lemma="per" postag="r--------" relation="AuxP" head="8"/>
       <word id="7" form="Scipionem" lemma="Scipio" postag="n-s---ma-" relation="ADV" head="6"/>
       <word id="8" form="ostenderat" lemma="ostendo" postag="v3slia---" relation="ATR" head="3"/>
