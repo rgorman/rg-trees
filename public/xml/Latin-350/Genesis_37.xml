@@ -459,7 +459,7 @@
       <word id="1" form="audivi" lemma="audio" postag="v1sria---" relation="PRED" head="0"/>
       <word id="2" form="autem" lemma="autem" postag="d-------_" relation="AuxY" head="1"/>
       <word id="3" form="eos" lemma="is" postag="p-p---ma-" relation="OBJ" head="1"/>
-      <word id="4" form="dicentes" lemma="dico2" postag="v-ppp-ma-" relation="ATR" head="3"/>
+      <word id="4" form="dicentes" lemma="dico2" postag="v-ppp-ma-" relation="ATV" head="3"/>
       <word id="5" form=":" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="6" form="Eamus" lemma="eo1" postag="v1ppsa---" relation="OBJ" head="4"/>
       <word id="7" form="in" lemma="in" postag="r--------" relation="AuxP" head="6"/>
