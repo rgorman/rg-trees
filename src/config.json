@@ -122,6 +122,23 @@
           ]
         },
         {
+          "path": "Genesis_39-41",
+          "author": "Vulgate",
+          "work": "Genesis",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-145",
+              "path": "Genesis_39-41",
+              "xml": "Latin-350/Genesis_37-41.xml",
+              "chunks": {
+                "start": 1,
+                "end": 145
+              }
+            }
+          ]
+        },
+        {
           "path": "Tree_Practice1",
           "author": "Treebeard",
           "work": "review",
