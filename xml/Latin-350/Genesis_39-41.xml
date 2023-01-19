@@ -428,7 +428,7 @@
       <word id="7" form="ostendit" lemma="ostendo" postag="v3sria---" relation="PRED_CO" head="12"/>
       <word id="8" form="marito" lemma="maritus" postag="n-s---md-" relation="OBJ_CO" head="7"/>
       <word id="9" form="revertenti" lemma="reverto" postag="v-spp-md-" relation="ATR" head="8"/>
-      <word id="10" form="domum" lemma="domus" postag="n-s---fa-" relation="OBJ_CO" head="9"/>
+      <word id="10" form="domum" lemma="domus" postag="n-s---fa-" relation="OBJ" head="9"/>
       <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="12" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
       <word id="13" form="ait" lemma="aio" postag="v3sria---" relation="PRED_CO" head="12"/>
