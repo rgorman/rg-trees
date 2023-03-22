@@ -139,6 +139,23 @@
           ]
         },
         {
+          "path": "Demosthenes_47",
+          "author": "Demosthenes",
+          "work": "Against Evergus and Mnesibulus",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-16",
+              "path": "Tree_Practice1",
+              "xml": "Latin-102/Tree_Practice1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 16
+              }
+            }
+          ]
+        },
+        {
           "path": "Tree_Practice1",
           "author": "Treebeard",
           "work": "review",
@@ -520,12 +537,12 @@
           "editors": "Vanessa Gorman",
           "sections": [
             {
-              "locus": "1-31",
-              "path": "antiphon-1-bu2",
-              "xml": "antiphon-1-bu2.xml",
+              "locus": "1-82",
+              "path": "Demosthenes_47",
+              "xml": "Demosthenes_47.xml",
               "chunks": {
                 "start": 1,
-                "end": 94
+                "end": 205
               }
             }
           ]
