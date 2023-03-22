@@ -145,12 +145,12 @@
           "editors": "Vanessa Gorman",
           "sections": [
             {
-              "locus": "1-16",
-              "path": "Tree_Practice1",
-              "xml": "Latin-102/Tree_Practice1.xml",
+              "locus": "1-82",
+              "path": "Demosthenes_47",
+              "xml": "Demosthenes_47.xml",
               "chunks": {
                 "start": 1,
-                "end": 16
+                "end": 205
               }
             }
           ]
