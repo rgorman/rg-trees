@@ -173,6 +173,23 @@
           ]
         },
         {
+          "path": "Genesis_43b",
+          "author": "Vulgate",
+          "work": "Genesis",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-76",
+              "path": "Genesis_43b",
+              "xml": "Latin-350/Genesis_43b.xml",
+              "chunks": {
+                "start": 1,
+                "end": 76
+              }
+            }
+          ]
+        },
+        {
           "path": "Demosthenes_47",
           "author": "Demosthenes",
           "work": "Against Evergus and Mnesibulus",
