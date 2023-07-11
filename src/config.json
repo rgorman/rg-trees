@@ -190,6 +190,23 @@
           ]
         },
         {
+          "path": "dem 45 tree",
+          "author": "Demosthenes",
+          "work": "Against Stephanus 1",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-88",
+              "path": "dem 45 tree",
+              "xml": "dem 45 tree.xml",
+              "chunks": {
+                "start": 1,
+                "end": 312
+              }
+            }
+          ]
+        },
+        {
           "path": "Demosthenes_47",
           "author": "Demosthenes",
           "work": "Against Evergus and Mnesibulus",
