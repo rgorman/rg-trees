@@ -207,6 +207,23 @@
           ]
         },
         {
+          "path": "Glaux_Dem-045",
+          "author": "Demosthenes",
+          "work": "Against Stephanus 1",
+          "editors": "Pedalion",
+          "sections": [
+            {
+              "locus": "1-88",
+              "path": "Glaux_Dem-045",
+              "xml": "dGlaux_Dem-045.xml",
+              "chunks": {
+                "start": 1,
+                "end": 308
+              }
+            }
+          ]
+        },
+        {
           "path": "Demosthenes_47",
           "author": "Demosthenes",
           "work": "Against Evergus and Mnesibulus",
