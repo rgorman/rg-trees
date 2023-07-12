@@ -241,6 +241,23 @@
           ]
         },
         {
+          "path": "Cicero_Ad_Att_Selections",
+          "author": "Cicero",
+          "work": "Letters to Atticus",
+          "editors": "Kelly Zach",
+          "sections": [
+            {
+              "locus": "13-16",
+              "path": "Cicero_Ad_Att_Selections",
+              "xml": "Cicero_Ad_Att_Selections.xml",
+              "chunks": {
+                "start": 1,
+                "end": 186
+              }
+            }
+          ]
+        },
+        {
           "path": "Tree_Practice1",
           "author": "Treebeard",
           "work": "review",
