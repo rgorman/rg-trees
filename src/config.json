@@ -411,6 +411,23 @@
           ]
         },
         {
+          "path": "Indir_Question",
+          "author": "Treebeard",
+          "work": "Indirect Questions",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-17",
+              "path": "Indir_Question",
+              "xml": "Latin-102/Indir_Question.xml",
+              "chunks": {
+                "start": 1,
+                "end": 17
+              }
+            }
+          ]
+        },
+        {
           "path": "Periphrastics",
           "author": "Treebeard",
           "work": "Periphrastics",
