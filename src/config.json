@@ -583,17 +583,17 @@
         },
         {
           "path": "Ovid_ars_amatoria-1",
-          "author": "Caesar",
-          "work": "Bellum Gallicum",
+          "author": "Ovid",
+          "work": "Ars poetica",
           "editors": "Robert Gorman",
           "sections": [
             {
-              "locus": "1-161",
+              "locus": "1-181",
               "path": "Ovid_ars_amatoria-1",
               "xml": "Latin-302/Ovid_ars_amatoria-1.xml",
               "chunks": {
                 "start": 1,
-                "end": 161
+                "end": 181
               }
             }
           ]
