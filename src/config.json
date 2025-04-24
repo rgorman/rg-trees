@@ -588,12 +588,12 @@
           "editors": "Robert Gorman",
           "sections": [
             {
-              "locus": "1-210",
+              "locus": "1-242",
               "path": "Ovid_ars_amatoria-1",
               "xml": "Latin-302/Ovid_ars_amatoria-1.xml",
               "chunks": {
                 "start": 1,
-                "end": 210
+                "end": 240
               }
             }
           ]
