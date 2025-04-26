@@ -3331,16 +3331,16 @@
              document_id="http://perseids.org/cts5/nemo/citations/urn:cts:latinLit:phi0959.phi004.perseus-lat2"
              subdoc="1.421-1.568"
              span="">
-      <word id="1" form="sonuerunt" lemma="sono" postag="v3pria---" relation="PRED_CO" head="6"/>
-      <word id="2" form="cymbala" lemma="cymbalum" postag="n-p---nn-" relation="SBJ" head="1"/>
+      <word id="1" form="sonuerunt" lemma="sono" postag="v3pria---" relation="PRED" head="0"/>
+      <word id="2" form="cymbala" lemma="cymbalum" postag="n-p---nn-" relation="SBJ_CO" head="6"/>
       <word id="3" form="toto" lemma="totus1" postag="a-s---nb-" relation="ATR" head="4"/>
       <word id="4" form="Litore" lemma="litus3" postag="n-s---nb-" relation="" head="1"/>
       <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="6" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
-      <word id="7" form="adtonita" lemma="ad-tono" postag="v-prppnn-" relation="PRED_CO" head="6"/>
-      <word id="8" form="tympana" lemma="tympanum" postag="n-p---nn-" relation="SBJ" head="7"/>
+      <word id="6" form="et" lemma="et" postag="c--------" relation="COORD" head="1"/>
+      <word id="7" form="adtonita" lemma="ad-tono" postag="v-prppnn-" relation="ATR" head="10"/>
+      <word id="8" form="tympana" lemma="tympanum" postag="n-p---nn-" relation="SBJ_CO" head="6"/>
       <word id="9" form="pulsa" lemma="pello" postag="v-prppnn-" relation="ATR" head="8"/>
-      <word id="10" form="manu" lemma="manus1" postag="n-s---fb-" relation="" head="9"/>
+      <word id="10" form="manu" lemma="manus1" postag="n-s---fb-" relation="ADV" head="9"/>
       <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="221"
