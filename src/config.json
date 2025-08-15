@@ -599,6 +599,23 @@
           ]
         },
         {
+          "path": "Tusculans_Reading-1",
+          "author": "Cicero",
+          "work": "Tusculan Disputations",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-58",
+              "path": "Tusculans_Reading-1",
+              "xml": "Latin_491/Tusculans_Reading-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 58
+              }
+            }
+          ]
+        },
+        {
           "path": "Final-exam-trees",
           "author": "Caesar",
           "work": "Bellum Gallicum",
