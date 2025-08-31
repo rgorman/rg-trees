@@ -38,7 +38,7 @@
              document_id="urn:cts:latinLit:phi0474.phi049.perseus-lat1"
              subdoc="1.1-1.10"
              span="">
-      <word id="1" form="Is" lemma="is" postag="p-s---md-" relation="ADV_CO" head="8"/>
+      <word id="1" form="Is" lemma="is" postag="p-p---md-" relation="ADV_CO" head="8"/>
       <word id="2" form="-ne" lemma="ne1" postag="d--------" relation="AuxY" head="8"/>
       <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="4" form="qui" lemma="qui2" postag="p-p---mn-" relation="SBJ" head="6"/>
@@ -46,7 +46,7 @@
       <word id="6" form="sunt" lemma="sum1" postag="v3ppia---" relation="ATR" head="1"/>
       <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="8" form="an" lemma="an" postag="c--------" relation="COORD" head="15"/>
-      <word id="9" form="is" lemma="is" postag="p-s---md-" relation="ADV_CO" head="8"/>
+      <word id="9" form="is" lemma="is" postag="p-p---md-" relation="ADV_CO" head="8"/>
       <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="11" form="quibus" lemma="qui2" postag="p-p---md-" relation="OBJ" head="12"/>
       <word id="12" form="moriendum" lemma="morior" postag="v-s-g-nn-" relation="ATR" head="9"/>
@@ -620,17 +620,17 @@
       <word id="5" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
       <word id="6" form="tamen" lemma="tamen" postag="d--------" relation="AuxY" head="18"/>
       <word id="7" form="miseros" lemma="miser" postag="a-p---ma-" relation="PNOM" head="19"/>
-      <word id="8" form="ob" lemma="ob" postag="r--------" relation="AuxP" head="19"/>
-      <word id="9" form="id" lemma="is" postag="p-s---na-" relation="ADV" head="8"/>
+      <word id="8" form="ob" lemma="ob" postag="r--------" relation="AuxP" head="12"/>
+      <word id="9" form="id" lemma="is" postag="p-s---na-" relation="ADV_AP" head="8"/>
       <word id="10" form="ipsum" lemma="ipse" postag="a-s---na_" relation="ATR" head="9"/>
       <word id="11" form="quidem" lemma="quidem" postag="d--------" relation="AuxZ" head="9"/>
-      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="13" form="quia" lemma="quia" postag="c--------" relation="AuxC" head="9"/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="APOS" head="19"/>
+      <word id="13" form="quia" lemma="quia" postag="c--------" relation="AuxC" head="12"/>
       <word id="14" form="nulli" lemma="nullus" postag="a-p---mn-" relation="PNOM" head="15"/>
-      <word id="15" form="sint" lemma="sum1" postag="v3ppsa---" relation="ADV" head="13"/>
+      <word id="15" form="sint" lemma="sum1" postag="v3ppsa---" relation="ADV_AP" head="13"/>
       <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="17" insertion_id="0016e" artificial="elliptic" relation="PRED_CO" lemma="puto" postag="v2spia---" form="putas" head="5"/>
-      <word id="18" insertion_id="0016f" artificial="elliptic" relation="PRED_CO" lemma="puto" postag="v2spia---" form="putas" head="5"/>
+      <word id="17" insertion_id="0016e" artificial="elliptic" relation="PRED_CO" lemma="puto" postag="v1spia---" form="puto" head="5"/>
+      <word id="18" insertion_id="0016f" artificial="elliptic" relation="PRED_CO" lemma="puto" postag="v1spia---" form="puto" head="5"/>
       <word id="19" insertion_id="0016g" artificial="elliptic" relation="OBJ" lemma="sum1" postag="v--pna---" form="esse" head="18"/>
    </sentence>
    <sentence id="39"
