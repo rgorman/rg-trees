@@ -605,12 +605,12 @@
           "editors": "Robert Gorman",
           "sections": [
             {
-              "locus": "1-130",
+              "locus": "1-184",
               "path": "Tusculans_Reading-1",
               "xml": "Latin_491/Tusculans_Reading-1.xml",
               "chunks": {
                 "start": 1,
-                "end": 130
+                "end": 184
               }
             }
           ]
