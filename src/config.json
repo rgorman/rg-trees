@@ -615,6 +615,23 @@
             }
           ]
         },
+         {
+          "path": "anthology_sentences-1",
+          "author": "poetae_selecti",
+          "work": "Greek Anthology",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-37",
+              "path": "anthology_sentences-1",
+              "xml": "Greek-302/anthology_sentences-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 37
+              }
+            }
+          ]
+        },
         {
           "path": "Final-exam-trees",
           "author": "Caesar",
