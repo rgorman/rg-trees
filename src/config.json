@@ -622,12 +622,12 @@
           "editors": "Robert Gorman",
           "sections": [
             {
-              "locus": "1-49",
+              "locus": "1-58",
               "path": "anthology_sentences-1",
               "xml": "Greek-302/anthology_sentences-1.xml",
               "chunks": {
                 "start": 1,
-                "end": 49
+                "end": 58
               }
             }
           ]
