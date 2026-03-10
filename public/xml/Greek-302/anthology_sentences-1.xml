@@ -899,58 +899,143 @@
       <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="20" form="”" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="57" document_id="" subdoc="" span="">
-      <word id="1" form="Ὡγρευτής" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="3" form="Ἐπίκυδες" lemma="Ἐπικύδης" postag="n-s---mv-" relation="" head=""/>
-      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="5" form="ἐν" lemma="ἐν" postag="r--------" relation="" head=""/>
-      <word id="6" form="οὔρεσι" lemma="ὄρος" postag="n-p---nd-" relation="" head=""/>
-      <word id="7" form="πάντα" lemma="πᾶς" postag="a-s---ma-" relation="" head=""/>
-      <word id="8" form="λαγωὸν" lemma="λαγῶς" postag="n-s---ma-" relation="" head=""/>
-      <word id="9" form="διφᾷ" lemma="διφάω" postag="v2spse---" relation="" head=""/>
-      <word id="10" form="καὶ" lemma="καί" postag="c--------" relation="" head=""/>
-      <word id="11" form="πάσης" lemma="πᾶς" postag="a-s---fg-" relation="" head=""/>
-      <word id="12" form="ἴχνια" lemma="ἴχνιον" postag="n-p---nn-" relation="" head=""/>
-      <word id="13" form="δορκαλίδος" lemma="δορκαλίς" postag="n-s---fg-" relation="" head=""/>
-      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="15" form="στίβῃ" lemma="στίβη" postag="n-s---fd-" relation="" head=""/>
-      <word id="16" form="καὶ" lemma="καί" postag="c--------" relation="" head=""/>
-      <word id="17" form="νιφετῷ" lemma="νιφετός" postag="n-s---md-" relation="" head=""/>
-      <word id="18" form="κεχρημένος·" lemma="χράω2" postag="v-srpemn-" relation="" head=""/>
-      <word id="19" form="ἢν" lemma="ἐάν" postag="c--------" relation="" head=""/>
-      <word id="20" form="δέ" lemma="δέ" postag="d--------" relation="" head=""/>
-      <word id="21" form="τις" lemma="τις" postag="p-s---mn-" relation="" head=""/>
-      <word id="22" form="εἴπῃ" lemma="εἶπον" postag="v2sasm---" relation="" head=""/>
-      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="24" form="“Τῆ" lemma="" postag="" relation="" head=""/>
-      <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="26" form="τόδε" lemma="ὅδε" postag="p-s---nn-" relation="" head=""/>
-      <word id="27" form="βέβληται" lemma="βάλλω" postag="v3srie---" relation="" head=""/>
-      <word id="28" form="θηρίον" lemma="θηράω" postag="v-sppamv-" relation="" head=""/>
-      <word id="29" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="30" form="”" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="31" form="οὐκ" lemma="οὐ" postag="d--------" relation="" head=""/>
-      <word id="32" form="ἔλαβεν" lemma="λάπτω" postag="v3paip---" relation="" head=""/>
-      <word id="33" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   <sentence id="57">
+      <word id="1" form="Ὡγρευτής" lemma="ἀγρευτής" postag="n-s---mn-" relation="SBJ" head="9" />
+      <word id="2" form="," lemma="" postag="" relation="AuxX" head="9" />
+      <word id="3" form="Ἐπίκυδες" lemma="Ἐπικύδης" postag="n-s---mv-" relation="ExD" head="9" />
+      <word id="4" form="," lemma="" postag="" relation="AuxX" head="9" />
+      <word id="5" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="9" />
+      <word id="6" form="οὔρεσι" lemma="ὄρος" postag="n-p---nd-" relation="ADV" head="5" />
+      <word id="7" form="πάντα" lemma="πᾶς" postag="a-s---ma-" relation="ATR" head="8" />
+      <word id="8" form="λαγωὸν" lemma="λαγῶς" postag="n-s---ma-" relation="OBJ_CO" head="10" />
+      <word id="9" form="διφᾷ" lemma="διφάω" postag="v2spi----" relation="" head="root" />
+      <word id="10" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="9" />
+      <word id="11" form="πάσης" lemma="πᾶς" postag="a-s---fg-" relation="ATR" head="13" />
+      <word id="12" form="ἴχνια" lemma="ἴχνιον" postag="n-p---na-" relation="OBJ_CO" head="10" />
+      <word id="13" form="δορκαλίδος" lemma="δορκαλίς" postag="n-s---fg-" relation="ATR" head="12" />
+      <word id="14" form="," lemma="" postag="" relation="AuxX" head="9" />
+      <word id="15" form="στίβῃ" lemma="στίβη" postag="n-s---fd-" relation="OBJ_CO" head="16" />
+      <word id="16" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="18" />
+      <word id="17" form="νιφετῷ" lemma="νιφετός" postag="n-s---md-" relation="OBJ_CO" head="16" />
+      <word id="18" form="κεχρημένος" lemma="χράω2" postag="v-srp-mn-" relation="" head="1" />
+      <word id="19" form="." lemma="" postag="" relation="AuxX" head="9" />
    </sentence>
-   <sentence id="58" document_id="" subdoc="" span="">
-      <word id="1" form="οὑμὸς" lemma="" postag="" relation="" head=""/>
-      <word id="2" form="ἔρως" lemma="" postag="" relation="" head=""/>
-      <word id="3" form="τοιόσδε·" lemma="" postag="" relation="" head=""/>
-      <word id="4" form="τὰ" lemma="" postag="" relation="" head=""/>
-      <word id="5" form="μὲν" lemma="" postag="" relation="" head=""/>
-      <word id="6" form="φεύγοντα" lemma="" postag="" relation="" head=""/>
-      <word id="7" form="διώκειν" lemma="" postag="" relation="" head=""/>
-      <word id="8" form="οἶδε" lemma="" postag="" relation="" head=""/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="10" form="τὰ" lemma="" postag="" relation="" head=""/>
-      <word id="11" form="δ’" lemma="" postag="" relation="" head=""/>
-      <word id="12" form="ἐν" lemma="" postag="" relation="" head=""/>
-      <word id="13" form="μέσσῳ" lemma="" postag="" relation="" head=""/>
-      <word id="14" form="κείμενα" lemma="" postag="" relation="" head=""/>
-      <word id="15" form="παρπέταται" lemma="" postag="" relation="" head=""/>
-      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      
+      
+      
+   <sentence id="58">
+      <word id="1" form="ἢν" lemma="ἤν" postag="i--------" relation="AuxC" head="15" />
+      <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="15" />
+      <word id="3" form="τις" lemma="τις" postag="p-s---fn-" relation="SBJ" head="1" />
+      <word id="4" form="εἴπῃ" lemma="εἶπον" postag="v3sasa---" relation="" head="1" />
+      <word id="5" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="6" form="“" lemma="τῆ" postag="v2sama---" relation="" head="root" />
+      <word id="7" form="Τῆ" lemma="τῆ" postag="d--------" relation="ADV" head="10" />
+      <word id="8" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="9" form="τόδε" lemma="ὅδε" postag="a-s---nn-" relation="ATR" head="11" />
+      <word id="10" form="βέβληται" lemma="βάλλω" postag="v3sri----" relation="OBJ" head="4" />
+      <word id="11" form="θηρίον" lemma="θηρίον" postag="n-s---nn-" relation="SBJ" head="10" />
+      <word id="12" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="13" form="”" lemma="" postag="" relation="" head="" />
+      <word id="14" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="15" />
+      <word id="15" form="ἔλαβεν" lemma="λαμβάνω" postag="v3saia---" relation="PRED" head="0" />
+      <word id="16" form="." lemma="" postag="" relation="AuxX" head="0" />
    </sentence>
+   <sentence id="59">
+      <word id="1" form="οὑμὸς" lemma="οὑμὸς" postag="a-s---mn_" relation="ATR" head="2" />
+      <word id="2" form="ἔρως" lemma="ἔρος1" postag="n-p---ma-" relation="SBJ" head="5" />
+      <word id="3" form="τοιόσδε" lemma="τοιόσδε" postag="p-s---mn-" relation="PNOM" head="5" />
+      <word id="4" form="." lemma="" postag="" relation="AuxX" head="0" />
+      <word id="5" form="ἐστί" lemma="ειμι" postag="v3spia---" relation="PRED" head="0" />
+   </sentence>
+   <sentence id="60">
+      <word id="1" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="3" />
+      <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="3" />
+      <word id="3" form="φεύγοντα" lemma="φεύγω" postag="v-pppana-" relation="OBJ" head="4" />
+      <word id="4" form="διώκειν" lemma="διώκω" postag="v--pna---" relation="OBJ" head="5" />
+      <word id="5" form="οἶδε" lemma="οἶδα" postag="v3sria---" relation="PRED_CO" head="8" />
+      <word id="6" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="7" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="11" />
+      <word id="8" form="δ’" lemma="δέ" postag="c--------" relation="COORD" head="0" />
+      <word id="9" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="11" />
+      <word id="10" form="μέσσῳ" lemma="μέσος" postag="a-s---nd-" relation="ADV" head="9" />
+      <word id="11" form="κείμενα" lemma="κεῖμαι" postag="v-prp-na-" relation="OBJ" head="12" />
+      <word id="12" form="παρπέταται" lemma="παραπέτομαι" postag="v3spi----" relation="PRED_CO" head="8" />
+      <word id="13" form="." lemma="" postag="" relation="AuxX" head="0" />
+   </sentence>
+   <sentence id="61">
+      <word id="1" form="Εἰκοσέτους" lemma="εἰκοσέτης" postag="a-s---mg-" relation="ATR" head="3" />
+      <word id="2" form="σωθέντος" lemma="σώζω" postag="v-sappmg-" relation="ATV" head="3" />
+      <word id="3" form="Ὀδυσσέος" lemma="Ὀδυσσεύς" postag="n-s---mg-" relation="ATR" head="9" />
+      <word id="4" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="2" />
+      <word id="5" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="6" />
+      <word id="6" form="πατρῷα" lemma="πατρῷος" postag="a-p---na-" relation="OBJ" head="4" />
+      <word id="7" form="ἔγνω" lemma="γιγνώσκω" postag="v3saia---" relation="PRED" head="root" />
+      <word id="8" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="9" />
+      <word id="9" form="μορφὴν" lemma="μορφή" postag="n-s---fa-" relation="" head="11" />
+      <word id="10" form="Ἄργος" lemma="Ἄργος" postag="n-s---nn-" relation="SBJ" head="7" />
+      <word id="11" form="ἰδὼν" lemma="εἶδον" postag="v-sapamn-" relation="ADV" head="7" />
+      <word id="12" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="13" />
+      <word id="13" form="κύων" lemma="κύων" postag="n-s----n-" relation="ATR" head="10" />
+      <word id="14" form="." lemma="" postag="" relation="AuxX" head="0" />
+   </sentence>
+   <sentence id="62">
+      <word id="1" form="ἀλλὰ" lemma="ἀλλά" postag="c--------" relation="COORD" head="σὺ" />
+      <word id="2" form="σὺ" lemma="σύ" postag="p2s---mn-" relation="SBJ" head="18" />
+      <word id="3" form="πυκτεύσας" lemma="πυκτεύω" postag="v-sapamn-" relation="ATV" head="2" />
+      <word id="4" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="5" form="Στρατοφῶν" lemma="Στρατοφῶν" postag="n-s---mv-" relation="" head="18" />
+      <word id="6" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="7" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="3" />
+      <word id="8" form="τέσσαρας" lemma="τέσσαρες" postag="a-p---fa-" relation="ATR" head="9" />
+      <word id="9" form="ὥρας" lemma="ὁράω" postag="v2siia---" relation="ADV" head="7" />
+      <word id="10" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="11" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="12" />
+      <word id="12" form="κυσὶν" lemma="κύων" postag="n-p---md-" relation="ADV_CO" head="16" />
+      <word id="13" form="ἄγνωστος" lemma="ἄγνωστος" postag="a-s---mn-" relation="" head="18" />
+      <word id="14" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="15" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="17" />
+      <word id="16" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" head="13" />
+      <word id="17" form="πόλει" lemma="πόλις" postag="n-s---fd-" relation="ADV_CO" head="16" />
+      <word id="18" form="γέγονας" lemma="γίγνομαι" postag="v2sria---" relation="PRED_CO" head="1" />
+      <word id="19" form="." lemma="" postag="" relation="AuxX" head="0" />
+   </sentence>
+   <sentence id="63">
+      <word id="1" form="ἢν" lemma="ἐάν" postag="c--------" relation="" head="15" />
+      <word id="2" form="ἐθέλῃς" lemma="ἐθέλω" postag="v2spsa---" relation="OBJ" head="1" />
+      <word id="3" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="4" />
+      <word id="4" form="πρόσωπον" lemma="πρόσωπον" postag="n-s---na-" relation="OBJ" head="5" />
+      <word id="5" form="ἰδεῖν" lemma="εἶδον" postag="v--ana---" relation="OBJ" head="2" />
+      <word id="6" form="ἐς" lemma="εἰς" postag="r--------" relation="AuxP" head="5" />
+      <word id="7" form="ἔσοπτρον" lemma="ἔσοπτρον" postag="n-s---na-" relation="ADV" head="6" />
+      <word id="8" form="ἑαυτοῦ" lemma="ἑαυτοῦ" postag="p-s---ng-" relation="ATR" head="4" />
+      <word id="9" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="10" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="11" />
+      <word id="11" form="εἰμὶ" lemma="εἰμί" postag="v1spia---" relation="OBJ" head="15" />
+      <word id="12" form="Στρατοφῶν" lemma="Στρατοφῶν" postag="n-s---mn-" relation="PNOM" head="11" />
+      <word id="13" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="14" form="αὐτὸς" lemma="αὐτός" postag="p-s---mn-" relation="AtvV" head="15" />
+      <word id="15" form="ἐρεῖς" lemma="ἐρῶ" postag="v2sfia---" relation="PRED" head="root" />
+      <word id="16" form="ὀμόσας" lemma="ὄμνυμι" postag="v-sapamn-" relation="AtvV" head="15" />
+      <word id="17" form="." lemma="" postag="" relation="AuxX" head="0" />
+   </sentence>
+   <sentence id="64">
+      <word id="1" form="Ἑρμογένη" lemma="Ἑρμογένης" postag="n-d---ma-" relation="OBJ" head="4" />
+      <word id="2" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="3" />
+      <word id="3" form="ἰατρὸν" lemma="ἰατρός" postag="n-s---ma-" relation="ATR" head="1" />
+      <word id="4" form="ἰδὼν" lemma="εἶδον" postag="v-sapamn-" relation="ADV" head="10" />
+      <word id="5" form="Διόφαντος" lemma="Διόφαντος" postag="n-s---mn-" relation="SBJ" head="10" />
+      <word id="6" form="ἐν" lemma="εἰς" postag="r--------" relation="" head="4" />
+      <word id="7" form="ὕπνοις" lemma="ὕπνος" postag="n-p---md-" relation="ADV" head="6" />
+      <word id="8" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="10" />
+      <word id="9" form="έτʼ" lemma="ἔτι" postag="d--------" relation="ADV" head="10" />
+      <word id="10" form="ἀνηγέρθη" lemma="ἀνεγείρω" postag="v3saip---" relation="PRED" head="0" />
+      <word id="11" form="," lemma="" postag="" relation="AuxX" head="0" />
+      <word id="12" form="καὶ" lemma="καί" postag="c--------" relation="ADV" head="14" />
+      <word id="13" form="περίαμμα" lemma="περίαμμα" postag="n-s---na-" relation="OBJ" head="14" />
+      <word id="14" form="φέρων" lemma="φέρω" postag="v-sppamn-" relation="" head="5" />
+      <word id="15" form="." lemma="" postag="" relation="AuxX" head="0" />
+   </sentence>
+      
       
 </treebank>
