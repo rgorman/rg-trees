@@ -1114,7 +1114,7 @@
       <word id="19" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="20" />
       <word id="20" form="κάτοπτρον" lemma="κάτοπτρον" postag="n-s---na-" relation="OBJ" head="22" />
       <word id="21" form="." lemma="" postag="" relation="AuxX" head="0" />
-      <word id="22" form="ἀνέθηκε" lemma="ἀνατίθημι" postag="v3saia---" relation="PRED" head="root" />
+      <word id="22" form="ἀνέθηκε" lemma="ἀνατίθημι" postag="v3saia---" relation="PRED" head="0" />
    </sentence>
    <sentence id="69">
       <word id="1" form="ἐπεὶ" lemma="ἐπεί" postag="d--------" relation="AuxY" head="9" />
