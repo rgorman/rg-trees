@@ -1040,7 +1040,7 @@
       <word id="1" form="νυκτικόραξ" lemma="νυκτικόραξ" postag="n-s---mn-" relation="SBJ" head="2" />
       <word id="2" form="ᾄδει" lemma="ἀείδω" postag="v3spia---" relation="PRED_CO" head="4" />
       <word id="3" form="θανατηφόρον" lemma="θανατηφόρος" postag="a-s---na-" relation="OBJ" head="2" />
-      <word id="4" form="ἀλλʼ" lemma="ἀλλά" postag="c--------" relation="COORD" head="root" />
+      <word id="4" form="ἀλλʼ" lemma="ἀλλά" postag="c--------" relation="COORD" head="0" />
       <word id="5" form="ὅταν" lemma="ὅταν" postag="c--------" relation="AuxC" head="9" />
       <word id="6" form="ᾅσῃ" lemma="ἀείδω" postag="v3sasa---" relation="ADV" head="5" />
       <word id="7" form="Δημόφιλος" lemma="Δημόφιλος" postag="n-s---mn-" relation="SBJ" head="6" />
