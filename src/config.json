@@ -633,6 +633,24 @@
           ]
         },
         {
+          "path": "notes-1_treebank",
+          "author": "various",
+          "work": "selections",
+          "editors": "Robert Gorman",
+          "sections": [
+            {
+              "locus": "1-47",
+              "path": "notes-1_treebank",
+              "xml": "Latin-301/fall_2026/notes-1_treebank.xml",
+              "chunks": {
+                "start": 1,
+                "end": 47
+              }
+            }
+          ]
+        },
+        
+        {
           "path": "Final-exam-trees",
           "author": "Caesar",
           "work": "Bellum Gallicum",
